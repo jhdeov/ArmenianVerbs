@@ -12,7 +12,7 @@ For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use 
 ## Types of files
 Paradigms are provided in four types of files:
 1) `paradigms_arm.tsv`: Paradigms are presented in the Armenian script.
-2) `paradigms_trans.tsv`: Paradigms are presented in their transliterated form, using the transliteration key described in the [transliteration key](./transliteration.md).
+2) `paradigms_trans.tsv`: Paradigms are presented in their transliterated form, using the transliteration key described in the [transliteration key](../transliteration.md).
 3) `paradigms_arm_stem.tsv`: Paradigms are presented in the Armenian script. Paradigm cells are segmented into a stem and affixes. 
 3) `paradigms_trans_stem.tsv`: Paradigms are presented in their transliterated form, using the transliteration key described in `transliteration.md`. Paradigm cells are segmented into a stem and affixes. 
 
