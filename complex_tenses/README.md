@@ -1,6 +1,6 @@
 # Complex tenses
 
-Most meanings are marked by adding a suffix to the verb. But some paradigm cells utilize periphrasis or clitics. The list of complexconstructions is taken from Boyacioglu 2010.
+Most meanings are marked by adding a suffix to the verb. But some paradigm cells utilize periphrasis or clitics. The list of complex constructions is taken from Boyacioglu 2010. 
 
 ## Types of complex-tense files
 
@@ -32,6 +32,8 @@ The constructions are listed starting from the second row. Information about eve
 1) **Template**: Order in which the verb and the other morphemes appear in the construction.
 
 The construction can also utilize either auxilaries or simple morphemes like clitics. For example, the simple future uses the `Fut` clitic before the verb. A list of these clitics is described in the [particles](particles.tsv) file.
+
+Boyacioglu 2010 doesn't discuss progressive constructions. We added those.
 
 ## Inflection for person
 For simple verbs, Armenian has three persons (1,2,3) and distingushes singulars from plurals. Most of the complex tense constructions also mark person and nubmer. For example, for the `simple future`, the verb is described with the `subjunctive present` shape. But, its actual form ranges from `subjunctive present 1sg` to `subjunctive present 3pl`. 
