@@ -11,14 +11,14 @@ For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use 
 
 ## Types of files
 Paradigms are provided in four types of files:
-1) [paradigms_arm](paradigms_arm.tsv): Paradigms are presented in the Armenian script.
-2) [paradigms_trans](paradigms_trans.tsv): Paradigms are presented in their transliterated form
-3) [paradigms_arm_stemmed](paradigms_arm_stemmed.tsv): Paradigms are presented in the Armenian script. Paradigm cells are segmented into a stem and affixes. 
-4) [paradigms_trans_stemmed](paradigms_trans_stemmed.tsv): Paradigms are presented in their transliterated form. Paradigm cells are segmented into a stem and affixes. 
+1) [paradigms_arm](paradigms_tsv/paradigms_arm.tsv): Paradigms are presented in the Armenian script.
+2) [paradigms_trans](paradigms_tsv/paradigms_trans.tsv): Paradigms are presented in their transliterated form
+3) [paradigms_arm_stemmed](paradigms_tsv/paradigms_arm_stemmed.tsv): Paradigms are presented in the Armenian script. Paradigm cells are segmented into a stem and affixes. 
+4) [paradigms_trans_stemmed](paradigms_tsv/paradigms_trans_stemmed.tsv): Paradigms are presented in their transliterated form. Paradigm cells are segmented into a stem and affixes. 
 
 The transliterated forms are generated based on  the [transliteration key](../transliteration.md).
 ## Structure of paradigm file
-In this folder, we provide `xlxs` and `tsv` files which illustrates these classes. The structure of a file looks like the following. This is taken from the transliterated [paradigms_trans](paradigms_trans.tsv) file.
+In this folder, we provide `xlxs` and `tsv` files which illustrates these classes. The structure of a file looks like the following. This is taken from the transliterated [paradigms_trans](paradigms_tsv/paradigms_trans.tsv) file.
 
 |Regularity	|Regular|	...| Suppletive|...|
 |-|-|-|-|-|
@@ -53,7 +53,7 @@ Depending on the class, the value of a paradigm cell can be:
 
 The files `paradigms_arm.tsv` and `paradigms_trans.tsv` show the paradigm cells as a single string of letters. In the `paradigms_arm_stemmed.tsv` and  `paradigms_trans_stemmed.tsv`, the entries are divided into a stem and affixes. The stems are marked by angle brackets. Their value matche the values in the **Example stem** row.
 
-For example, the table below is part of the [paradigms_trans_stemmed](paradigms_trans_stemmed.tsv) file.
+For example, the table below is part of the [paradigms_trans_stemmed](paradigms_tsv/paradigms_trans_stemmed.tsv) file.
 
 
 |Regularity	|Regular|	...| Suppletive|...|
