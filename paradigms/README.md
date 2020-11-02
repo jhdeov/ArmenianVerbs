@@ -76,9 +76,9 @@ For some classes, the imperative 2SG is just the stem with the exlamation mark, 
 
 ## Paradigm cells
 
-The paradigm list keeps of track of at most 79 paradigm cells for each conjugation class. Some classes are defective and use less than the full 79 cells. In the paradigm files, the cells are distributed across 79 rows in alphabetical order. 
+The paradigm list keeps of track of at most 79 paradigm cells for each conjugation class. Some classes are defective and use less than the full 79 cells. Besides these 79 paradigm cells, there are also over 20 complex tense [constructions](../complex_tenses/README.md). The paradigm list and complex-tense list partially overlap for negatives indicatives and prohibitives.
 
-For illustration, I list these here based on their semantic grouping. For each table, I include a header but the header is not a paradigm cell.
+In the paradigm files, the cells are distributed across 79 rows in alphabetical order. For illustration, I list these here based on their semantic grouping. For each table, I include a header but the header is not a paradigm cell.
 
 1) Infinitivals
 
