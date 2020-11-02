@@ -4,7 +4,7 @@ The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs an
 
 ## Types of verb list files
 
-In this folder, we provide `xlxs` and `tsv` files which illustrates these verb lists.  Verb lists in two types of files:
+In this folder, we provide `xlsx` and `tsv` files which illustrates these verb lists.  Verb lists in two types of files:
 1) [verblist_arm](verblist_tsv/verblist_arm.tsv): Verb list is presented in the Armenian script.
 2) [verblist_trans](verblist_tsv/verblist_trans.tsv): Verb list is presented in its transliterated form.
 
