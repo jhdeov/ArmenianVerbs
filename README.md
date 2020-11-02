@@ -17,6 +17,8 @@ In the [paradigms](paradigms/) folder, 58 paradigms are provided in both `.xlxs`
 - particles and auxiliaries
 - stemmed paradigms
 
+The paradigms show the form of verb where only simple affixes are added. In addition, Armenian uses many periphrastic formations made up of a participle and an auxiliary. There are also constructions that use a verb and a clitic. These multi-unit constructions are described in the [complex_tenses](complex_tenses/) folder.
+
 In the [verblist](verblist/)  folder, a lexicon of almost 3000 words is provided in both `.xlxs` or `.tsv`. The list is taken from Boyacioglu 2010. It includes the conjugation class of every verb.
 
 Transliterated versions of the paradigms and verblist are also provided. They are transliterated based on the [transliteration key](transliteration.md).
