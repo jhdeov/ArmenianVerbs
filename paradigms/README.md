@@ -45,10 +45,10 @@ The rest of the rows list the different paradigm cells, such as the evidential p
 
 
 Depending on the class, the value of a paradigm cell can be:
-1) **a single string**. For example, the evidential participle of Class 1 *erkel* is *erker*.
-2) **multiple strings**. For some classes, a cell can have multiple possible values. For example for Class 3 *abril*, the imperative 2sg is either *abri՛r* or *abre՛*. These multiple forms are optional and separated by commas: `abri՛r, abre՛`.
-3) **blank**. A blank cell means that the class is defective and doesn't have a realization for that cell. For example, Class 27 *grnam* doesn't have an an infinitival form. Its value for the `infinitival` cell is blank.
-4) **the word 'periphrasis'**. Most classes use a periphrastic form for present negatives. For example for Class 1 *erkel*, the entry for `negative indicative present 1pl` is the word `periphrasis`. Periphrastic or complex tenses are described in the `complex_tenses.tsv` file.
+1) **a single string**: For example, the evidential participle of Class 1 *erkel* is *erker*.
+2) **multiple strings**: For some classes, a cell can have multiple possible values. For example for Class 3 *abril*, the imperative 2sg is either *abri՛r* or *abre՛*. These multiple forms are optional and separated by commas: `abri՛r, abre՛`.
+3) **blank**: A blank cell means that the class is defective and doesn't have a realization for that cell. For example, Class 27 *grnam* doesn't have an an infinitival form. Its value for the `infinitival` cell is blank.
+4) **the word 'periphrasis'**: Most classes use a periphrastic form for present negatives. For example for Class 1 *erkel*, the entry for `negative indicative present 1pl` is the word `periphrasis`. Periphrastic or complex tenses are described in the `complex_tenses.tsv` file.
 
 
 ## Stemming
