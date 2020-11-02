@@ -19,7 +19,7 @@ The structure of a paradigm file looks like the following. This is taken from th
 2|	azadakrel|	1|	erkel|	azadakr	|Regular|	E-Class	|V-initial| -el	|
 |...	|...|... |... |...|	...| ...|...  |... |	 
 
-Verbs are listed started in the second row. Information about every verb is provided in the different culumnsThe first row describes the information provided in every column:
+Verbs are listed starting from the second row. Information about every verb is provided in the different culumnsThe first row describes the information provided in every column:
 
 1) **Index**: Unique index of a verb, ranging from 1 to 3258
 1) **Verb**: Citation form of the verb, usually the infinitival, such as `akut͡sel`.
