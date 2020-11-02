@@ -36,7 +36,7 @@ The content of the paradigms are described on separate rows. The first four rows
 3) **Example lemma**: An example lemma that belongs to this classs, such as `erkel`.
 4) **Example stem**: The stem of the example lemma. The stem is the part of the lemma without any suffixes, such as `erk`.
 
-For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 33 lemma *əllal* uses two types of suppletive stems: *əll* and *eɣ*. These stems are listed in the **Example stem** row and separated with commas: `əll,eɣ`. Stems are useful for the stemmed files, described in *****.
+For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 33 lemma *əllal* uses two types of suppletive stems: *əll* and *eɣ*. These stems are listed in the **Example stem** row and separated with commas: `əll,eɣ`. Stems are useful for the stemmed files, described in the [Stemming](## Stemming) section.
 
 The rest of the rows list the different paradigm cells, such as the evidential participle. For Class 1, the evidential participle of its example lemma *erkel* is `erker`. The full list of possible paradigm cells is described in ******
 
@@ -59,9 +59,9 @@ For example, the table below is part of the `paradigms_trans_stemmed.tsv` file.
 |-|-|-|-|-|
 |Class number|	Class 1|...|	Class 33|...
 |Example lemma|	erkel|...|	əllal|...
-|Example stem|	\<X\> = erk|...|	\<Xprs\> = əll, \<Xps\t> = eɣ|...
+|Example stem|	\<X\> = erk|...|	\<Xprs\> = əll, \<Xpst\> = eɣ|...
 | ||||				
-|evidential participle	|\<X\>er|	...| \<Xps\t>er|...
+|evidential participle	|\<X\>er|	...| \<Xpst\>er|...
 |future participle|	\<X\>elu|	...|\<Xprs\>alu|...|
 |...|...|...|...|...|
 
