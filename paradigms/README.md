@@ -11,7 +11,7 @@ For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use 
 
 ## Types of files
 
-In this folder, we provide `xlxs` and `tsv` files which illustrates these classes.  Paradigms are provided in four types of files:
+In this folder, we provide `xlsx` and `tsv` files which illustrates these classes.  Paradigms are provided in four types of files:
 1) [paradigms_arm](paradigms_tsv/paradigms_arm.tsv): Paradigms are presented in the Armenian script.
 2) [paradigms_trans](paradigms_tsv/paradigms_trans.tsv): Paradigms are presented in their transliterated form.
 3) [paradigms_arm_stemmed](paradigms_tsv/paradigms_arm_stemmed.tsv): Paradigms are presented in the Armenian script. Paradigm cells are segmented into a stem and affixes. 
