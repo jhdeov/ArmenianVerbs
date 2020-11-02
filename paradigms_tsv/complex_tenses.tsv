@@ -1,0 +1,25 @@
+	Verb shape	Auxiliary type	Auxiliary tense	Template
+negative indicative present	present negative participle	Synthetic negative	synthetic-negative present	Aux Ptcp
+negative indicative past imperfect	past imperfect negative participle	Synthetic negative	synthetic-negative past imperfective	Aux Ptcp
+compound past 1	perfect participle	Short	present	Ptcp Aux
+negative compound past 1	perfect participle	Short	negative present	Aux Ptcp
+compound past 1	evidential participle	Short	present	Ptcp Aux
+negative compound past 1	evidential participle	Short	negative present	Aux Ptcp
+pluperfect 1	perfect participle	Short	past imperfective	Ptcp Aux
+negative pluperfect 1	perfect participle	Short	negative past imperfective	Aux Ptcp
+pluperfect 2	evidential participle	Short	past imperfective	Ptcp Aux
+negative pluperfect 2	evidential participle	Short	negative past imperfective	Aux Ptcp
+simple future	subjunctive present			Fut V
+negative simple future	negative subjunctive present			Fut V
+resultative future	perfect participle	Long	present	Fut Ptcp Aux
+negative resultative future	perfect participle	Long	negative present	Fut Ptcp Aux
+prospective past	subjunctive past imperfect			Fut V
+negative prospective past	negative subjunctive past imperfect			Fut V
+prospective resultative past	perfect participle	Long	past imperfect	Fut Ptcp Aux
+negative prospective resultative past	perfect participle	Long	negative past imperfect	Fut Ptcp Aux
+subjunctive past perfect	perfect participle	Long	present	Ptcp Aux
+negative subjunctive past perfect	perfect participle	Long	negative present	Ptcp Aux
+subjunctive pluperfect	perfect participle	Long	past imperfect	Ptcp Aux
+negative subjunctive pluperfect	perfect participle	Long	negative past imperfect	Ptcp Aux
+prohibitive	prohibitive			Proh V
+"For information on auxilaries and particles, see sheet ""Auxilaries and particles"""				
