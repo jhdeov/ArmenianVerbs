@@ -5,7 +5,7 @@ Most meanings are marked by adding a suffix to the verb. But some paradigm cells
 ## Types of complex-tense files
 
 In this folder, we provide `xlsx` and `tsv` files which illustrates these complex-tense lists. There are types of files:
-1) [complex_tenses](complex_tenses_tsv/complex_tense.tsv): List of complex tense constructions.
+1) [complex_tenses](complex_tenses_tsv/complex_tenses.tsv): List of complex tense constructions.
 2) [particles_clitics_aux](complex_tenses_tsv/particles_clitics_aux.tsv): List of morphemes used in complex tenses, including clitics and auxiliaries. The entries are transliterated  based on the [transliteration key](../transliteration.md).
 
 ## Structure of the complex-tenses list
