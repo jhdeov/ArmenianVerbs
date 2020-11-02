@@ -26,8 +26,8 @@ Verbs are listed started in the second row. Information about every verb is prov
 1) **Class number**: Class number of the verb.
 1) **Class example**: Every class has an example lemma which is used in the [paradigm](../paradigms) files. For Class 1 verbs, the example lemma is `erkel`.
 1) **Stem**: Stem of the citation form. This is usually the verb minus its infinitival suffix, such as `erk`.
-1) **Regularity**: Verbs belong to  classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.
-Passive verbs aren't separated in Boyacioglu's system. They have the value `Regular (identical to 4)` or `Regular (identical to 3)`
+1) **Regularity**: Verbs belong to  classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.  
+Passive verbs aren't separated in Boyacioglu's system. They have the value `Regular (identical to 4)` or `Regular (identical to 3)`.
 1) **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
 1) **Phonological marker**: Some classes are determined based on the first segment. Possible values are `V-initial`, `C-initial`, or blank.
 1) **Morphological marker**: The main marker or suffix that marks this class. If this verb's class isn't distinguished by some suffix, then this column uses the value `Lexeme`.
