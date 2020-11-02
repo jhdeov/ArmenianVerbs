@@ -129,8 +129,7 @@ indicative present 1pl	|	subjunctive present 1pl	|	negative indicative present 1
 indicative present 2pl	|	subjunctive present 2pl	|	negative indicative present 2pl	|	negative subjunctive present 2pl
 indicative present 3pl	|	subjunctive present 3pl	|	negative indicative present 3pl	|	negative subjunctive present 3pl
 
-6) Past imperfect
-
+6) Past imperfect  
 |Indicative|Subjunctive|Negative indicative|Negative subjunctive
 |-|-|-|-|
 indicative past imperfective 1sg	|	subjunctive past imperfective 1sg	|	negative indicative past imperfective 1sg	|	negative subjunctive past imperfective 1sg
