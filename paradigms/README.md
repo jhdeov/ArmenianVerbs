@@ -22,12 +22,12 @@ In this folder, we provide `xlxs` and `tsv` files which illustrates these classe
 
 |Regularity	|Regular|	...| Suppletive|...|
 |-|-|-|-|-|
-|Class number|	Class 1|...|	Class 33|...
-|Example lemma|	erkel|...|	əllal|...
-|Example stem|	erk|...|	əll,eɣ|...
+|Class number|	Class 1|...|	Class 57|...
+|Example lemma|	erkel|...|	udel|...
+|Example stem|	erk|...|	ud, ger|...
 | ||||		
-|evidential participle	|erker|	...| eɣer|...
-|future participle|	erkelu|	...|əllalu|...|
+|evidential participle	|erker|	...| gerer|...
+|future participle|	erkelu|	...|udelu|...|
 |...|...|...|...|...| 
 
 The different classes are organized on separate columns, starting from the second column. For example, the second column is for Class 1. 
@@ -37,7 +37,7 @@ The content of the paradigms are described on separate rows. The first four rows
 3) **Example lemma**: An example lemma that belongs to this classs, such as `erkel`.
 4) **Example stem**: The stem of the example lemma. The stem is the part of the lemma without any suffixes, such as `erk`.
 
-For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 33 lemma *əllal* uses two types of suppletive stems: *əll* and *eɣ*. These stems are listed in the **Example stem** row and separated with commas: `əll,eɣ`. Stems are useful for the stemmed files, described in the [Stemming](#Stemming) section.
+For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 57 lemma *udel* uses two types of suppletive stems: *ud* and *ger*. These stems are listed in the **Example stem** row and separated with commas: `ud, ger`. Stems are useful for the stemmed files, described in the [Stemming](#Stemming) section.
 
 The rest of the rows list the different paradigm cells, such as the evidential participle. For Class 1, the evidential participle of its example lemma *erkel* is `erker`. The full list of possible paradigm cells is described in [Paradigm cells](#Paradigm-cells) section
 
@@ -58,21 +58,24 @@ For example, the table below is part of the [paradigms_trans_stemmed](paradigms_
 
 |Regularity	|Regular|	...| Suppletive|...|
 |-|-|-|-|-|
-|Class number|	Class 1|...|	Class 33|...
-|Example lemma|	erkel|...|	əllal|...
-|Example stem|	\<X\> = erk|...|	\<Xprs\> = əll, \<Xpst\> = eɣ|...
+|Class number|	Class 1|...|	Class 57|...
+|Example lemma|	erkel|...|	udel|...
+|Example stem|	\<X\> = erk|...|	\<Xprs\> = ud, \<Xpst\> = ger|...
 | ||||				
 |evidential participle	|\<X\>er|	...| \<Xpst\>er|...
-|future participle|	\<X\>elu|	...|\<Xprs\>alu|...|
+|future participle|	\<X\>elu|	...|\<Xprs\>elu|...|
 |...|...|...|...|...|
 
 For Class 1 *erkel*, it uses a stem *erk* which is represented as \<X\>. This is shown in the **Example stem** row: `<X> = erk`. The symbol \<X\> replaces *erk* in all of its paradigm cells, such as the evidential participle `<X>er` (= *erker*). 
 
-Some classes like Class 33 *əllal* use multiple stems in different contexts. One of its stems *eɣ* is used in the evidential participle *eɣer* while another stem *əll* is used in future participle *əllalu*. These stems have unique names in the **Example stem** row: `<Xprs> = əll, <Xpst> = eɣ`. For Class 3, the symbols \<Xprs\> and \<Xpst\> replace the corresponding stems in the entire paradigm.
+Some classes like Class 57 *udel* use multiple stems in different contexts. One of its stems *ger* is used in the evidential participle *gerer* while another stem *ud* is used in future participle *udelu*. These stems have unique names in the **Example stem** row: `<Xprs> = ud, <Xpst> = ger`. For Class 3, the symbols \<Xprs\> and \<Xpst\> replace the corresponding stems in the entire paradigm.
+
+For some classes, the imperative 2SG is just the stem with the exlamation mark, such as *ge՛r* 'eat!' for Class 57 *udel*. The exclamation mark is placed inside the verb. For convenience, its stem form is `<Xpst>՛ with the exclamation mark placed after the stem.
 
 ## Paradigm cells
 
 The paradigm list keeps of track of at most 79 paradigm cells for each conjugation class. Some classes are defective and use less than the full 79 cells. In the paradigm files, the cells are distributed across 79 rows in alphabetical order. 
+
 For illustration, I list these here based on their semantic grouping. For each table, I include a header but the header is not a paradigm cell.
 
 1) Infinitivals
