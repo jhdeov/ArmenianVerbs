@@ -59,15 +59,15 @@ For example, the table below is part of the `paradigms_trans_stemmed.tsv` file.
 |-|-|-|-|-|
 |Class number|	Class 1|...|	Class 33|...
 |Example lemma|	erkel|...|	əllal|...
-|Example stem|	\<X\> = erk|...|	<Xprs> = əll, <Xpst> = eɣ|...
+|Example stem|	\<X\> = erk|...|	\<Xprs\> = əll, \<Xps\t> = eɣ|...
 | ||||				
-|evidential participle	|<X>er|	...| <Xpst>er|...
-|future participle|	<X>elu|	...|<Xprs>alu|...|
+|evidential participle	|\<X\>er|	...| \<Xps\t>er|...
+|future participle|	\<X\>elu|	...|\<Xprs\>alu|...|
 |...|...|...|...|...|
 
-For Class 1 *erkel*, it uses a stem *erk* which is represented as <X>. This is shown in the **Example stem** row: `<X> = erk`. The symbol <X> replaces *erk* in all of its paradigm cells, such as the evidential participle `<X>er` (= *erker*). 
+For Class 1 *erkel*, it uses a stem *erk* which is represented as \<X\>. This is shown in the **Example stem** row: `<X> = erk`. The symbol \<X\> replaces *erk* in all of its paradigm cells, such as the evidential participle `<X>er` (= *erker*). 
 
-Some classes like Class 33 *əllal* use multiple stems in different contexts. One of its stems *eɣ* is used in the evidential participle *eɣer* while another stem *əll* is used in future participle *əllalu*. These stems have unique names in the **Example stem** row: `<Xprs> = əll, <Xpst> = eɣ`. For Class 3, the symbols <Xprs> and <Xpst> replace the corresponding stems in the entire paradigm.
+Some classes like Class 33 *əllal* use multiple stems in different contexts. One of its stems *eɣ* is used in the evidential participle *eɣer* while another stem *əll* is used in future participle *əllalu*. These stems have unique names in the **Example stem** row: `<Xprs> = əll, <Xpst> = eɣ`. For Class 3, the symbols \<Xprs\> and \<Xpst\> replace the corresponding stems in the entire paradigm.
 
 ## Paradigm cells
 
