@@ -34,7 +34,7 @@ The structure of a paradigm file looks like the following. This is taken from th
 
 The different classes are organized on separate columns, starting from the second column. For example, the second column is for Class 1. 
 The content of the paradigms are described on separate rows. The first four rows organize the classes in the following way:
-1) **Regularity**: Type of class. Possible values are `Regular`, `Irregular`, `Defective`, or `Suppletive`.
+1) **Regularity**: Type of class. Possible values are `Regular`, `Archaic`, `Irregular`, `Defective`, or `Suppletive`.
 2) **Class number**: Number of the class. Numbers are taken from Boyacioglu 2010 and range from Class 1 to Class 58
 3) **Example lemma**: An example lemma that belongs to this classs, such as `erkel`.
 4) **Example stem**: The stem of the example lemma. The stem is the part of the lemma without any suffixes, such as `erk`.
