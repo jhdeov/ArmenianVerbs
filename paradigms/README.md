@@ -10,7 +10,8 @@ Most grammars of Western Armenian use 3 simple conjugation classes, but these do
 For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use his conjugation system. We slightly adapt his paradigms to incorporate passives and regularized irregular verbs. 
 
 ## Types of files
-Paradigms are provided in four types of files:
+
+In this folder, we provide `xlxs` and `tsv` files which illustrates these classes.  Paradigms are provided in four types of files:
 1) [paradigms_arm](paradigms_tsv/paradigms_arm.tsv): Paradigms are presented in the Armenian script.
 2) [paradigms_trans](paradigms_tsv/paradigms_trans.tsv): Paradigms are presented in their transliterated form
 3) [paradigms_arm_stemmed](paradigms_tsv/paradigms_arm_stemmed.tsv): Paradigms are presented in the Armenian script. Paradigm cells are segmented into a stem and affixes. 
@@ -18,7 +19,8 @@ Paradigms are provided in four types of files:
 
 The transliterated forms are generated based on  the [transliteration key](../transliteration.md).
 ## Structure of paradigm file
-In this folder, we provide `xlxs` and `tsv` files which illustrates these classes. The structure of a file looks like the following. This is taken from the transliterated [paradigms_trans](paradigms_tsv/paradigms_trans.tsv) file.
+
+The structure of a paradigm file looks like the following. This is taken from the transliterated [paradigms_trans](paradigms_tsv/paradigms_trans.tsv) file.
 
 |Regularity	|Regular|	...| Suppletive|...|
 |-|-|-|-|-|
