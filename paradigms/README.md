@@ -36,7 +36,7 @@ The content of the paradigms are described on separate rows. The first four rows
 3) **Example lemma**: An example lemma that belongs to this classs, such as `erkel`.
 4) **Example stem**: The stem of the example lemma. The stem is the part of the lemma without any suffixes, such as `erk`.
 
-For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 33 lemma *əllal* uses two types of suppletive stems: *əll* and *eɣ*. These stems are listed in the **Example stem** row and separated with commas: `əll,eɣ`. Stems are useful for the stemmed files, described in the [Stemming](## Stemming) section.
+For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, for the Class 33 lemma *əllal* uses two types of suppletive stems: *əll* and *eɣ*. These stems are listed in the **Example stem** row and separated with commas: `əll,eɣ`. Stems are useful for the stemmed files, described in the [Stemming](#Stemming) section.
 
 The rest of the rows list the different paradigm cells, such as the evidential participle. For Class 1, the evidential participle of its example lemma *erkel* is `erker`. The full list of possible paradigm cells is described in ******
 
