@@ -58,6 +58,6 @@ Armenian paradigms use the exclamation mark ՛   for imperatives: *կե՛ր* 'ea
  
 
 The transliteration does not show the following phonological rules:
-- the glide [j] is epenthesized before word-initial <ե>. This glide is ignored by the paradigm rules
-- a schwa is pronounced in consonant clusters but not shown in the orthography. The schwa does not affect the paradigm rules
+- the glide [j] is epenthesized before word-initial <ե>. This glide is ignored by the paradigm rules.
+- a schwa is pronounced in consonant clusters but not shown in the orthography. The schwa does not affect the paradigm rules.
 
