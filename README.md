@@ -12,16 +12,16 @@ Armenian is a low-resource Indo-European language. It has two standard dialects:
 The most systematic collection of Western Armenian paradigms is found in Boyacioglu [2010](https://www.asiatheque.com/en/book/hay-pay-les-verbes-de-larmenien-occidental-western-armenian-verbs). He documents 58 paradigms 
 
 ## Resources
-In the [paradigms](paradigms/) folder, 58 paradigms are provided in both `.xlxs` or `.tsv`. A [README](paradigms/README.md) file explains the organization of the files. The paradigms include:
-- complex tenses
-- particles and auxiliaries
-- stemmed paradigms
+In the [paradigms](paradigms/) folder, 58 paradigms are provided in both `.xlxs` or `.tsv`. A [README](paradigms/README.md) file explains the organization of the paradigm files. The paradigms are provided in:
+1) the Armenian script,
+2) a transliterated script, similar to IPA, and
+3) a stemmed form
 
 The paradigms show the form of verb where only simple affixes are added. In addition, Armenian uses many periphrastic formations made up of a participle and an auxiliary. There are also constructions that use a verb and a clitic. These multi-unit constructions are described in the [complex_tenses](complex_tenses/) folder.
 
 In the [verblist](verblist/)  folder, a lexicon of almost 3000 words is provided in both `.xlxs` or `.tsv`. The list is taken from Boyacioglu 2010. It includes the conjugation class of every verb.
 
-Transliterated versions of the paradigms and verblist are also provided. They are transliterated based on the [transliteration key](transliteration.md).
+Transliterated versions of the data are also provided. They are transliterated based on the [transliteration key](transliteration.md).
 
 The paradigms match the system used in the [Apertium](https://github.com/jhdeov/apertium-hyw) morphological analyzet for Western Armenian.
 
