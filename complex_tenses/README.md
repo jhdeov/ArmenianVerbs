@@ -31,7 +31,7 @@ The constructions are listed starting from the second row. The first row describ
 1) **Auxiliary tense**: If an auxiliary is used, then the auxiliary is usually inflected for tense and agreement. 
 1) **Template**: Order in which the verb and the other morphemes appear in the construction.
 
-The construction can use either auxilaries or simple morphemes like clitics. For example, the simple future uses the `Fut` clitic before the verb. A list of these clitics is in the [particles](complex_tenses_tsv/particles.tsv) file.
+The construction can use either auxilaries or simple morphemes like particles clitics. For example, the simple future uses the `Fut` particle before the verb. A list of these particles is in the [particles](complex_tenses_tsv/particles.tsv) file.
 
 Boyacioglu 2010 doesn't discuss progressive constructions. We added those.
 
