@@ -2,7 +2,7 @@
 
 Most grammars of Western Armenian use 3 simple conjugation classes, but these don't cover the entire language. This is because of confounds like the following:
 1) Derived verbs are conjugated differently than simple verbs. This includes causatives, passives, inchoatives.
-2) Irregular verbs pattern differntly and show subregularities.
+2) Irregular verbs pattern differently and show subregularities.
 3) Defective verbs  don't have all the paradigm cells.
 4) Suppletive verbs use different stems in different cells
 5) Paradigms can slightly differ for vowel-initial vs. consonant-initial verbs. 
