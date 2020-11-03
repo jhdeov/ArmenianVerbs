@@ -1,15 +1,15 @@
 # Verb list
 
-The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and provides their conjugation class. This folder contains a modified version of his verb list.
+The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list.
 
 ## Types of verb list files
 
-In this folder, we provide `xlsx` and `tsv` files which illustrate these verb lists.  There are two types of files:
+In this folder, there are two types of files:
 1) [verblist_arm](verblist_tsv/verblist_arm.tsv): Verb list is presented in the Armenian script.
 2) [verblist_trans](verblist_tsv/verblist_trans.tsv): Verb list is presented in its transliterated form.
 
-The transliterated forms are generated based on  the [transliteration key](../transliteration.md).
-## Structure of the verb list
+The files have both `xlsx` and `tsv` versions.  The transliterated forms are generated based on  the [transliteration key](../transliteration.md).
+## Structure of a verb list
 
 The structure of a paradigm file looks like the following. This is taken from the transliterated [verblist_trans](verblist_tsv/verblist_trans.tsv) file.
 
@@ -19,14 +19,14 @@ The structure of a paradigm file looks like the following. This is taken from th
 2|	azadakrel|	1|	erkel|	azadakr	|Regular|	E-Class	|V-initial| -el	|
 |...	|...|... |... |...|	...| ...|...  |... |	 
 
-Verbs are listed starting from the second row. Information about every verb is provided in the different culumns. The first row describes the information provided in every column:
+Verbs are listed starting from the second row. The first row describes the information provided in every column:
 
 1) **Index**: Unique index of a verb, ranging from 1 to 3258
 1) **Verb**: Citation form of the verb, usually the infinitival, such as `akut͡sel`.
 1) **Class number**: Class number of the verb.
 1) **Class example**: Every class has an example lemma which is used in the [paradigm](../paradigms) files. For Class 1 verbs, the example lemma is `erkel`.
 1) **Stem**: Stem of the citation form. This is usually the verb minus its infinitival suffix, such as `erk`.
-1) **Regularity**: Verbs belong to  classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.  
+1) **Regularity**: Verbs belong to classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.  
 Passive verbs aren't separated in Boyacioglu's system. They have the value `Regular (identical to 4)` or `Regular (identical to 3)`.
 1) **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
 1) **Phonological marker**: Some classes are determined based on the first segment. Possible values are `V-initial`, `C-initial`, or blank.
@@ -35,6 +35,7 @@ Passive verbs aren't separated in Boyacioglu's system. They have the value `Regu
 ## Notes
 
 Minor notes on the verb list:
-- Boyacioglu uses the marker -ուլ (*-ul*) for Classes 21 and 22, but we use -նուլ (*-nul*).
+- Boyacioglu uses the morphological marker -ուլ (*-ul*) for Classes 21 and 22, but we use -նուլ (*-nul*).
 - Some archaic verbs have unclear conjugations because the stem is vowel-final. But because they are archaic or obsolete, it is difficult to verify how they were conjugated.
 - Some irregular verbs are optionally regularized in colloquial Western Armenian. This isn't noted in Boyacioglu 2010 or in our verb list.
+- Boyacioglu 2010 provides a partial list of semantic features for the verbs. We are working on getting a complete list of features.
