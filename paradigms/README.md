@@ -7,7 +7,7 @@ Most grammars of Western Armenian use 3 simple conjugation classes, but these do
 4) Suppletive verbs use different stems in different cells
 5) Paradigms can slightly differ for vowel-initial vs. consonant-initial verbs. 
 
-For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use his conjugation system. We slightly adapt his paradigms to incorporate passives and regularized verbs. 
+For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use his conjugation system. We refine his paradigms to incorporate passives and regularized verbs. 
 
 ## Types of files
 
@@ -22,22 +22,26 @@ For stemmed paradigms, the paradigm cells are segmented into a stem and affixes.
 
 The structure of a paradigm file looks like the following. This is taken from the transliterated [paradigms_trans](paradigms_tsv/paradigms_trans.tsv) file.
 
-|Regularity	|Regular|	...| Suppletive|...|
-|-|-|-|-|-|
 |Class number|	Class 1|...|	Class 57|...
+|-|-|-|-|-|
+|Subclass|	|...|	|...
+|Regularity	|Regular|	...| Suppletive|...|
+|Initial segment	|V|	...| V|...|
 |Example lemma|	erkel|...|	udel|...
 |Example stem|	erk|...|	ud, ger|...
-| ||||		
+|Affix 	|-el|	...| -el|...|
 |evidential participle	|erker|	...| gerer|...
 |future participle|	erkelu|	...|udelu|...|
 |...|...|...|...|...| 
 
-The different classes are organized on separate columns, starting from the second column. For example, the second column is for Class 1. 
-The content of the paradigms is described on separate rows. The first four rows organize the classes in the following way:
+The different classes are organized on separate columns, starting from the second column. For example, the second column is for Class 1.  The content of the paradigms is described on separate rows. The first 7 rows organize the classes in the following way:
+1) **Class number**: Number of the class. Numbers are taken from Boyacioglu 2010 and range from Class 1 to Class 58.
+2) **Subclass**: We refine Boyacioglu's classes and provide subclasses for some classesNumber of the class.
 1) **Regularity**: Type of class. Possible values are `Regular`, `Archaic`, `Irregular`, `Defective`, or `Suppletive`.
-2) **Class number**: Number of the class. Numbers are taken from Boyacioglu 2010 and range from Class 1 to Class 58
+1) **Initial segment**: The initial segment of all the lemmas of a class can either be a vowel `V` or a consonant `C`.
 3) **Example lemma**: An example lemma that belongs to this classs, such as `erkel`.
 4) **Example stem**: The stem of the example lemma. The stem is the part of the lemma without any suffixes, such as `erk`.
+1) **Affix**: The sequence of segments which follows the stem.
 
 For most classes, the stem is a single item. But some classes use multiple stems in different contexts. For example, the Class 57 lemma *udel* uses two types of suppletive stems: *ud* and *ger*. These stems are listed in the **Example stem** row and separated with commas: `ud, ger`. Stems are useful for the stemmed files, described in the [Stemming](#Stemming) section.
 
@@ -58,19 +62,21 @@ The files `paradigms_arm.tsv` and `paradigms_trans.tsv` show the paradigm cells 
 For example, the table below is part of the [paradigms_trans_stemmed](paradigms_tsv/paradigms_trans_stemmed.tsv) file.
 
 
-|Regularity	|Regular|	...| Suppletive|...|
-|-|-|-|-|-|
 |Class number|	Class 1|...|	Class 57|...
+|-|-|-|-|-|
+|Subclass|	|...|	|...
+|Regularity	|Regular|	...| Suppletive|...|
+|Initial segment	|V|	...| V|...|
 |Example lemma|	erkel|...|	udel|...
 |Example stem|	\<X\> = erk|...|	\<Xprs\> = ud, \<Xpst\> = ger|...
-| ||||				
+|Affix 	|-el|	...| -el|...|
 |evidential participle	|\<X\>er|	...| \<Xpst\>er|...
 |future participle|	\<X\>elu|	...|\<Xprs\>elu|...|
 |...|...|...|...|...|
 
 For Class 1 *erkel*, it uses a stem *erk* which is represented as \<X\>. This is shown in the **Example stem** row: `<X> = erk`. The symbol \<X\> replaces *erk* in all of its paradigm cells, such as the evidential participle `<X>er` (= *erker*). 
 
-Some classes like Class 57 *udel* use multiple stems in different contexts. One of its stems *ger* is used in the evidential participle *gerer* while another stem *ud* is used in future participle *udelu*. These stems have unique names in the **Example stem** row: `<Xprs> = ud, <Xpst> = ger`. For Class 3, the symbols \<Xprs\> and \<Xpst\> replace the corresponding stems in the entire paradigm.
+Some classes like Class 57 *udel* use multiple stems in different contexts. One of its stems *ger* is used in the evidential participle *gerer* while another stem *ud* is used in future participle *udelu*. These stems have unique names in the **Example stem** row: `<Xprs> = ud, <Xpst> = ger`. For Class 57, the symbols \<Xprs\> and \<Xpst\> replace the corresponding stems in the entire paradigm.
 
 For some classes, the imperative 2sg is just the stem with the exlamation mark, such as *ge՛r* 'eat!' for Class 57 *udel*. The exclamation mark is placed inside the verb. For convenience, its stem form is `<Xpst>՛` with the exclamation mark placed after the stem.
 
