@@ -13,29 +13,26 @@ The files have both `xlsx` and `tsv` versions.  The transliterated forms are gen
 
 The structure of a paradigm file looks like the following. This is taken from the transliterated [verblist_trans](verblist_tsv/verblist_trans.tsv) file.
 
-|Index	|Verb|	Class number|	Class example|	Stem|	Regularity|	Regular category|	Phonological marker|	Morphological marker| 
-|-	|-|	- |	- |	-|	-|	 -|	- |	- |	  
-1|	akut͡sel|	1|	erkel|	akut͡s|	Regular| 	E-Class| 	V-initial| -el	|	
-2|	azadakrel|	1|	erkel|	azadakr	|Regular|	E-Class	|V-initial| -el	|
-|...	|...|... |... |...|	...| ...|...  |... |	 
+|Index|	Verb|	Class number|	Subclass|	Example lemma|	Stem|	Regularity	|Initial segment	|Regular category|	Affix|
+|-	|-|	- |	- |	-|	-|	 -|	- |	- |	  -|
+1|	akut͡sel|	1|	 |  erkel|akut͡s|	Regular|	V|		E-Class|	-el|
+|...	|...|... |... |...|	...| ...|...  |... |	  ...|	 
+207|	paʒnvil	|4|	Passive|zzvil|	paʒn|	Regular	|C|	Passive|	-vil
+|...	|...|... |... |...|	...| ...|...  |... |	  ...|	 
 
 Verbs are listed starting from the second row. The first row describes the information provided in every column:
 
 1) **Index**: Unique index of a verb, ranging from 1 to 3258
 1) **Verb**: Citation form of the verb, usually the infinitival, such as `akut͡sel`.
 1) **Class number**: Class number of the verb.
-1) **Class example**: Every class has an example lemma which is used in the [paradigm](../paradigms) files. For Class 1 verbs, the example lemma is `erkel`.
+1) **Subclass**: Subclass of the verb's class. If a verb's class doesn't have any subclasses, the value in this column is blank.
+1) **Example lemma**: Every class or subclass has an example lemma which is used in the [paradigm](../paradigms) files. For Class 1 verbs, the example lemma is `erkel`.
 1) **Stem**: Stem of the citation form. This is usually the verb minus its infinitival suffix, such as `erk`.
-1) **Regularity**: Verbs belong to classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.  
-Passive verbs aren't separated in Boyacioglu's system. They have the value `Regular (identical to 4)` or `Regular (identical to 3)`.
+1) **Regularity**: Verbs belong to classes which have different degrees of regularity. Possible values are `Regular`, `Archaic`, `Irregular`, `Suppletive`, and `Defective`.
+1) **Initial segment**: The initial segment of all the lemmas of a class can either be a vowel `V` or a consonant `C`.
 1) **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
-1) **Phonological marker**: Some classes are determined based on the first segment. Possible values are `V-initial`, `C-initial`, or blank.
-1) **Morphological marker**: The main marker or suffix that marks this class. If this verb's class isn't distinguished by some suffix, then this column uses the value `Lexeme`.
+1) **Affix**: The sequences which follow the stem.
 
-## Notes
+## Modifications
+We slightly modified Boyacioglu's verb list to correct for typos and errors. The differences are listed in [modifications](modifications.md) file.
 
-Minor notes on the verb list:
-- Boyacioglu uses the morphological marker -ուլ (*-ul*) for Classes 21 and 22, but we use -նուլ (*-nul*).
-- Some archaic verbs have unclear conjugations because the stem is vowel-final. But because they are archaic or obsolete, it is difficult to verify how they were conjugated.
-- Some irregular verbs are optionally regularized in colloquial Western Armenian. This isn't noted in Boyacioglu 2010 or in our verb list.
-- Boyacioglu 2010 provides a partial list of semantic features for the verbs. We are working on getting a complete list of features.
