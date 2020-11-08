@@ -9,5 +9,5 @@ The verb list was taken from Boyacioglu 2010. However, we corrected minor errors
 6) ***-anil* verbs**: Boyacioglu used separated classes (17, 18) for verbs that end in *-anil*. But these are conjugated the same as regular verbs in Class 3, 4 that end in *-il*. We reassign these verbs to Class 3, 4 and don't have a separate class for them.
 7) **Class 26**: Classes 26 includes verbs with the suffix *-t͡ʃil* or the suffix *-il*. We reassign the verbs with *-il* into Class 44 because Class 44.
 9) **Features**: Boyacioglu 2010 provides a partial list of semantic features for the verbs. We are working on getting a complete list of features.
-10) **Archaic**: Boyacioglu listed paradigms for some archaic or obsolete verbs which are no longer used in modern Armenian. We listed his paradigms for these archaic, but it is possible that some archaic verbs differ in how they were inflected.
+10) **Archaic**: Boyacioglu listed paradigms for some archaic or obsolete verbs which are no longer used in modern spoken Armenian. We listed his paradigms for these archaic verbs, but it is possible that some archaic verbs differ in how they were inflected.
 
