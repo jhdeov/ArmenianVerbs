@@ -10,7 +10,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 9	axorʒil	3	abril	axorʒ	Regular	V-initial	Basic	I-Class	-il
 10	ad͡zel	1	erkel	ad͡z	Regular	V-initial		E-Class	-el
 11	ad͡zilel	1	erkel	ad͡zil	Regular	V-initial		E-Class	-el
-12	ad͡zilvil	3	ad͡zilvil	ad͡zil	Regular	V-initial	Passive	Passive	-il
+12	ad͡zilvil	3	ad͡zilvil	ad͡zil	Regular	V-initial	Passive	Passive	-vil
 13	ad͡zxanal	19	amt͡ʃnal	ad͡zxa	Regular	V-initial		Inchoative	-nal
 14	agnad͡zil	3	abril	agnad͡z	Regular	V-initial	Basic	I-Class	-il
 15	agnargel	1	erkel	agnarg	Regular	V-initial		E-Class	-el
@@ -48,7 +48,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 47	amranal	19	amt͡ʃnal	amra	Regular	V-initial		Inchoative	-nal
 48	amrabntel	1	erkel	amrabnt	Regular	V-initial		E-Class	-el
 49	ampopel	1	erkel	ampop	Regular	V-initial		E-Class	-el
-50	ampopvil	3	ad͡zilvil	ampop	Regular	V-initial	Passive	Passive	-il
+50	ampopvil	3	ad͡zilvil	ampop	Regular	V-initial	Passive	Passive	-vil
 51	ajlajlil	3	abril	ajlajl	Regular	V-initial	Basic	I-Class	-il
 52	ajlantagel	1	erkel	ajlantag	Regular	V-initial		E-Class	-el
 53	ajlaseril	3	abril	ajlaser	Regular	V-initial	Basic	I-Class	-il
@@ -79,7 +79,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 78	anvanel	1	erkel	anvan	Regular	V-initial		E-Class	-el
 79	anbadvel	1	erkel	anbadu	Regular	V-initial		E-Class	-el
 80	ant͡ʃadel	1	erkel	ant͡ʃad	Regular	V-initial		E-Class	-el
-81	ant͡ʃadvil	3	ad͡zilvil	ant͡ʃad	Regular	V-initial	Passive	Passive	-il
+81	ant͡ʃadvil	3	ad͡zilvil	ant͡ʃad	Regular	V-initial	Passive	Passive	-vil
 82	ansal	5	aɣal	ans	Regular	V-initial		A-Class	-al
 83	andesel	1	erkel	andes	Regular	V-initial		E-Class	-el
 84	ant͡sənel	9	ant͡sənel	an	Regular	V-initial	Orthographic variant with schwa	Causative	-t͡sənel
@@ -94,7 +94,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 93	abaganel	1	erkel	abagan	Regular	V-initial		E-Class	-el
 94	abaganil	3	abril	abagan	Regular	V-initial	Basic	I-Class	-il
 95	abahovakrel	1	erkel	abahovakr	Regular	V-initial		E-Class	-el
-96	abahovakrvil	3	ad͡zilvil	abahovakr	Regular	V-initial	Passive	Passive	-il
+96	abahovakrvil	3	ad͡zilvil	abahovakr	Regular	V-initial	Passive	Passive	-vil
 97	abahovel	1	erkel	abahov	Regular	V-initial		E-Class	-el
 98	abaʃxarel	1	erkel	abaʃxar	Regular	V-initial		E-Class	-el
 99	abaseril	3	abril	abaser	Regular	V-initial	Basic	I-Class	-il
@@ -123,14 +123,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 122	arinknel	1	erkel	arinkn	Regular	V-initial		E-Class	-el
 123	argaxel	1	erkel	argax	Regular	V-initial		E-Class	-el
 124	arnel	41	arnel	ar	Irregular	V-initial			-nel
-125	arnvil	3	ad͡zilvil	arn	Regular	V-initial	Passive	Passive	-il
+125	arnvil	3	ad͡zilvil	arn	Regular	V-initial	Passive	Passive	-vil
 126	aroɣt͡ʃanal	19	amt͡ʃnal	aroɣt͡ʃa	Regular	V-initial		Inchoative	-nal
 127	aroɣt͡ʃat͡snel	9	ad͡ʒet͡snel	aroɣt͡ʃa	Regular	V-initial	Basic	Causative	-t͡snel
 128	aseɣakord͡zel	1	erkel	aseɣakord͡z	Regular	V-initial		E-Class	-el
 129	asbadagel	1	erkel	asbadag	Regular	V-initial		E-Class	-el
 130	asdid͡ʒanazrgel	1	erkel	asdid͡ʒanazr	Regular	V-initial		E-Class	-el
 131	adel	1	erkel	ad	Regular	V-initial		E-Class	-el
-132	advil	3	ad͡zilvil	ad	Regular	V-initial	Passive	Passive	-il
+132	advil	3	ad͡zilvil	ad	Regular	V-initial	Passive	Passive	-vil
 133	arad͡zel	1	erkel	arad͡z	Regular	V-initial		E-Class	-el
 134	arad͡zil	3	abril	arad͡z	Regular	V-initial	Basic	I-Class	-il
 135	arat͡ʃnortel	1	erkel	arat͡ʃnort	Regular	V-initial		E-Class	-el
@@ -139,7 +139,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 138	arpil	3	abril	arp	Regular	V-initial	Basic	I-Class	-il
 139	arkahadil	3	abril	arkahad	Regular	V-initial	Basic	I-Class	-il
 140	arkasaworel	1	erkel	arkasawor	Regular	V-initial		E-Class	-el
-141	arkasaworvil	3	ad͡zilvil	arkasawor	Regular	V-initial	Passive	Passive	-il
+141	arkasaworvil	3	ad͡zilvil	arkasawor	Regular	V-initial	Passive	Passive	-vil
 142	arkelagel	1	erkel	arkelag	Regular	V-initial		E-Class	-el
 143	arkelapagel	1	erkel	arkelapag	Regular	V-initial		E-Class	-el
 144	arkilel	1	erkel	arkil	Regular	V-initial		E-Class	-el
@@ -193,19 +193,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 192	awedel	1	erkel	awed	Regular	V-initial		E-Class	-el
 193	awerel	1	erkel	awer	Regular	V-initial		E-Class	-el
 194	awrel	1	erkel	awr	Regular	V-initial		E-Class	-el
-195	awrvil	3	ad͡zilvil	awr	Regular	V-initial	Passive	Passive	-il
+195	awrvil	3	ad͡zilvil	awr	Regular	V-initial	Passive	Passive	-vil
 196	akat͡sel	1	erkel	akat͡s	Regular	V-initial		E-Class	-el
 197	aksorel	1	erkel	aksor	Regular	V-initial		E-Class	-el
-198	aksorvil	3	ad͡zilvil	aksor	Regular	V-initial	Passive	Passive	-il
+198	aksorvil	3	ad͡zilvil	aksor	Regular	V-initial	Passive	Passive	-vil
 199	papaxel	2	kaɣel	papax	Regular	C-initial		E-Class	-el
 200	pazmanal	20	niharnal	pazma	Regular	C-initial		Inchoative	-nal
 201	pazmabadgel	2	kaɣel	pazmabadg	Regular	C-initial		E-Class	-el
 202	pazmat͡snel	10	modet͡snel	pazma	Regular	C-initial	Basic	Causative	-t͡snel
 203	pazmil	4	xosil	pazm	Regular	C-initial	Basic	I-Class	-il
 204	paʒanortakrel	2	kaɣel	paʒanortakr	Regular	C-initial		E-Class	-el
-205	paʒanortakrvil	4	zzvil	paʒanortakr	Regular	C-initial	Passive	Passive	-il
+205	paʒanortakrvil	4	zzvil	paʒanortakr	Regular	C-initial	Passive	Passive	-vil
 206	paʒnel	2	kaɣel	paʒn	Regular	C-initial		E-Class	-el
-207	paʒnvil	4	zzvil	paʒn	Regular	C-initial	Passive	Passive	-il
+207	paʒnvil	4	zzvil	paʒn	Regular	C-initial	Passive	Passive	-vil
 208	paxel	2	kaɣel	pax	Regular	C-initial		E-Class	-el
 209	paxil	4	xosil	pax	Regular	C-initial	Basic	I-Class	-il
 210	paɣatrel	2	kaɣel	paɣatr	Regular	C-initial		E-Class	-el
@@ -255,7 +255,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 254	pat͡sajajdel	2	kaɣel	pat͡sajajd	Regular	C-initial		E-Class	-el
 255	pat͡sasel	2	kaɣel	pat͡sas	Regular	C-initial		E-Class	-el
 256	pat͡sadrel	2	kaɣel	pat͡sadr	Regular	C-initial		E-Class	-el
-257	pat͡svil	4	zzvil	pat͡s	Regular	C-initial	Passive	Passive	-il
+257	pat͡svil	4	zzvil	pat͡s	Regular	C-initial	Passive	Passive	-vil
 258	pawagananal	20	niharnal	pawagana	Regular	C-initial		Inchoative	-nal
 259	pawararel	2	kaɣel	pawarar	Regular	C-initial		E-Class	-el
 260	pawel	2	kaɣel	paw	Regular	C-initial		E-Class	-el
@@ -274,7 +274,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 273	ptanal	20	niharnal	pta	Regular	C-initial		Inchoative	-nal
 274	ptat͡snel	10	modet͡snel	pta	Regular	C-initial	Basic	Causative	-t͡snel
 275	pʒʃgel	2	kaɣel	pʒʃg	Regular	C-initial		E-Class	-el
-276	pʒʃgvil	4	zzvil	pʒʃg	Regular	C-initial	Passive	Passive	-il
+276	pʒʃgvil	4	zzvil	pʒʃg	Regular	C-initial	Passive	Passive	-vil
 277	piwreɣanal	20	niharnal	piwreɣa	Regular	C-initial		Inchoative	-nal
 278	piwreɣat͡snel	10	modet͡snel	piwreɣa	Regular	C-initial	Basic	Causative	-t͡snel
 279	pxet͡snel	10	modet͡snel	pxe	Regular	C-initial	Basic	Causative	-t͡snel
@@ -293,7 +293,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 292	porposil	4	xosil	porpos	Regular	C-initial	Basic	I-Class	-il
 293	porpokel	2	kaɣel	porpok	Regular	C-initial		E-Class	-el
 294	puʒel	2	kaɣel	puʒ	Regular	C-initial		E-Class	-el
-295	puʒvil	4	zzvil	puʒ	Regular	C-initial	Passive	Passive	-il
+295	puʒvil	4	zzvil	puʒ	Regular	C-initial	Passive	Passive	-vil
 296	pusnil	14	mernil	pus	Irregular	C-initial			-nil
 297	pust͡snel	10	modet͡snel	pus	Regular	C-initial	Basic	Causative	-t͡snel
 298	purel	2	kaɣel	pur	Regular	C-initial		E-Class	-el
@@ -305,7 +305,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 304	prnel	2	kaɣel	prn	Regular	C-initial		E-Class	-el
 305	prnget͡snel	10	modet͡snel	prnge	Regular	C-initial	Basic	Causative	-t͡snel
 306	prngil	4	xosil	prng	Regular	C-initial	Basic	I-Class	-il
-307	prnvil	4	zzvil	prn	Regular	C-initial	Passive	Passive	-il
+307	prnvil	4	zzvil	prn	Regular	C-initial	Passive	Passive	-vil
 308	prnt͡skaharel	2	kaɣel	prnt͡skahar	Regular	C-initial		E-Class	-el
 309	prtel	2	kaɣel	prt	Regular	C-initial		E-Class	-el
 310	prel	2	kaɣel	pr	Regular	C-initial		E-Class	-el
@@ -323,7 +323,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 322	kaɣt͡ʃat͡snel	10	modet͡snel	kaɣt͡ʃa	Regular	C-initial	Basic	Causative	-t͡snel
 323	kad͡ʒel	2	kaɣel	kad͡ʒ	Regular	C-initial		E-Class	-el
 324	kamel	2	kaɣel	kam	Regular	C-initial		E-Class	-el
-325	kamvil	4	zzvil	kam	Regular	C-initial	Passive	Passive	-il
+325	kamvil	4	zzvil	kam	Regular	C-initial	Passive	Passive	-vil
 326	kajtagɣel	2	kaɣel	kajtagɣ	Regular	C-initial		E-Class	-el
 327	kajtagɣet͡snel	10	modet͡snel	kajtagɣe	Regular	C-initial	Basic	Causative	-t͡snel
 328	kajtagɣil	4	xosil	kajtagɣ	Regular	C-initial	Basic	I-Class	-il
@@ -352,7 +352,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 351	kzkzel	2	kaɣel	kzkz	Regular	C-initial		E-Class	-el
 352	kzel	2	kaɣel	kz	Regular	C-initial		E-Class	-el
 353	ktal	6	gartal	kt	Regular	C-initial		A-Class	-al
-354	kʒdvil	4	zzvil	kʒd	Regular	C-initial	Passive	Passive	-il
+354	kʒdvil	4	zzvil	kʒd	Regular	C-initial	Passive	Passive	-vil
 355	kinovnal	20	niharnal	kinov	Regular	C-initial		Inchoative	-nal
 356	kinovt͡snel	10	modet͡snel	kinov	Regular	C-initial	Basic	Causative	-t͡snel
 357	kiʃadel	2	kaɣel	kiʃad	Regular	C-initial		E-Class	-el
@@ -361,14 +361,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 360	kidagt͡sil	4	xosil	kidagt͡s	Regular	C-initial	Basic	I-Class	-il
 361	kidem	30	kidem	kid	Defective	C-initial			-em
 362	kidnal	20	niharnal	kid	Regular	C-initial		Inchoative	-nal
-363	kirgəntxarnvil	4	zzvil	kirgəntxarn	Regular	C-initial	Passive	Passive	-il
+363	kirgəntxarnvil	4	zzvil	kirgəntxarn	Regular	C-initial	Passive	Passive	-vil
 364	kirnal	20	niharnal	kir	Regular	C-initial		Inchoative	-nal
 365	klklal	6	gartal	klkl	Regular	C-initial		A-Class	-al
 366	klel	2	kaɣel	kl	Regular	C-initial		E-Class	-el
 367	klxadel	2	kaɣel	klxad	Regular	C-initial		E-Class	-el
 368	klxaworel	2	kaɣel	klxawor	Regular	C-initial		E-Class	-el
 369	klorel	2	kaɣel	klor	Regular	C-initial		E-Class	-el
-370	klorvil	4	zzvil	klor	Regular	C-initial	Passive	Passive	-il
+370	klorvil	4	zzvil	klor	Regular	C-initial	Passive	Passive	-vil
 371	kldorel	2	kaɣel	kldor	Regular	C-initial		E-Class	-el
 372	kd͡zakrel	2	kaɣel	kd͡zakr	Regular	C-initial		E-Class	-el
 373	kd͡zel	2	kaɣel	kd͡z	Regular	C-initial		E-Class	-el
@@ -396,7 +396,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 395	kord͡zagt͡sil	4	xosil	kord͡zagt͡s	Regular	C-initial	Basic	I-Class	-il
 396	kord͡zel	2	kaɣel	kord͡z	Regular	C-initial		E-Class	-el
 397	kot͡sel	2	kaɣel	kot͡s	Regular	C-initial		E-Class	-el
-398	kot͡svil	4	zzvil	kot͡s	Regular	C-initial	Passive	Passive	-il
+398	kot͡svil	4	zzvil	kot͡s	Regular	C-initial	Passive	Passive	-vil
 399	kuʒel	2	kaɣel	kuʒ	Regular	C-initial		E-Class	-el
 400	kumarel	2	kaɣel	kumar	Regular	C-initial		E-Class	-el
 401	kunadil	4	xosil	kunad	Regular	C-initial	Basic	I-Class	-il
@@ -405,14 +405,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 404	krkral	6	gartal	krkr	Regular	C-initial		A-Class	-al
 405	kdnal	24	kdnal	kd	Irregular	C-initial	Theme -a-		-nal
 406	kdnel	24	kdnel	kd	Irregular	C-initial	Theme -e-		-nel
-407	kdnvil	4	zzvil	kdn	Regular	C-initial	Passive	Passive	-il
+407	kdnvil	4	zzvil	kdn	Regular	C-initial	Passive	Passive	-vil
 408	krant͡sel	2	kaɣel	krant͡s	Regular	C-initial		E-Class	-el
 409	krawakrel	2	kaɣel	krawakr	Regular	C-initial		E-Class	-el
 410	krawel	2	kaɣel	kraw	Regular	C-initial		E-Class	-el
 411	kraknnel	2	kaɣel	kraknn	Regular	C-initial		E-Class	-el
 412	krkrel	2	kaɣel	krkr	Regular	C-initial		E-Class	-el
 413	krel	2	kaɣel	kr	Regular	C-initial		E-Class	-el
-414	krgaxarnvil	4	zzvil	krgaxarn	Regular	C-initial	Passive	Passive	-il
+414	krgaxarnvil	4	zzvil	krgaxarn	Regular	C-initial	Passive	Passive	-vil
 415	krgel	2	kaɣel	krg	Regular	C-initial		E-Class	-el
 416	krohel	2	kaɣel	kroh	Regular	C-initial		E-Class	-el
 417	krbanel	2	kaɣel	krban	Regular	C-initial		E-Class	-el
@@ -421,7 +421,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 420	kodemardil	4	xosil	kodemard	Regular	C-initial	Basic	I-Class	-il
 421	kodebntel	2	kaɣel	kodebnt	Regular	C-initial		E-Class	-el
 422	kodeworel	2	kaɣel	kodewor	Regular	C-initial		E-Class	-el
-423	kodeworvil	4	zzvil	kodewor	Regular	C-initial	Passive	Passive	-il
+423	kodeworvil	4	zzvil	kodewor	Regular	C-initial	Passive	Passive	-vil
 424	tatret͡snel	10	modet͡snel	tatre	Regular	C-initial	Basic	Causative	-t͡snel
 425	tatril	4	xosil	tatr	Regular	C-initial	Basic	I-Class	-il
 426	tagel	2	kaɣel	tag	Regular	C-initial		E-Class	-el
@@ -442,7 +442,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 441	tasel	2	kaɣel	tas	Regular	C-initial		E-Class	-el
 442	tasdiaragel	2	kaɣel	tasdiarag	Regular	C-initial		E-Class	-el
 443	tadabardel	2	kaɣel	tadabard	Regular	C-initial		E-Class	-el
-444	tadabardvil	4	zzvil	tadabard	Regular	C-initial	Passive	Passive	-il
+444	tadabardvil	4	zzvil	tadabard	Regular	C-initial	Passive	Passive	-vil
 445	tadargel	2	kaɣel	tadarg	Regular	C-initial		E-Class	-el
 446	tadapedel	2	kaɣel	tadaped	Regular	C-initial		E-Class	-el
 447	tadel	2	kaɣel	tad	Regular	C-initial		E-Class	-el
@@ -450,7 +450,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 449	tarpnel	2	kaɣel	tarpn	Regular	C-initial		E-Class	-el
 450	tart͡snel	10	tart͡snel	tar	Regular	C-initial	Orthographic variant with affricate	Causative	-t͡snel
 451	tarmanel	2	kaɣel	tarman	Regular	C-initial		E-Class	-el
-452	tarmanvil	4	zzvil	tarman	Regular	C-initial	Passive	Passive	-il
+452	tarmanvil	4	zzvil	tarman	Regular	C-initial	Passive	Passive	-vil
 453	tarovel	2	kaɣel	tarov	Regular	C-initial		E-Class	-el
 454	tawatrel	2	kaɣel	tawatr	Regular	C-initial		E-Class	-el
 455	tawad͡ʒanel	2	kaɣel	tawad͡ʒan	Regular	C-initial		E-Class	-el
@@ -458,7 +458,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 457	tawel	2	kaɣel	taw	Regular	C-initial		E-Class	-el
 458	tapel	2	kaɣel	tap	Regular	C-initial		E-Class	-el
 459	tekeril	4	xosil	teker	Regular	C-initial	Basic	I-Class	-il
-460	tetewil	4	zzvil	tet	Regular	C-initial	Passive	Passive	-il
+460	tetewil	4	zzvil	tet	Regular	C-initial	Passive	Passive	-vil
 461	teɣel	2	kaɣel	teɣ	Regular	C-initial		E-Class	-el
 462	teɣnil	4	xosil	teɣn	Regular	C-initial	Basic	I-Class	-il
 463	tʒpaxdanal	20	niharnal	tʒpaxda	Regular	C-initial		Inchoative	-nal
@@ -471,7 +471,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 470	tiel	2	kaɣel	ti	Regular	C-initial		E-Class	-el
 471	tiet͡snel	10	modet͡snel	tie	Regular	C-initial	Basic	Causative	-t͡snel
 472	tizel	2	kaɣel	tiz	Regular	C-initial		E-Class	-el
-473	tizvil	4	zzvil	tiz	Regular	C-initial	Passive	Passive	-il
+473	tizvil	4	zzvil	tiz	Regular	C-initial	Passive	Passive	-vil
 474	timakrawel	2	kaɣel	timakraw	Regular	C-initial		E-Class	-el
 475	timatart͡sel	2	kaɣel	timatart͡s	Regular	C-initial		E-Class	-el
 476	timatrel	2	kaɣel	timatr	Regular	C-initial		E-Class	-el
@@ -480,7 +480,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 479	timaworel	2	kaɣel	timawor	Regular	C-initial		E-Class	-el
 480	timel	2	kaɣel	tim	Regular	C-initial		E-Class	-el
 481	tidel	2	kaɣel	tid	Regular	C-initial		E-Class	-el
-482	tirkaworvil	4	zzvil	tirkawor	Regular	C-initial	Passive	Passive	-il
+482	tirkaworvil	4	zzvil	tirkawor	Regular	C-initial	Passive	Passive	-vil
 483	tiwaharil	4	xosil	tiwahar	Regular	C-initial	Basic	I-Class	-il
 484	tiwtel	2	kaɣel	tiwt	Regular	C-initial		E-Class	-el
 485	tiwranal	20	niharnal	tiwra	Regular	C-initial		Inchoative	-nal
@@ -498,9 +498,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 497	tbt͡ʃil	26	tbt͡ʃil	tb	Irregular	C-initial			-t͡ʃil
 498	tbt͡snel	10	modet͡snel	tb	Regular	C-initial	Basic	Causative	-t͡snel
 499	trtel	2	kaɣel	trt	Regular	C-initial		E-Class	-el
-500	trtvil	4	zzvil	trt	Regular	C-initial	Passive	Passive	-il
+500	trtvil	4	zzvil	trt	Regular	C-initial	Passive	Passive	-vil
 501	trʒel	2	kaɣel	trʒ	Regular	C-initial		E-Class	-el
-502	trʒvil	4	zzvil	trʒ	Regular	C-initial	Passive	Passive	-il
+502	trʒvil	4	zzvil	trʒ	Regular	C-initial	Passive	Passive	-vil
 503	troʃmel	2	kaɣel	troʃm	Regular	C-initial		E-Class	-el
 504	trvadel	2	kaɣel	trvad	Regular	C-initial		E-Class	-el
 505	trseworel	2	kaɣel	trsewor	Regular	C-initial		E-Class	-el
@@ -555,7 +555,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 554	ergrortel	1	erkel	ergrort	Regular	V-initial		E-Class	-el
 555	ergrbakel	1	erkel	ergrbak	Regular	V-initial		E-Class	-el
 556	ergpeɣgel	1	erkel	ergpeɣg	Regular	V-initial		E-Class	-el
-557	ergpeɣgvil	3	ad͡zilvil	ergpeɣg	Regular	V-initial	Passive	Passive	-il
+557	ergpeɣgvil	3	ad͡zilvil	ergpeɣg	Regular	V-initial	Passive	Passive	-vil
 558	ernel	1	erkel	ern	Regular	V-initial		E-Class	-el
 559	ert͡ʃanganal	19	amt͡ʃnal	ert͡ʃanga	Regular	V-initial		Inchoative	-nal
 560	ert͡ʃangat͡snel	9	ad͡ʒet͡snel	ert͡ʃanga	Regular	V-initial	Basic	Causative	-t͡snel
@@ -569,7 +569,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 568	zajranal	20	niharnal	zajra	Regular	C-initial		Inchoative	-nal
 569	zajrat͡snel	10	modet͡snel	zajra	Regular	C-initial	Basic	Causative	-t͡snel
 570	zanazanel	2	kaɣel	zanazan	Regular	C-initial		E-Class	-el
-571	zanazanvil	4	zzvil	zanazan	Regular	C-initial	Passive	Passive	-il
+571	zanazanvil	4	zzvil	zanazan	Regular	C-initial	Passive	Passive	-vil
 572	zankaharel	2	kaɣel	zankahar	Regular	C-initial		E-Class	-el
 573	zankel	2	kaɣel	zank	Regular	C-initial		E-Class	-el
 574	zarad͡zel	2	kaɣel	zarad͡z	Regular	C-initial		E-Class	-el
@@ -577,19 +577,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 576	zaramil	4	xosil	zaram	Regular	C-initial	Basic	I-Class	-il
 577	zarant͡sel	2	kaɣel	zarant͡s	Regular	C-initial		E-Class	-el
 578	zadel	2	kaɣel	zad	Regular	C-initial		E-Class	-el
-579	zadvil	4	zzvil	zad	Regular	C-initial	Passive	Passive	-il
+579	zadvil	4	zzvil	zad	Regular	C-initial	Passive	Passive	-vil
 580	zarkanal	20	niharnal	zarka	Regular	C-initial		Inchoative	-nal
 581	zarkat͡snel	10	modet͡snel	zarka	Regular	C-initial	Basic	Causative	-t͡snel
 582	zartangarel	2	kaɣel	zartangar	Regular	C-initial		E-Class	-el
 583	zartarel	2	kaɣel	zartar	Regular	C-initial		E-Class	-el
-584	zartarvil	4	zzvil	zartar	Regular	C-initial	Passive	Passive	-il
+584	zartarvil	4	zzvil	zartar	Regular	C-initial	Passive	Passive	-vil
 585	zartnil	4	xosil	zartn	Regular	C-initial	Basic	I-Class	-il
 586	zartnul	22	zposnul	zart	Archaic	C-initial			-nul
 587	zarhuril	4	xosil	zarhur	Regular	C-initial	Basic	I-Class	-il
 588	zarmanal	20	niharnal	zarma	Regular	C-initial		Inchoative	-nal
 589	zarmat͡snel	10	modet͡snel	zarma	Regular	C-initial	Basic	Causative	-t͡snel
 590	zarnel	46	zarnel	zarn	Suppletive	C-initial			-el
-591	zarnvil	4	zzvil	zarn	Regular	C-initial	Passive	Passive	-il
+591	zarnvil	4	zzvil	zarn	Regular	C-initial	Passive	Passive	-vil
 592	zarduɣil	4	xosil	zarduɣ	Regular	C-initial	Basic	I-Class	-il
 593	zpaɣet͡snel	10	modet͡snel	zpaɣe	Regular	C-initial	Basic	Causative	-t͡snel
 594	zpaɣil	4	xosil	zpaɣ	Regular	C-initial	Basic	I-Class	-il
@@ -597,7 +597,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 596	zposnul	22	zposnul	zpos	Archaic	C-initial			-nul
 597	zkal	6	gartal	zk	Regular	C-initial		A-Class	-al
 598	zkad͡znul	22	zposnul	zkad͡z	Archaic	C-initial			-nul
-599	zkad͡zvil	4	zzvil	zkad͡z	Regular	C-initial	Passive	Passive	-il
+599	zkad͡zvil	4	zzvil	zkad͡z	Regular	C-initial	Passive	Passive	-vil
 600	zkajrel	2	kaɣel	zkajr	Regular	C-initial		E-Class	-el
 601	zkasdanal	20	niharnal	zkasda	Regular	C-initial		Inchoative	-nal
 602	zkasdat͡snel	10	modet͡snel	zkasda	Regular	C-initial	Basic	Causative	-t͡snel
@@ -605,7 +605,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 604	zked͡znul	22	zposnul	zked͡z	Archaic	C-initial			-nul
 605	zkenul	22	zposnul	zke	Archaic	C-initial			-nul
 606	zkesdaworel	2	kaɣel	zkesdawor	Regular	C-initial		E-Class	-el
-607	zkesdaworvil	4	zzvil	zkesdawor	Regular	C-initial	Passive	Passive	-il
+607	zkesdaworvil	4	zzvil	zkesdawor	Regular	C-initial	Passive	Passive	-vil
 608	zkednel	2	kaɣel	zkedn	Regular	C-initial		E-Class	-el
 609	zklxel	2	kaɣel	zklx	Regular	C-initial		E-Class	-el
 610	zkuʃanal	20	niharnal	zkuʃa	Regular	C-initial		Inchoative	-nal
@@ -622,13 +622,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 621	zerd͡zanil	4	xosil	zerd͡zan	Regular	C-initial	Basic	I-Class	-il
 622	zerd͡zel	2	kaɣel	zerd͡z	Regular	C-initial		E-Class	-el
 623	zzvet͡snel	10	modet͡snel	zzve	Regular	C-initial	Basic	Causative	-t͡snel
-624	zzvil	4	zzvil	zz	Regular	C-initial	Passive	Passive	-il
+624	zzvil	4	zzvil	zz	Regular	C-initial	Passive	Passive	-vil
 625	zinatapel	2	kaɣel	zinatap	Regular	C-initial		E-Class	-el
 626	zinagt͡sil	4	xosil	zinagt͡s	Regular	C-initial	Basic	I-Class	-il
 627	zinel	2	kaɣel	zin	Regular	C-initial		E-Class	-el
-628	zinvil	4	zzvil	zin	Regular	C-initial	Passive	Passive	-il
+628	zinvil	4	zzvil	zin	Regular	C-initial	Passive	Passive	-vil
 629	zinvorakrel	2	kaɣel	zinvorakr	Regular	C-initial		E-Class	-el
-630	zinvorakrvil	4	zzvil	zinvorakr	Regular	C-initial	Passive	Passive	-il
+630	zinvorakrvil	4	zzvil	zinvorakr	Regular	C-initial	Passive	Passive	-vil
 631	zit͡ʃanil	4	xosil	zit͡ʃan	Regular	C-initial	Basic	I-Class	-il
 632	zit͡ʃil	47	zit͡ʃil	zit͡ʃ	Irregular	C-initial			-il
 633	zlanal	20	niharnal	zla	Regular	C-initial		Inchoative	-nal
@@ -640,7 +640,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 639	znnel	2	kaɣel	znn	Regular	C-initial		E-Class	-el
 640	zohaperel	38	perel	zohaper	Irregular	C-initial			-el
 641	zohel	2	kaɣel	zoh	Regular	C-initial		E-Class	-el
-642	zohvil	4	zzvil	zoh	Regular	C-initial	Passive	Passive	-il
+642	zohvil	4	zzvil	zoh	Regular	C-initial	Passive	Passive	-vil
 643	zovanal	20	niharnal	zova	Regular	C-initial		Inchoative	-nal
 644	zovat͡snel	10	modet͡snel	zova	Regular	C-initial	Basic	Causative	-t͡snel
 645	zvartanal	20	niharnal	zvarta	Regular	C-initial		Inchoative	-nal
@@ -653,7 +653,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 652	zukagt͡sel	2	kaɣel	zukagt͡s	Regular	C-initial		E-Class	-el
 653	zukagt͡sil	4	xosil	zukagt͡s	Regular	C-initial	Basic	I-Class	-il
 654	zukaworel	2	kaɣel	zukawor	Regular	C-initial		E-Class	-el
-655	zukaworvil	4	zzvil	zukawor	Regular	C-initial	Passive	Passive	-il
+655	zukaworvil	4	zzvil	zukawor	Regular	C-initial	Passive	Passive	-vil
 656	zukel	2	kaɣel	zuk	Regular	C-initial		E-Class	-el
 657	zukortel	2	kaɣel	zukort	Regular	C-initial		E-Class	-el
 658	zsbel	2	kaɣel	zsb	Regular	C-initial		E-Class	-el
@@ -663,7 +663,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 662	zrahel	2	kaɣel	zrah	Regular	C-initial		E-Class	-el
 663	zrawel	2	kaɣel	zraw	Regular	C-initial		E-Class	-el
 664	zrgel	2	kaɣel	zrg	Regular	C-initial		E-Class	-el
-665	zrgvil	4	zzvil	zrg	Regular	C-initial	Passive	Passive	-il
+665	zrgvil	4	zzvil	zrg	Regular	C-initial	Passive	Passive	-vil
 666	zrut͡sadrel	2	kaɣel	zrut͡sadr	Regular	C-initial		E-Class	-el
 667	zrut͡sel	2	kaɣel	zrut͡s	Regular	C-initial		E-Class	-el
 668	zrbardel	2	kaɣel	zrbard	Regular	C-initial		E-Class	-el
@@ -685,24 +685,24 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 684	əmbel	1	erkel	əmb	Regular	V-initial		E-Class	-el
 685	əntarat͡ʃel	1	erkel	əntarat͡ʃ	Regular	V-initial		E-Class	-el
 686	əntart͡sagel	1	erkel	əntart͡sag	Regular	V-initial		E-Class	-el
-687	əntart͡sagvil	3	ad͡zilvil	əntart͡sag	Regular	V-initial	Passive	Passive	-il
+687	əntart͡sagvil	3	ad͡zilvil	əntart͡sag	Regular	V-initial	Passive	Passive	-vil
 688	əntarmat͡snel	9	ad͡ʒet͡snel	əntarma	Regular	V-initial	Basic	Causative	-t͡snel
 689	əntkd͡zel	1	erkel	əntkd͡z	Regular	V-initial		E-Class	-el
 690	əntkrgel	1	erkel	əntkrg	Regular	V-initial		E-Class	-el
 691	ənttimapanel	1	erkel	ənttimapan	Regular	V-initial		E-Class	-el
 692	ənttimaxosel	1	erkel	ənttimaxos	Regular	V-initial		E-Class	-el
 693	ənteluzel	1	erkel	ənteluz	Regular	V-initial		E-Class	-el
-694	ənteluzvil	3	ad͡zilvil	ənteluz	Regular	V-initial	Passive	Passive	-il
+694	ənteluzvil	3	ad͡zilvil	ənteluz	Regular	V-initial	Passive	Passive	-vil
 695	əntlajnel	1	erkel	əntlajn	Regular	V-initial		E-Class	-el
 696	ənthanranal	19	amt͡ʃnal	ənthanra	Regular	V-initial		Inchoative	-nal
 697	ənthanrat͡snel	9	ad͡ʒet͡snel	ənthanra	Regular	V-initial	Basic	Causative	-t͡snel
 698	ənthadel	1	erkel	ənthad	Regular	V-initial		E-Class	-el
-699	ənthadvil	3	ad͡zilvil	ənthad	Regular	V-initial	Passive	Passive	-il
+699	ənthadvil	3	ad͡zilvil	ənthad	Regular	V-initial	Passive	Passive	-vil
 700	əntharil	3	abril	ənthar	Regular	V-initial	Basic	I-Class	-il
 701	əntmit͡ʃel	1	erkel	əntmit͡ʃ	Regular	V-initial		E-Class	-el
 702	əntodnel	1	erkel	əntodn	Regular	V-initial		E-Class	-el
 703	əntunil	48	əntunil	əntun	Irregular	V-initial			-il
-704	əntunvil	3	ad͡zilvil	əntun	Regular	V-initial	Passive	Passive	-il
+704	əntunvil	3	ad͡zilvil	əntun	Regular	V-initial	Passive	Passive	-vil
 705	əntvzil	3	abril	əntvz	Regular	V-initial	Basic	I-Class	-il
 706	əntorinagel	1	erkel	əntorinag	Regular	V-initial		E-Class	-el
 707	ənel	49	ənel	ən	Suppletive	V-initial			-el
@@ -712,14 +712,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 711	əntert͡sel	1	erkel	əntert͡s	Regular	V-initial		E-Class	-el
 712	əntrel	1	erkel	əntr	Regular	V-initial		E-Class	-el
 713	ənd͡zajel	1	erkel	ənd͡zaj	Regular	V-initial		E-Class	-el
-714	ənd͡zajvil	3	ad͡zilvil	ənd͡zaj	Regular	V-initial	Passive	Passive	-il
+714	ənd͡zajvil	3	ad͡zilvil	ənd͡zaj	Regular	V-initial	Passive	Passive	-vil
 715	əngeragt͡sil	3	abril	əngeragt͡s	Regular	V-initial	Basic	I-Class	-il
 716	əngeranal	19	amt͡ʃnal	əngera	Regular	V-initial		Inchoative	-nal
 717	əngluzel	1	erkel	əngluz	Regular	V-initial		E-Class	-el
 718	əngɣmel	1	erkel	əngɣm	Regular	V-initial		E-Class	-el
 719	əngɣmil	3	abril	əngɣm	Regular	V-initial	Basic	I-Class	-il
 720	əngd͡ʒel	1	erkel	əngd͡ʒ	Regular	V-initial		E-Class	-el
-721	əngd͡ʒvil	3	ad͡zilvil	əngd͡ʒ	Regular	V-initial	Passive	Passive	-il
+721	əngd͡ʒvil	3	ad͡zilvil	əngd͡ʒ	Regular	V-initial	Passive	Passive	-vil
 722	əngoɣmanil	3	abril	əngoɣman	Regular	V-initial	Basic	I-Class	-il
 723	əngrgil	3	abril	əngrg	Regular	V-initial	Basic	I-Class	-il
 724	ənt͡serel	1	erkel	ənt͡ser	Regular	V-initial		E-Class	-el
@@ -736,7 +736,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 735	tataxel	2	kaɣel	tatax	Regular	C-initial		E-Class	-el
 736	tatawel	2	kaɣel	tataw	Regular	C-initial		E-Class	-el
 737	tatxel	2	kaɣel	tatx	Regular	C-initial		E-Class	-el
-738	tatxvil	4	zzvil	tatx	Regular	C-initial	Passive	Passive	-il
+738	tatxvil	4	zzvil	tatx	Regular	C-initial	Passive	Passive	-vil
 739	talanel	2	kaɣel	talan	Regular	C-initial		E-Class	-el
 740	tallel	2	kaɣel	tall	Regular	C-initial		E-Class	-el
 741	talganal	20	niharnal	talga	Regular	C-initial		Inchoative	-nal
@@ -745,7 +745,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 744	tagartel	2	kaɣel	tagart	Regular	C-initial		E-Class	-el
 745	tagel	2	kaɣel	tag	Regular	C-initial		E-Class	-el
 746	taɣel	2	kaɣel	taɣ	Regular	C-initial		E-Class	-el
-747	taɣvil	4	zzvil	taɣ	Regular	C-initial	Passive	Passive	-il
+747	taɣvil	4	zzvil	taɣ	Regular	C-initial	Passive	Passive	-vil
 748	tampel	2	kaɣel	tamp	Regular	C-initial		E-Class	-el
 749	tanal	20	niharnal	ta	Regular	C-initial		Inchoative	-nal
 750	tant͡sranal	20	niharnal	tant͡sra	Regular	C-initial		Inchoative	-nal
@@ -786,7 +786,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 785	tekil	4	xosil	tek	Regular	C-initial	Basic	I-Class	-il
 786	tzgal	6	gartal	tzg	Regular	C-initial		A-Class	-al
 787	ttvet͡snel	10	modet͡snel	ttve	Regular	C-initial	Basic	Causative	-t͡snel
-788	ttvil	4	zzvil	tt	Regular	C-initial	Passive	Passive	-il
+788	ttvil	4	zzvil	tt	Regular	C-initial	Passive	Passive	-vil
 789	tiavarel	2	kaɣel	tiavar	Regular	C-initial		E-Class	-el
 790	tignil	4	xosil	tign	Regular	C-initial	Basic	I-Class	-il
 791	tlpadel	2	kaɣel	tlpad	Regular	C-initial		E-Class	-el
@@ -813,10 +813,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 812	tvakrel	2	kaɣel	tvakr	Regular	C-initial		E-Class	-el
 813	tvargel	2	kaɣel	tvarg	Regular	C-initial		E-Class	-el
 814	tvel	2	kaɣel	tu	Regular	C-initial		E-Class	-el
-815	tvil	4	zzvil	t	Regular	C-initial	Passive	Passive	-il
+815	tvil	4	zzvil	t	Regular	C-initial	Passive	Passive	-vil
 816	tulnal	20	niharnal	tul	Regular	C-initial		Inchoative	-nal
 817	tunaworel	2	kaɣel	tunawor	Regular	C-initial		E-Class	-el
-818	tunaworvil	4	zzvil	tunawor	Regular	C-initial	Passive	Passive	-il
+818	tunaworvil	4	zzvil	tunawor	Regular	C-initial	Passive	Passive	-vil
 819	tril	44	tbil	tr	Irregular	C-initial			-il
 820	trt͡ʃil	26	tbt͡ʃil	tr	Irregular	C-initial			-t͡ʃil
 821	trt͡ʃgodel	2	kaɣel	trt͡ʃgod	Regular	C-initial		E-Class	-el
@@ -825,10 +825,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 824	tradel	2	kaɣel	trad	Regular	C-initial		E-Class	-el
 825	trtral	6	gartal	trtr	Regular	C-initial		A-Class	-al
 826	trd͡zel	2	kaɣel	trd͡z	Regular	C-initial		E-Class	-el
-827	trd͡zvil	4	zzvil	trd͡z	Regular	C-initial	Passive	Passive	-il
+827	trd͡zvil	4	zzvil	trd͡z	Regular	C-initial	Passive	Passive	-vil
 828	trmel	2	kaɣel	trm	Regular	C-initial		E-Class	-el
 829	trt͡ʃel	2	kaɣel	trt͡ʃ	Regular	C-initial		E-Class	-el
-830	trt͡ʃvil	4	zzvil	trt͡ʃ	Regular	C-initial	Passive	Passive	-il
+830	trt͡ʃvil	4	zzvil	trt͡ʃ	Regular	C-initial	Passive	Passive	-vil
 831	tprdal	6	gartal	tprd	Regular	C-initial		A-Class	-al
 832	tkel	2	kaɣel	tk	Regular	C-initial		E-Class	-el
 833	tknel	51	tknel	tk	Suppletive	C-initial			-nel
@@ -838,7 +838,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 837	ʒahahodel	2	kaɣel	ʒahahod	Regular	C-initial		E-Class	-el
 838	ʒahahodil	4	xosil	ʒahahod	Regular	C-initial	Basic	I-Class	-il
 839	ʒamatrel	2	kaɣel	ʒamatr	Regular	C-initial		E-Class	-el
-840	ʒamatrvil	4	zzvil	ʒamatr	Regular	C-initial	Passive	Passive	-il
+840	ʒamatrvil	4	zzvil	ʒamatr	Regular	C-initial	Passive	Passive	-vil
 841	ʒamanel	2	kaɣel	ʒaman	Regular	C-initial		E-Class	-el
 842	ʒajtkel	2	kaɣel	ʒajtk	Regular	C-initial		E-Class	-el
 843	ʒankodil	4	xosil	ʒankod	Regular	C-initial	Basic	I-Class	-il
@@ -884,7 +884,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 883	lerganal	20	niharnal	lerga	Regular	C-initial		Inchoative	-nal
 884	lergat͡snel	10	modet͡snel	lerga	Regular	C-initial	Basic	Causative	-t͡snel
 885	let͡snel	10	modet͡snel	le	Regular	C-initial	Basic	Causative	-t͡snel
-886	let͡svil	4	zzvil	let͡s	Regular	C-initial	Passive	Passive	-il
+886	let͡svil	4	zzvil	let͡s	Regular	C-initial	Passive	Passive	-vil
 887	lzel	2	kaɣel	lz	Regular	C-initial		E-Class	-el
 888	lzvərdel	2	kaɣel	lzvərd	Regular	C-initial		E-Class	-el
 889	liazorel	2	kaɣel	liazor	Regular	C-initial		E-Class	-el
@@ -911,7 +911,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 910	lval	6	gartal	lu	Regular	C-initial		A-Class	-al
 911	lvel	2	kaɣel	lu	Regular	C-initial		E-Class	-el
 912	lud͡zel	2	kaɣel	lud͡z	Regular	C-initial		E-Class	-el
-913	lud͡zvil	4	zzvil	lud͡z	Regular	C-initial	Passive	Passive	-il
+913	lud͡zvil	4	zzvil	lud͡z	Regular	C-initial	Passive	Passive	-vil
 914	lusapanel	2	kaɣel	lusapan	Regular	C-initial		E-Class	-el
 915	lusazartel	2	kaɣel	lusazart	Regular	C-initial		E-Class	-el
 916	lusangarel	2	kaɣel	lusangar	Regular	C-initial		E-Class	-el
@@ -922,7 +922,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 921	lrel	2	kaɣel	lr	Regular	C-initial		E-Class	-el
 922	lret͡snel	10	modet͡snel	lre	Regular	C-initial	Basic	Causative	-t͡snel
 923	lsel	2	kaɣel	ls	Regular	C-initial		E-Class	-el
-924	lsvil	4	zzvil	ls	Regular	C-initial	Passive	Passive	-il
+924	lsvil	4	zzvil	ls	Regular	C-initial	Passive	Passive	-vil
 925	lranal	20	niharnal	lra	Regular	C-initial		Inchoative	-nal
 926	lrat͡snel	10	modet͡snel	lra	Regular	C-initial	Basic	Causative	-t͡snel
 927	lrpanal	20	niharnal	lrpa	Regular	C-initial		Inchoative	-nal
@@ -932,10 +932,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 931	lprdel	2	kaɣel	lprd	Regular	C-initial		E-Class	-el
 932	lkel	2	kaɣel	lk	Regular	C-initial		E-Class	-el
 933	xapel	2	kaɣel	xap	Regular	C-initial		E-Class	-el
-934	xapvil	4	zzvil	xap	Regular	C-initial	Passive	Passive	-il
+934	xapvil	4	zzvil	xap	Regular	C-initial	Passive	Passive	-vil
 935	xazel	2	kaɣel	xaz	Regular	C-initial		E-Class	-el
 936	xatarel	2	kaɣel	xatar	Regular	C-initial		E-Class	-el
-937	xatarvil	4	zzvil	xatar	Regular	C-initial	Passive	Passive	-il
+937	xatarvil	4	zzvil	xatar	Regular	C-initial	Passive	Passive	-vil
 938	xaxalel	2	kaɣel	xaxal	Regular	C-initial		E-Class	-el
 939	xaxant͡ʃel	2	kaɣel	xaxant͡ʃ	Regular	C-initial		E-Class	-el
 940	xaxdel	2	kaɣel	xaxd	Regular	C-initial		E-Class	-el
@@ -952,12 +952,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 951	xajd͡zil	4	xosil	xajd͡z	Regular	C-initial	Basic	I-Class	-il
 952	xajdal	6	gartal	xajd	Regular	C-initial		A-Class	-al
 953	xajdaragel	2	kaɣel	xajdarag	Regular	C-initial		E-Class	-el
-954	xajdaragvil	4	zzvil	xajdarag	Regular	C-initial	Passive	Passive	-il
+954	xajdaragvil	4	zzvil	xajdarag	Regular	C-initial	Passive	Passive	-vil
 955	xankarel	2	kaɣel	xankar	Regular	C-initial		E-Class	-el
-956	xankarvil	4	zzvil	xankar	Regular	C-initial	Passive	Passive	-il
+956	xankarvil	4	zzvil	xankar	Regular	C-initial	Passive	Passive	-vil
 957	xantaɣadil	4	xosil	xantaɣad	Regular	C-initial	Basic	I-Class	-il
 958	xantavarel	2	kaɣel	xantavar	Regular	C-initial		E-Class	-el
-959	xantavarvil	4	zzvil	xantavar	Regular	C-initial	Passive	Passive	-il
+959	xantavarvil	4	zzvil	xantavar	Regular	C-initial	Passive	Passive	-vil
 960	xand͡zel	2	kaɣel	xand͡z	Regular	C-initial		E-Class	-el
 961	xand͡zil	4	xosil	xand͡z	Regular	C-initial	Basic	I-Class	-il
 962	xant͡sel	2	kaɣel	xant͡s	Regular	C-initial		E-Class	-el
@@ -973,7 +973,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 972	xarnagel	2	kaɣel	xarnag	Regular	C-initial		E-Class	-el
 973	xarnagil	4	xosil	xarnag	Regular	C-initial	Basic	I-Class	-il
 974	xarnel	2	kaɣel	xarn	Regular	C-initial		E-Class	-el
-975	xarnvil	4	zzvil	xarn	Regular	C-initial	Passive	Passive	-il
+975	xarnvil	4	zzvil	xarn	Regular	C-initial	Passive	Passive	-vil
 976	xarazanel	2	kaɣel	xarazan	Regular	C-initial		E-Class	-el
 977	xaranel	2	kaɣel	xaran	Regular	C-initial		E-Class	-el
 978	xarpalel	2	kaɣel	xarpal	Regular	C-initial		E-Class	-el
@@ -997,7 +997,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 996	xeloknal	20	niharnal	xelok	Regular	C-initial		Inchoative	-nal
 997	xeɣatiwrel	2	kaɣel	xeɣatiwr	Regular	C-initial		E-Class	-el
 998	xeɣtel	2	kaɣel	xeɣt	Regular	C-initial		E-Class	-el
-999	xeɣtvil	4	zzvil	xeɣt	Regular	C-initial	Passive	Passive	-il
+999	xeɣtvil	4	zzvil	xeɣt	Regular	C-initial	Passive	Passive	-vil
 1000	xeɣel	2	kaɣel	xeɣ	Regular	C-initial		E-Class	-el
 1001	xeɣd͡ʒanal	20	niharnal	xeɣd͡ʒa	Regular	C-initial		Inchoative	-nal
 1002	xentanal	20	niharnal	xenta	Regular	C-initial		Inchoative	-nal
@@ -1020,7 +1020,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1019	xmpakrel	2	kaɣel	xmpakr	Regular	C-initial		E-Class	-el
 1020	xmpaworel	2	kaɣel	xmpawor	Regular	C-initial		E-Class	-el
 1021	xmpel	2	kaɣel	xmp	Regular	C-initial		E-Class	-el
-1022	xmpvil	4	zzvil	xmp	Regular	C-initial	Passive	Passive	-il
+1022	xmpvil	4	zzvil	xmp	Regular	C-initial	Passive	Passive	-vil
 1023	xmel	2	kaɣel	xm	Regular	C-initial		E-Class	-el
 1024	xmorel	2	kaɣel	xmor	Regular	C-initial		E-Class	-el
 1025	xnamel	2	kaɣel	xnam	Regular	C-initial		E-Class	-el
@@ -1058,7 +1058,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1057	xodoril	4	xosil	xodor	Regular	C-initial	Basic	I-Class	-il
 1058	xoranal	20	niharnal	xora	Regular	C-initial		Inchoative	-nal
 1059	xorat͡ʃapel	2	kaɣel	xorat͡ʃap	Regular	C-initial		E-Class	-el
-1060	xorasuzvil	4	zzvil	xorasuz	Regular	C-initial	Passive	Passive	-il
+1060	xorasuzvil	4	zzvil	xorasuz	Regular	C-initial	Passive	Passive	-vil
 1061	xorat͡snel	10	modet͡snel	xora	Regular	C-initial	Basic	Causative	-t͡snel
 1062	xortal	6	gartal	xort	Regular	C-initial		A-Class	-al
 1063	xorel	2	kaɣel	xor	Regular	C-initial		E-Class	-el
@@ -1072,9 +1072,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1071	xorʃomel	2	kaɣel	xorʃom	Regular	C-initial		E-Class	-el
 1072	xorʃomil	4	xosil	xorʃom	Regular	C-initial	Basic	I-Class	-il
 1073	xorovel	2	kaɣel	xorov	Regular	C-initial		E-Class	-el
-1074	xorovvil	4	zzvil	xorov	Regular	C-initial	Passive	Passive	-il
+1074	xorovvil	4	zzvil	xorov	Regular	C-initial	Passive	Passive	-vil
 1075	xordagel	2	kaɣel	xordag	Regular	C-initial		E-Class	-el
-1076	xordagvil	4	zzvil	xordag	Regular	C-initial	Passive	Passive	-il
+1076	xordagvil	4	zzvil	xordag	Regular	C-initial	Passive	Passive	-vil
 1077	xot͡sel	2	kaɣel	xot͡s	Regular	C-initial		E-Class	-el
 1078	xot͡sodel	2	kaɣel	xot͡sod	Regular	C-initial		E-Class	-el
 1079	xuzargel	2	kaɣel	xuzarg	Regular	C-initial		E-Class	-el
@@ -1089,7 +1089,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1088	xrgal	6	gartal	xrg	Regular	C-initial		A-Class	-al
 1089	xrmpal	6	gartal	xrmp	Regular	C-initial		A-Class	-al
 1090	xrnel	2	kaɣel	xrn	Regular	C-initial		E-Class	-el
-1091	xrnvil	4	zzvil	xrn	Regular	C-initial	Passive	Passive	-il
+1091	xrnvil	4	zzvil	xrn	Regular	C-initial	Passive	Passive	-vil
 1092	xrovel	2	kaɣel	xrov	Regular	C-initial		E-Class	-el
 1093	xrovil	4	xosil	xrov	Regular	C-initial	Basic	I-Class	-il
 1094	xrfil	4	xosil	xrf	Regular	C-initial	Basic	I-Class	-il
@@ -1121,15 +1121,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1120	d͡zalel	2	kaɣel	d͡zal	Regular	C-initial		E-Class	-el
 1121	d͡zallel	2	kaɣel	d͡zall	Regular	C-initial		E-Class	-el
 1122	d͡zaxel	2	kaɣel	d͡zax	Regular	C-initial		E-Class	-el
-1123	d͡zaxvil	4	zzvil	d͡zax	Regular	C-initial	Passive	Passive	-il
+1123	d͡zaxvil	4	zzvil	d͡zax	Regular	C-initial	Passive	Passive	-vil
 1124	d͡zad͡zanil	4	xosil	d͡zad͡zan	Regular	C-initial	Basic	I-Class	-il
 1125	d͡zad͡zgel	2	kaɣel	d͡zad͡zg	Regular	C-initial		E-Class	-el
-1126	d͡zad͡zgvil	4	zzvil	d͡zad͡zg	Regular	C-initial	Passive	Passive	-il
+1126	d͡zad͡zgvil	4	zzvil	d͡zad͡zg	Regular	C-initial	Passive	Passive	-vil
 1127	d͡zaganʃel	2	kaɣel	d͡zaganʃ	Regular	C-initial		E-Class	-el
 1128	d͡zagel	2	kaɣel	d͡zag	Regular	C-initial		E-Class	-el
 1129	d͡zagd͡zgel	2	kaɣel	d͡zagd͡zg	Regular	C-initial		E-Class	-el
 1130	d͡zagodel	2	kaɣel	d͡zagod	Regular	C-initial		E-Class	-el
-1131	d͡zagvil	4	zzvil	d͡zag	Regular	C-initial	Passive	Passive	-il
+1131	d͡zagvil	4	zzvil	d͡zag	Regular	C-initial	Passive	Passive	-vil
 1132	d͡zaɣgazartel	2	kaɣel	d͡zaɣgazart	Regular	C-initial		E-Class	-el
 1133	d͡zaɣgel	2	kaɣel	d͡zaɣg	Regular	C-initial		E-Class	-el
 1134	d͡zaɣget͡snel	10	modet͡snel	d͡zaɣge	Regular	C-initial	Basic	Causative	-t͡snel
@@ -1152,7 +1152,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1151	d͡zarajel	2	kaɣel	d͡zaraj	Regular	C-initial		E-Class	-el
 1152	d͡zarajet͡snel	10	modet͡snel	d͡zaraje	Regular	C-initial	Basic	Causative	-t͡snel
 1153	d͡zaranal	20	niharnal	d͡zara	Regular	C-initial		Inchoative	-nal
-1154	d͡zarawil	4	zzvil	d͡zar	Regular	C-initial	Passive	Passive	-il
+1154	d͡zarawil	4	zzvil	d͡zar	Regular	C-initial	Passive	Passive	-vil
 1155	d͡zarawnal	20	niharnal	d͡zaraw	Regular	C-initial		Inchoative	-nal
 1156	d͡zarirel	2	kaɣel	d͡zarir	Regular	C-initial		E-Class	-el
 1157	d͡zarurel	2	kaɣel	d͡zarur	Regular	C-initial		E-Class	-el
@@ -1162,7 +1162,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1161	d͡zapel	2	kaɣel	d͡zap	Regular	C-initial		E-Class	-el
 1162	d͡zetewetel	2	kaɣel	d͡zetewet	Regular	C-initial		E-Class	-el
 1163	d͡zed͡zel	2	kaɣel	d͡zed͡z	Regular	C-initial		E-Class	-el
-1164	d͡zed͡zvil	4	zzvil	d͡zed͡z	Regular	C-initial	Passive	Passive	-il
+1164	d͡zed͡zvil	4	zzvil	d͡zed͡z	Regular	C-initial	Passive	Passive	-vil
 1165	d͡zeranal	20	niharnal	d͡zera	Regular	C-initial		Inchoative	-nal
 1166	d͡zepel	2	kaɣel	d͡zep	Regular	C-initial		E-Class	-el
 1167	d͡zekel	2	kaɣel	d͡zek	Regular	C-initial		E-Class	-el
@@ -1184,7 +1184,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1183	d͡zvadil	4	xosil	d͡zvad	Regular	C-initial	Basic	I-Class	-il
 1184	d͡zvaril	4	xosil	d͡zvar	Regular	C-initial	Basic	I-Class	-il
 1185	d͡zbdel	2	kaɣel	d͡zbd	Regular	C-initial		E-Class	-el
-1186	d͡zbdvil	4	zzvil	d͡zbd	Regular	C-initial	Passive	Passive	-il
+1186	d͡zbdvil	4	zzvil	d͡zbd	Regular	C-initial	Passive	Passive	-vil
 1187	d͡zrel	2	kaɣel	d͡zr	Regular	C-initial		E-Class	-el
 1188	d͡zril	4	xosil	d͡zr	Regular	C-initial	Basic	I-Class	-il
 1189	d͡zrakrel	2	kaɣel	d͡zrakr	Regular	C-initial		E-Class	-el
@@ -1192,13 +1192,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1191	d͡zrdel	2	kaɣel	d͡zrd	Regular	C-initial		E-Class	-el
 1192	d͡zpal	6	gartal	d͡zp	Regular	C-initial		A-Class	-al
 1193	gazturel	2	kaɣel	gaztur	Regular	C-initial		E-Class	-el
-1194	gazturvil	4	zzvil	gaztur	Regular	C-initial	Passive	Passive	-il
+1194	gazturvil	4	zzvil	gaztur	Regular	C-initial	Passive	Passive	-vil
 1195	gazmalud͡zel	2	kaɣel	gazmalud͡z	Regular	C-initial		E-Class	-el
-1196	gazmalud͡zvil	4	zzvil	gazmalud͡z	Regular	C-initial	Passive	Passive	-il
+1196	gazmalud͡zvil	4	zzvil	gazmalud͡z	Regular	C-initial	Passive	Passive	-vil
 1197	gazmagerbel	2	kaɣel	gazmagerb	Regular	C-initial		E-Class	-el
-1198	gazmagerbvil	4	zzvil	gazmagerb	Regular	C-initial	Passive	Passive	-il
+1198	gazmagerbvil	4	zzvil	gazmagerb	Regular	C-initial	Passive	Passive	-vil
 1199	gazmaworel	2	kaɣel	gazmawor	Regular	C-initial		E-Class	-el
-1200	gazmaworvil	4	zzvil	gazmawor	Regular	C-initial	Passive	Passive	-il
+1200	gazmaworvil	4	zzvil	gazmawor	Regular	C-initial	Passive	Passive	-vil
 1201	gazmel	2	kaɣel	gazm	Regular	C-initial		E-Class	-el
 1202	gatil	4	xosil	gat	Regular	C-initial	Basic	I-Class	-il
 1203	gatodil	4	xosil	gatod	Regular	C-initial	Basic	I-Class	-il
@@ -1209,7 +1209,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1208	gaxagajel	2	kaɣel	gaxagaj	Regular	C-initial		E-Class	-el
 1209	gaxartel	2	kaɣel	gaxart	Regular	C-initial		E-Class	-el
 1210	gaxel	2	kaɣel	gax	Regular	C-initial		E-Class	-el
-1211	gaxvil	4	zzvil	gax	Regular	C-initial	Passive	Passive	-il
+1211	gaxvil	4	zzvil	gax	Regular	C-initial	Passive	Passive	-vil
 1212	gagazel	2	kaɣel	gagaz	Regular	C-initial		E-Class	-el
 1213	gaguɣnal	20	niharnal	gaguɣ	Regular	C-initial		Inchoative	-nal
 1214	gaguɣt͡snel	10	modet͡snel	gaguɣ	Regular	C-initial	Basic	Causative	-t͡snel
@@ -1237,12 +1237,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1236	gant͡ʃel	2	kaɣel	gant͡ʃ	Regular	C-initial		E-Class	-el
 1237	gant͡ʃvərdel	2	kaɣel	gant͡ʃvərd	Regular	C-initial		E-Class	-el
 1238	gaʃarel	2	kaɣel	gaʃar	Regular	C-initial		E-Class	-el
-1239	gaʃarvil	4	zzvil	gaʃar	Regular	C-initial	Passive	Passive	-il
+1239	gaʃarvil	4	zzvil	gaʃar	Regular	C-initial	Passive	Passive	-vil
 1240	gaʃgantel	2	kaɣel	gaʃgant	Regular	C-initial		E-Class	-el
-1241	gaʃgantvil	4	zzvil	gaʃgant	Regular	C-initial	Passive	Passive	-il
+1241	gaʃgantvil	4	zzvil	gaʃgant	Regular	C-initial	Passive	Passive	-vil
 1242	gabel	2	kaɣel	gab	Regular	C-initial		E-Class	-el
 1243	gabgel	2	kaɣel	gabg	Regular	C-initial		E-Class	-el
-1244	gabvil	4	zzvil	gab	Regular	C-initial	Passive	Passive	-il
+1244	gabvil	4	zzvil	gab	Regular	C-initial	Passive	Passive	-vil
 1245	gabdel	2	kaɣel	gabd	Regular	C-initial		E-Class	-el
 1246	garanel	2	kaɣel	garan	Regular	C-initial		E-Class	-el
 1247	garat͡ʃel	2	kaɣel	garat͡ʃ	Regular	C-initial		E-Class	-el
@@ -1257,14 +1257,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1256	gadagel	2	kaɣel	gadag	Regular	C-initial		E-Class	-el
 1257	gadarel	2	kaɣel	gadar	Regular	C-initial		E-Class	-el
 1258	gadarelakord͡zel	2	kaɣel	gadarelakord͡z	Regular	C-initial		E-Class	-el
-1259	gadarelakord͡zvil	4	zzvil	gadarelakord͡z	Regular	C-initial	Passive	Passive	-il
-1260	gadarvil	4	zzvil	gadar	Regular	C-initial	Passive	Passive	-il
+1259	gadarelakord͡zvil	4	zzvil	gadarelakord͡z	Regular	C-initial	Passive	Passive	-vil
+1260	gadarvil	4	zzvil	gadar	Regular	C-initial	Passive	Passive	-vil
 1261	gadɣet͡snel	10	modet͡snel	gadɣe	Regular	C-initial	Basic	Causative	-t͡snel
 1262	gadɣil	4	xosil	gadɣ	Regular	C-initial	Basic	I-Class	-il
 1263	garkatrel	2	kaɣel	garkatr	Regular	C-initial		E-Class	-el
 1264	garkaworel	2	kaɣel	garkawor	Regular	C-initial		E-Class	-el
 1265	garkel	2	kaɣel	gark	Regular	C-initial		E-Class	-el
-1266	garkvil	4	zzvil	gark	Regular	C-initial	Passive	Passive	-il
+1266	garkvil	4	zzvil	gark	Regular	C-initial	Passive	Passive	-vil
 1267	gartal	6	gartal	gart	Regular	C-initial		A-Class	-al
 1268	garel	2	kaɣel	gar	Regular	C-initial		E-Class	-el
 1269	garegt͡sil	47	zit͡ʃil	garegt͡s	Irregular	C-initial			-il
@@ -1309,9 +1309,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1308	gentananal	20	niharnal	gentana	Regular	C-initial		Inchoative	-nal
 1309	gentanat͡snel	10	modet͡snel	gentana	Regular	C-initial	Basic	Causative	-t͡snel
 1310	geragrel	2	kaɣel	geragr	Regular	C-initial		E-Class	-el
-1311	geragrvil	4	zzvil	geragr	Regular	C-initial	Passive	Passive	-il
+1311	geragrvil	4	zzvil	geragr	Regular	C-initial	Passive	Passive	-vil
 1312	gerbaranapoxel	2	kaɣel	gerbaranapox	Regular	C-initial		E-Class	-el
-1313	gerbaranapoxvil	4	zzvil	gerbaranapox	Regular	C-initial	Passive	Passive	-il
+1313	gerbaranapoxvil	4	zzvil	gerbaranapox	Regular	C-initial	Passive	Passive	-vil
 1314	gerdel	2	kaɣel	gerd	Regular	C-initial		E-Class	-el
 1315	gert͡snel	10	modet͡snel	ger	Regular	C-initial	Basic	Causative	-t͡snel
 1316	get͡snel	10	modet͡snel	ge	Regular	C-initial	Basic	Causative	-t͡snel
@@ -1331,7 +1331,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1330	glort͡snel	10	modet͡snel	glor	Regular	C-initial	Basic	Causative	-t͡snel
 1331	gd͡zel	2	kaɣel	gd͡z	Regular	C-initial		E-Class	-el
 1332	gd͡zgel	2	kaɣel	gd͡zg	Regular	C-initial		E-Class	-el
-1333	gd͡zgvil	4	zzvil	gd͡zg	Regular	C-initial	Passive	Passive	-il
+1333	gd͡zgvil	4	zzvil	gd͡zg	Regular	C-initial	Passive	Passive	-vil
 1334	gd͡zgdil	4	xosil	gd͡zgd	Regular	C-initial	Basic	I-Class	-il
 1335	ggzil	4	xosil	ggz	Regular	C-initial	Basic	I-Class	-il
 1336	gɣzianal	20	niharnal	gɣzia	Regular	C-initial		Inchoative	-nal
@@ -1353,22 +1353,22 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1352	gotoɣel	2	kaɣel	gotoɣ	Regular	C-initial		E-Class	-el
 1353	goxel	2	kaɣel	gox	Regular	C-initial		E-Class	-el
 1354	goxgrdel	2	kaɣel	goxgrd	Regular	C-initial		E-Class	-el
-1355	goxgrdvil	4	zzvil	goxgrd	Regular	C-initial	Passive	Passive	-il
+1355	goxgrdvil	4	zzvil	goxgrd	Regular	C-initial	Passive	Passive	-vil
 1356	god͡zel	2	kaɣel	god͡z	Regular	C-initial		E-Class	-el
 1357	gogel	2	kaɣel	gog	Regular	C-initial		E-Class	-el
 1358	gogozapanel	2	kaɣel	gogozapan	Regular	C-initial		E-Class	-el
-1359	goɣmnoroʃvil	4	zzvil	goɣmnoroʃ	Regular	C-initial	Passive	Passive	-il
-1360	goɣobdvil	4	zzvil	goɣobd	Regular	C-initial	Passive	Passive	-il
+1359	goɣmnoroʃvil	4	zzvil	goɣmnoroʃ	Regular	C-initial	Passive	Passive	-vil
+1360	goɣobdvil	4	zzvil	goɣobd	Regular	C-initial	Passive	Passive	-vil
 1361	god͡ʒgel	2	kaɣel	god͡ʒg	Regular	C-initial		E-Class	-el
 1362	god͡ʒobel	2	kaɣel	god͡ʒob	Regular	C-initial		E-Class	-el
 1363	gond͡zel	2	kaɣel	gond͡z	Regular	C-initial		E-Class	-el
 1364	goʃgod͡ʒel	2	kaɣel	goʃgod͡ʒ	Regular	C-initial		E-Class	-el
 1365	got͡ʃel	2	kaɣel	got͡ʃ	Regular	C-initial		E-Class	-el
-1366	got͡ʃvil	4	zzvil	got͡ʃ	Regular	C-initial	Passive	Passive	-il
+1366	got͡ʃvil	4	zzvil	got͡ʃ	Regular	C-initial	Passive	Passive	-vil
 1367	godoragel	2	kaɣel	godorag	Regular	C-initial		E-Class	-el
 1368	godorel	2	kaɣel	godor	Regular	C-initial		E-Class	-el
 1369	godrel	2	kaɣel	godr	Regular	C-initial		E-Class	-el
-1370	godrvil	4	zzvil	godr	Regular	C-initial	Passive	Passive	-il
+1370	godrvil	4	zzvil	godr	Regular	C-initial	Passive	Passive	-vil
 1371	godrdel	2	kaɣel	godrd	Regular	C-initial		E-Class	-el
 1372	goranal	20	niharnal	gora	Regular	C-initial		Inchoative	-nal
 1373	gord͡zanel	2	kaɣel	gord͡zan	Regular	C-initial		E-Class	-el
@@ -1378,14 +1378,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1377	gort͡ʃel	2	kaɣel	gort͡ʃ	Regular	C-initial		E-Class	-el
 1378	gort͡ʃil	16	gbt͡ʃil	gor	Irregular	C-initial			-t͡ʃil
 1379	gorsnt͡snel	10	modet͡snel	gorsn	Regular	C-initial	Basic	Causative	-t͡snel
-1380	gorsvil	4	zzvil	gors	Regular	C-initial	Passive	Passive	-il
+1380	gorsvil	4	zzvil	gors	Regular	C-initial	Passive	Passive	-vil
 1381	gudagel	2	kaɣel	gudag	Regular	C-initial		E-Class	-el
-1382	gudagvil	4	zzvil	gudag	Regular	C-initial	Passive	Passive	-il
+1382	gudagvil	4	zzvil	gudag	Regular	C-initial	Passive	Passive	-vil
 1383	gudel	2	kaɣel	gud	Regular	C-initial		E-Class	-el
 1384	gurnal	20	niharnal	gur	Regular	C-initial		Inchoative	-nal
 1385	gurt͡snel	10	modet͡snel	gur	Regular	C-initial	Basic	Causative	-t͡snel
 1386	gopel	2	kaɣel	gop	Regular	C-initial		E-Class	-el
-1387	gopvil	4	zzvil	gop	Regular	C-initial	Passive	Passive	-il
+1387	gopvil	4	zzvil	gop	Regular	C-initial	Passive	Passive	-vil
 1388	gbt͡ʃil	16	gbt͡ʃil	gb	Irregular	C-initial			-t͡ʃil
 1389	gbrabadel	2	kaɣel	gbrabad	Regular	C-initial		E-Class	-el
 1390	gbt͡snel	10	modet͡snel	gb	Regular	C-initial	Basic	Causative	-t͡snel
@@ -1400,7 +1400,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1399	grnd͡zil	4	xosil	grnd͡z	Regular	C-initial	Basic	I-Class	-il
 1400	grnt͡ʃel	2	kaɣel	grnt͡ʃ	Regular	C-initial		E-Class	-el
 1401	grvədil	4	xosil	grvəd	Regular	C-initial	Basic	I-Class	-il
-1402	grvil	4	zzvil	gr	Regular	C-initial	Passive	Passive	-il
+1402	grvil	4	zzvil	gr	Regular	C-initial	Passive	Passive	-vil
 1403	grpaharel	2	kaɣel	grpahar	Regular	C-initial		E-Class	-el
 1404	grpel	2	kaɣel	grp	Regular	C-initial		E-Class	-el
 1405	gsgd͡zal	6	gartal	gsgd͡z	Regular	C-initial		A-Class	-al
@@ -1411,13 +1411,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1410	gdradel	2	kaɣel	gdrad	Regular	C-initial		E-Class	-el
 1411	gdrel	2	kaɣel	gdr	Regular	C-initial		E-Class	-el
 1412	gdril	4	xosil	gdr	Regular	C-initial	Basic	I-Class	-il
-1413	gdrvil	4	zzvil	gdr	Regular	C-initial	Passive	Passive	-il
+1413	gdrvil	4	zzvil	gdr	Regular	C-initial	Passive	Passive	-vil
 1414	gdt͡saharel	2	kaɣel	gdt͡sahar	Regular	C-initial		E-Class	-el
 1415	gdt͡sel	2	kaɣel	gdt͡s	Regular	C-initial		E-Class	-el
 1416	gragel	2	kaɣel	grag	Regular	C-initial		E-Class	-el
 1417	grel	2	kaɣel	gr	Regular	C-initial		E-Class	-el
 1418	grtel	2	kaɣel	grt	Regular	C-initial		E-Class	-el
-1419	grtvil	4	zzvil	grt	Regular	C-initial	Passive	Passive	-il
+1419	grtvil	4	zzvil	grt	Regular	C-initial	Passive	Passive	-vil
 1420	grd͡zel	2	kaɣel	grd͡z	Regular	C-initial		E-Class	-el
 1421	grgnapanel	2	kaɣel	grgnapan	Regular	C-initial		E-Class	-el
 1422	grgnabadgel	2	kaɣel	grgnabadg	Regular	C-initial		E-Class	-el
@@ -1430,15 +1430,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1429	grdel	2	kaɣel	grd	Regular	C-initial		E-Class	-el
 1430	gt͡sel	2	kaɣel	gt͡s	Regular	C-initial		E-Class	-el
 1431	gt͡sortel	2	kaɣel	gt͡sort	Regular	C-initial		E-Class	-el
-1432	gt͡svil	4	zzvil	gt͡s	Regular	C-initial	Passive	Passive	-il
+1432	gt͡svil	4	zzvil	gt͡s	Regular	C-initial	Passive	Passive	-vil
 1433	gkel	2	kaɣel	gk	Regular	C-initial		E-Class	-el
 1434	gkil	4	xosil	gk	Regular	C-initial	Basic	I-Class	-il
 1435	haknil	14	mernil	hak	Irregular	C-initial			-nil
-1436	hakvil	4	zzvil	hak	Regular	C-initial	Passive	Passive	-il
+1436	hakvil	4	zzvil	hak	Regular	C-initial	Passive	Passive	-vil
 1437	hakt͡snel	10	modet͡snel	hak	Regular	C-initial	Basic	Causative	-t͡snel
 1438	hazal	6	gartal	haz	Regular	C-initial		A-Class	-al
 1439	halad͡zel	2	kaɣel	halad͡z	Regular	C-initial		E-Class	-el
-1440	halad͡zvil	4	zzvil	halad͡z	Regular	C-initial	Passive	Passive	-il
+1440	halad͡zvil	4	zzvil	halad͡z	Regular	C-initial	Passive	Passive	-vil
 1441	halel	2	kaɣel	hal	Regular	C-initial		E-Class	-el
 1442	halet͡snel	10	modet͡snel	hale	Regular	C-initial	Basic	Causative	-t͡snel
 1443	halil	4	xosil	hal	Regular	C-initial	Basic	I-Class	-il
@@ -1453,7 +1453,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1452	hagil	4	xosil	hag	Regular	C-initial	Basic	I-Class	-il
 1453	haɣortagt͡sil	4	xosil	haɣortagt͡s	Regular	C-initial	Basic	I-Class	-il
 1454	haɣortel	2	kaɣel	haɣort	Regular	C-initial		E-Class	-el
-1455	haɣortvil	4	zzvil	haɣort	Regular	C-initial	Passive	Passive	-il
+1455	haɣortvil	4	zzvil	haɣort	Regular	C-initial	Passive	Passive	-vil
 1456	had͡ʒel	2	kaɣel	had͡ʒ	Regular	C-initial		E-Class	-el
 1457	had͡ʒil	4	xosil	had͡ʒ	Regular	C-initial	Basic	I-Class	-il
 1458	had͡ʒil	4	xosil	had͡ʒ	Regular	C-initial	Basic	I-Class	-il
@@ -1464,7 +1464,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1463	hamagarkel	2	kaɣel	hamagark	Regular	C-initial		E-Class	-el
 1464	hamagel	2	kaɣel	hamag	Regular	C-initial		E-Class	-el
 1465	hamagerbil	4	xosil	hamagerb	Regular	C-initial	Basic	I-Class	-il
-1466	hamagvil	4	zzvil	hamag	Regular	C-initial	Passive	Passive	-il
+1466	hamagvil	4	zzvil	hamag	Regular	C-initial	Passive	Passive	-vil
 1467	hamagril	4	xosil	hamagr	Regular	C-initial	Basic	I-Class	-il
 1468	hamat͡sajnil	4	xosil	hamat͡sajn	Regular	C-initial	Basic	I-Class	-il
 1469	hamabadasxanel	2	kaɣel	hamabadasxan	Regular	C-initial		E-Class	-el
@@ -1475,9 +1475,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1474	hamart͡sagil	4	xosil	hamart͡sag	Regular	C-initial	Basic	I-Class	-il
 1475	hamparnal	20	niharnal	hampar	Regular	C-initial		Inchoative	-nal
 1476	hamperel	2	kaɣel	hamper	Regular	C-initial		E-Class	-el
-1477	hampurvil	4	zzvil	hampur	Regular	C-initial	Passive	Passive	-il
+1477	hampurvil	4	zzvil	hampur	Regular	C-initial	Passive	Passive	-vil
 1478	hamemadel	2	kaɣel	hamemad	Regular	C-initial		E-Class	-el
-1479	hamemadvil	4	zzvil	hamemad	Regular	C-initial	Passive	Passive	-il
+1479	hamemadvil	4	zzvil	hamemad	Regular	C-initial	Passive	Passive	-vil
 1480	hamemel	2	kaɣel	hamem	Regular	C-initial		E-Class	-el
 1481	hamedel	2	kaɣel	hamed	Regular	C-initial		E-Class	-el
 1482	hamozel	2	kaɣel	hamoz	Regular	C-initial		E-Class	-el
@@ -1503,13 +1503,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1502	hantisanal	20	niharnal	hantisa	Regular	C-initial		Inchoative	-nal
 1503	hanturʒel	2	kaɣel	hanturʒ	Regular	C-initial		E-Class	-el
 1504	hanel	2	kaɣel	han	Regular	C-initial		E-Class	-el
-1505	hanvil	4	zzvil	han	Regular	C-initial	Passive	Passive	-il
+1505	hanvil	4	zzvil	han	Regular	C-initial	Passive	Passive	-vil
 1506	haʃmel	2	kaɣel	haʃm	Regular	C-initial		E-Class	-el
-1507	haʃmvil	4	zzvil	haʃm	Regular	C-initial	Passive	Passive	-il
+1507	haʃmvil	4	zzvil	haʃm	Regular	C-initial	Passive	Passive	-vil
 1508	haʃvagt͡sil	4	xosil	haʃvagt͡s	Regular	C-initial	Basic	I-Class	-il
 1509	haʃvel	2	kaɣel	haʃu	Regular	C-initial		E-Class	-el
 1510	haʃdet͡snel	10	modet͡snel	haʃde	Regular	C-initial	Basic	Causative	-t͡snel
-1511	haʃdvil	4	zzvil	haʃd	Regular	C-initial	Passive	Passive	-il
+1511	haʃdvil	4	zzvil	haʃd	Regular	C-initial	Passive	Passive	-vil
 1512	hat͡ʃel	2	kaɣel	hat͡ʃ	Regular	C-initial		E-Class	-el
 1513	hat͡ʃel	2	kaɣel	hat͡ʃ	Regular	C-initial		E-Class	-el
 1514	harat͡ʃel	2	kaɣel	harat͡ʃ	Regular	C-initial		E-Class	-el
@@ -1519,7 +1519,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1518	hasunnal	20	niharnal	hasun	Regular	C-initial		Inchoative	-nal
 1519	hasunt͡snel	10	modet͡snel	hasun	Regular	C-initial	Basic	Causative	-t͡snel
 1520	hasdadel	2	kaɣel	hasdad	Regular	C-initial		E-Class	-el
-1521	hasdadvil	4	zzvil	hasdad	Regular	C-initial	Passive	Passive	-il
+1521	hasdadvil	4	zzvil	hasdad	Regular	C-initial	Passive	Passive	-vil
 1522	hasdel	2	kaɣel	hasd	Regular	C-initial		E-Class	-el
 1523	hasdnal	20	niharnal	hasd	Regular	C-initial		Inchoative	-nal
 1524	hast͡seakrel	2	kaɣel	hast͡seakr	Regular	C-initial		E-Class	-el
@@ -1552,7 +1552,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1551	hawadal	6	gartal	hawad	Regular	C-initial		A-Class	-al
 1552	hawadat͡snel	10	modet͡snel	hawada	Regular	C-initial	Basic	Causative	-t͡snel
 1553	hawakel	2	kaɣel	hawak	Regular	C-initial		E-Class	-el
-1554	hawakvil	4	zzvil	hawak	Regular	C-initial	Passive	Passive	-il
+1554	hawakvil	4	zzvil	hawak	Regular	C-initial	Passive	Passive	-vil
 1555	hawnil	4	xosil	hawn	Regular	C-initial	Basic	I-Class	-il
 1556	hekel	2	kaɣel	hek	Regular	C-initial		E-Class	-el
 1557	heknel	2	kaɣel	hekn	Regular	C-initial		E-Class	-el
@@ -1586,7 +1586,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1585	hedabntel	2	kaɣel	hedabnt	Regular	C-initial		E-Class	-el
 1586	hedaknnel	2	kaɣel	hedaknn	Regular	C-initial		E-Class	-el
 1587	hedakrkrel	2	kaɣel	hedakrkr	Regular	C-initial		E-Class	-el
-1588	hedewil	4	zzvil	hed	Regular	C-initial	Passive	Passive	-il
+1588	hedewil	4	zzvil	hed	Regular	C-initial	Passive	Passive	-vil
 1589	hedewt͡snel	10	modet͡snel	hedew	Regular	C-initial	Basic	Causative	-t͡snel
 1590	hergel	2	kaɣel	herg	Regular	C-initial		E-Class	-el
 1591	hert͡sadel	2	kaɣel	hert͡sad	Regular	C-initial		E-Class	-el
@@ -1597,7 +1597,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1596	hzorat͡snel	10	modet͡snel	hzora	Regular	C-initial	Basic	Causative	-t͡snel
 1597	hianal	20	niharnal	hia	Regular	C-initial		Inchoative	-nal
 1598	hiastapet͡snel	10	modet͡snel	hiastape	Regular	C-initial	Basic	Causative	-t͡snel
-1599	hiastapvil	4	zzvil	hiastap	Regular	C-initial	Passive	Passive	-il
+1599	hiastapvil	4	zzvil	hiastap	Regular	C-initial	Passive	Passive	-vil
 1600	hiat͡snel	10	modet͡snel	hia	Regular	C-initial	Basic	Causative	-t͡snel
 1601	hikanal	20	niharnal	hika	Regular	C-initial		Inchoative	-nal
 1602	himnatrel	2	kaɣel	himnatr	Regular	C-initial		E-Class	-el
@@ -1643,7 +1643,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1642	hbardanal	20	niharnal	hbarda	Regular	C-initial		Inchoative	-nal
 1643	hbil	4	xosil	hb	Regular	C-initial	Basic	I-Class	-il
 1644	hrt͡ʃagel	2	kaɣel	hrt͡ʃag	Regular	C-initial		E-Class	-el
-1645	hrt͡ʃagvil	4	zzvil	hrt͡ʃag	Regular	C-initial	Passive	Passive	-il
+1645	hrt͡ʃagvil	4	zzvil	hrt͡ʃag	Regular	C-initial	Passive	Passive	-vil
 1646	hsgel	2	kaɣel	hsg	Regular	C-initial		E-Class	-el
 1647	hraʒaret͡snel	10	modet͡snel	hraʒare	Regular	C-initial	Basic	Causative	-t͡snel
 1648	hraʒaril	4	xosil	hraʒar	Regular	C-initial	Basic	I-Class	-il
@@ -1660,7 +1660,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1659	hredagod͡zel	2	kaɣel	hredagod͡z	Regular	C-initial		E-Class	-el
 1660	hridagel	2	kaɣel	hridag	Regular	C-initial		E-Class	-el
 1661	hrgizel	2	kaɣel	hrgiz	Regular	C-initial		E-Class	-el
-1662	hrd͡ʒvil	4	zzvil	hrd͡ʒ	Regular	C-initial	Passive	Passive	-il
+1662	hrd͡ʒvil	4	zzvil	hrd͡ʒ	Regular	C-initial	Passive	Passive	-vil
 1663	hrmʃdgel	2	kaɣel	hrmʃdg	Regular	C-initial		E-Class	-el
 1664	hodel	2	kaɣel	hod	Regular	C-initial		E-Class	-el
 1665	t͡saprdel	2	kaɣel	t͡saprd	Regular	C-initial		E-Class	-el
@@ -1682,13 +1682,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1681	t͡serpazadel	2	kaɣel	t͡serpazad	Regular	C-initial		E-Class	-el
 1682	t͡serpazadil	4	xosil	t͡serpazad	Regular	C-initial	Basic	I-Class	-il
 1683	t͡serpagalel	2	kaɣel	t͡serpagal	Regular	C-initial		E-Class	-el
-1684	t͡serpagalvil	4	zzvil	t͡serpagal	Regular	C-initial	Passive	Passive	-il
+1684	t͡serpagalvil	4	zzvil	t͡serpagal	Regular	C-initial	Passive	Passive	-vil
 1685	t͡sewazerd͡zel	2	kaɣel	t͡sewazerd͡z	Regular	C-initial		E-Class	-el
 1686	t͡sewagerbel	2	kaɣel	t͡sewagerb	Regular	C-initial		E-Class	-el
 1687	t͡sewanal	20	niharnal	t͡sewa	Regular	C-initial		Inchoative	-nal
 1688	t͡sewat͡snel	10	modet͡snel	t͡sewa	Regular	C-initial	Basic	Causative	-t͡snel
 1689	t͡sewapoxel	2	kaɣel	t͡sewapox	Regular	C-initial		E-Class	-el
-1690	t͡sewapoxvil	4	zzvil	t͡sewapox	Regular	C-initial	Passive	Passive	-il
+1690	t͡sewapoxvil	4	zzvil	t͡sewapox	Regular	C-initial	Passive	Passive	-vil
 1691	t͡sewel	2	kaɣel	t͡sew	Regular	C-initial		E-Class	-el
 1692	t͡siavarel	2	kaɣel	t͡siavar	Regular	C-initial		E-Class	-el
 1693	t͡siwtabadel	2	kaɣel	t͡siwtabad	Regular	C-initial		E-Class	-el
@@ -1698,12 +1698,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1697	t͡soɣat͡ʃapel	2	kaɣel	t͡soɣat͡ʃap	Regular	C-initial		E-Class	-el
 1698	t͡sort͡sabadel	2	kaɣel	t͡sort͡sabad	Regular	C-initial		E-Class	-el
 1699	t͡sulel	2	kaɣel	t͡sul	Regular	C-initial		E-Class	-el
-1700	t͡sulvil	4	zzvil	t͡sul	Regular	C-initial	Passive	Passive	-il
+1700	t͡sulvil	4	zzvil	t͡sul	Regular	C-initial	Passive	Passive	-vil
 1701	t͡sonel	2	kaɣel	t͡son	Regular	C-initial		E-Class	-el
 1702	ɣegavarel	2	kaɣel	ɣegavar	Regular	C-initial		E-Class	-el
-1703	ɣegavarvil	4	zzvil	ɣegavar	Regular	C-initial	Passive	Passive	-il
+1703	ɣegavarvil	4	zzvil	ɣegavar	Regular	C-initial	Passive	Passive	-vil
 1704	ɣrgel	2	kaɣel	ɣrg	Regular	C-initial		E-Class	-el
-1705	ɣrgvil	4	zzvil	ɣrg	Regular	C-initial	Passive	Passive	-il
+1705	ɣrgvil	4	zzvil	ɣrg	Regular	C-initial	Passive	Passive	-vil
 1706	ɣoɣant͡ʃel	2	kaɣel	ɣoɣant͡ʃ	Regular	C-initial		E-Class	-el
 1707	ɣoɣil	4	xosil	ɣoɣ	Regular	C-initial	Basic	I-Class	-il
 1708	d͡ʒatet͡snel	10	modet͡snel	d͡ʒate	Regular	C-initial	Basic	Causative	-t͡snel
@@ -1734,18 +1734,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1733	d͡ʒarbodel	2	kaɣel	d͡ʒarbod	Regular	C-initial		E-Class	-el
 1734	d͡ʒknil	4	xosil	d͡ʒkn	Regular	C-initial	Basic	I-Class	-il
 1735	d͡ʒeɣkel	2	kaɣel	d͡ʒeɣk	Regular	C-initial		E-Class	-el
-1736	d͡ʒeɣkvil	4	zzvil	d͡ʒeɣk	Regular	C-initial	Passive	Passive	-il
+1736	d͡ʒeɣkvil	4	zzvil	d͡ʒeɣk	Regular	C-initial	Passive	Passive	-vil
 1737	d͡ʒemel	2	kaɣel	d͡ʒem	Regular	C-initial		E-Class	-el
 1738	d͡ʒend͡ʒeril	4	xosil	d͡ʒend͡ʒer	Regular	C-initial	Basic	I-Class	-il
 1739	d͡ʒebel	2	kaɣel	d͡ʒeb	Regular	C-initial		E-Class	-el
 1740	d͡ʒermgil	4	xosil	d͡ʒermg	Regular	C-initial	Basic	I-Class	-il
 1741	d͡ʒzmel	2	kaɣel	d͡ʒzm	Regular	C-initial		E-Class	-el
-1742	d͡ʒiwɣaworvil	4	zzvil	d͡ʒiwɣawor	Regular	C-initial	Passive	Passive	-il
+1742	d͡ʒiwɣaworvil	4	zzvil	d͡ʒiwɣawor	Regular	C-initial	Passive	Passive	-vil
 1743	d͡ʒgel	2	kaɣel	d͡ʒg	Regular	C-initial		E-Class	-el
 1744	d͡ʒgil	4	xosil	d͡ʒg	Regular	C-initial	Basic	I-Class	-il
 1745	d͡ʒɣel	2	kaɣel	d͡ʒɣ	Regular	C-initial		E-Class	-el
 1746	d͡ʒmlel	2	kaɣel	d͡ʒml	Regular	C-initial		E-Class	-el
-1747	d͡ʒmlvil	4	zzvil	d͡ʒml	Regular	C-initial	Passive	Passive	-il
+1747	d͡ʒmlvil	4	zzvil	d͡ʒml	Regular	C-initial	Passive	Passive	-vil
 1748	d͡ʒmrtgel	2	kaɣel	d͡ʒmrtg	Regular	C-initial		E-Class	-el
 1749	d͡ʒngel	2	kaɣel	d͡ʒng	Regular	C-initial		E-Class	-el
 1750	d͡ʒnʃel	2	kaɣel	d͡ʒnʃ	Regular	C-initial		E-Class	-el
@@ -1764,7 +1764,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1763	d͡ʒrnt͡ʃel	2	kaɣel	d͡ʒrnt͡ʃ	Regular	C-initial		E-Class	-el
 1764	d͡ʒrvoɣel	2	kaɣel	d͡ʒrvoɣ	Regular	C-initial		E-Class	-el
 1765	d͡ʒod͡ʒel	2	kaɣel	d͡ʒod͡ʒ	Regular	C-initial		E-Class	-el
-1766	d͡ʒod͡ʒvil	4	zzvil	d͡ʒod͡ʒ	Regular	C-initial	Passive	Passive	-il
+1766	d͡ʒod͡ʒvil	4	zzvil	d͡ʒod͡ʒ	Regular	C-initial	Passive	Passive	-vil
 1767	d͡ʒoʃal	6	gartal	d͡ʒoʃ	Regular	C-initial		A-Class	-al
 1768	maklel	2	kaɣel	makl	Regular	C-initial		E-Class	-el
 1769	maklt͡sil	4	xosil	maklt͡s	Regular	C-initial	Basic	I-Class	-il
@@ -1800,7 +1800,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1799	madnaharel	2	kaɣel	madnahar	Regular	C-initial		E-Class	-el
 1800	madnanʃel	2	kaɣel	madnanʃ	Regular	C-initial		E-Class	-el
 1801	madnel	2	kaɣel	madn	Regular	C-initial		E-Class	-el
-1802	madnvil	4	zzvil	madn	Regular	C-initial	Passive	Passive	-il
+1802	madnvil	4	zzvil	madn	Regular	C-initial	Passive	Passive	-vil
 1803	madut͡sanel	12	d͡zanut͡sanel	madut͡s	Archaic	C-initial			-anel
 1804	madut͡sel	2	kaɣel	madut͡s	Regular	C-initial		E-Class	-el
 1805	madt͡ʃil	16	gbt͡ʃil	mad	Irregular	C-initial			-t͡ʃil
@@ -1865,7 +1865,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1864	miat͡snel	10	modet͡snel	mia	Regular	C-initial	Basic	Causative	-t͡snel
 1865	miat͡sulel	2	kaɣel	miat͡sul	Regular	C-initial		E-Class	-el
 1866	miaworel	2	kaɣel	miawor	Regular	C-initial		E-Class	-el
-1867	miaworvil	4	zzvil	miawor	Regular	C-initial	Passive	Passive	-il
+1867	miaworvil	4	zzvil	miawor	Regular	C-initial	Passive	Passive	-vil
 1868	mizel	2	kaɣel	miz	Regular	C-initial		E-Class	-el
 1869	mit͡ʃatrel	2	kaɣel	mit͡ʃatr	Regular	C-initial		E-Class	-el
 1870	mit͡ʃamdel	2	kaɣel	mit͡ʃamd	Regular	C-initial		E-Class	-el
@@ -1877,10 +1877,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1876	mxitarel	2	kaɣel	mxitar	Regular	C-initial		E-Class	-el
 1877	mxdel	2	kaɣel	mxd	Regular	C-initial		E-Class	-el
 1878	mxrd͡ʒel	2	kaɣel	mxrd͡ʒ	Regular	C-initial		E-Class	-el
-1879	mxrd͡ʒvil	4	zzvil	mxrd͡ʒ	Regular	C-initial	Passive	Passive	-il
+1879	mxrd͡ʒvil	4	zzvil	mxrd͡ʒ	Regular	C-initial	Passive	Passive	-vil
 1880	mgradel	2	kaɣel	mgrad	Regular	C-initial		E-Class	-el
 1881	mgrdel	2	kaɣel	mgrd	Regular	C-initial		E-Class	-el
-1882	mgrdvil	4	zzvil	mgrd	Regular	C-initial	Passive	Passive	-il
+1882	mgrdvil	4	zzvil	mgrd	Regular	C-initial	Passive	Passive	-vil
 1883	mɣel	2	kaɣel	mɣ	Regular	C-initial		E-Class	-el
 1884	mɣgdal	6	gartal	mɣgd	Regular	C-initial		A-Class	-al
 1885	mɣt͡sgil	4	xosil	mɣt͡sg	Regular	C-initial	Basic	I-Class	-il
@@ -1892,7 +1892,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1891	moleknil	4	xosil	molekn	Regular	C-initial	Basic	I-Class	-il
 1892	molorel	2	kaɣel	molor	Regular	C-initial		E-Class	-el
 1893	moloril	4	xosil	molor	Regular	C-initial	Basic	I-Class	-il
-1894	molorvil	4	zzvil	molor	Regular	C-initial	Passive	Passive	-il
+1894	molorvil	4	zzvil	molor	Regular	C-initial	Passive	Passive	-vil
 1895	moxranal	20	niharnal	moxra	Regular	C-initial		Inchoative	-nal
 1896	moxrat͡snel	10	modet͡snel	moxra	Regular	C-initial	Basic	Causative	-t͡snel
 1897	mornal	20	niharnal	mor	Regular	C-initial		Inchoative	-nal
@@ -1914,16 +1914,16 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1913	mdatrel	2	kaɣel	mdatr	Regular	C-initial		E-Class	-el
 1914	mdad͡zel	2	kaɣel	mdad͡z	Regular	C-initial		E-Class	-el
 1915	mdahokel	2	kaɣel	mdahok	Regular	C-initial		E-Class	-el
-1916	mdahokvil	4	zzvil	mdahok	Regular	C-initial	Passive	Passive	-il
-1917	mdampopvil	4	zzvil	mdampop	Regular	C-initial	Passive	Passive	-il
+1916	mdahokvil	4	zzvil	mdahok	Regular	C-initial	Passive	Passive	-vil
+1917	mdampopvil	4	zzvil	mdampop	Regular	C-initial	Passive	Passive	-vil
 1918	mdadant͡ʃel	2	kaɣel	mdadant͡ʃ	Regular	C-initial		E-Class	-el
-1919	mdadant͡ʃvil	4	zzvil	mdadant͡ʃ	Regular	C-initial	Passive	Passive	-il
+1919	mdadant͡ʃvil	4	zzvil	mdadant͡ʃ	Regular	C-initial	Passive	Passive	-vil
 1920	mdermanal	20	niharnal	mderma	Regular	C-initial		Inchoative	-nal
 1921	mdmdal	6	gartal	mdmd	Regular	C-initial		A-Class	-al
 1922	mdnal	24	kdnal	md	Irregular	C-initial	Theme -a-		-nal
 1923	mdnel	24	kdnel	md	Irregular	C-initial	Theme -e-		-nel
 1924	mdragel	2	kaɣel	mdrag	Regular	C-initial		E-Class	-el
-1925	mdragvil	4	zzvil	mdrag	Regular	C-initial	Passive	Passive	-il
+1925	mdragvil	4	zzvil	mdrag	Regular	C-initial	Passive	Passive	-vil
 1926	mrapel	2	kaɣel	mrap	Regular	C-initial		E-Class	-el
 1927	mrtmrtal	6	gartal	mrtmrt	Regular	C-initial		A-Class	-al
 1928	mrgel	2	kaɣel	mrg	Regular	C-initial		E-Class	-el
@@ -1931,7 +1931,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1930	mrd͡ʒodel	2	kaɣel	mrd͡ʒod	Regular	C-initial		E-Class	-el
 1931	mrmnt͡ʃel	2	kaɣel	mrmnt͡ʃ	Regular	C-initial		E-Class	-el
 1932	mrodel	2	kaɣel	mrod	Regular	C-initial		E-Class	-el
-1933	mrodvil	4	zzvil	mrod	Regular	C-initial	Passive	Passive	-il
+1933	mrodvil	4	zzvil	mrod	Regular	C-initial	Passive	Passive	-vil
 1934	mrrgil	4	xosil	mrrg	Regular	C-initial	Basic	I-Class	-il
 1935	mrt͡sagt͡sil	4	xosil	mrt͡sagt͡s	Regular	C-initial	Basic	I-Class	-il
 1936	mrt͡sil	4	xosil	mrt͡s	Regular	C-initial	Basic	I-Class	-il
@@ -1944,7 +1944,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1943	jaket͡snel	10	modet͡snel	jake	Regular	C-initial	Basic	Causative	-t͡snel
 1944	jad͡zil	4	xosil	jad͡z	Regular	C-initial	Basic	I-Class	-il
 1945	jaɣtaharel	2	kaɣel	jaɣtahar	Regular	C-initial		E-Class	-el
-1946	jaɣtaharvil	4	zzvil	jaɣtahar	Regular	C-initial	Passive	Passive	-il
+1946	jaɣtaharvil	4	zzvil	jaɣtahar	Regular	C-initial	Passive	Passive	-vil
 1947	jaɣtanagel	2	kaɣel	jaɣtanag	Regular	C-initial		E-Class	-el
 1948	jaɣtel	2	kaɣel	jaɣt	Regular	C-initial		E-Class	-el
 1949	jad͡ʒaxel	2	kaɣel	jad͡ʒax	Regular	C-initial		E-Class	-el
@@ -1960,10 +1960,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1959	jantimanel	2	kaɣel	jantiman	Regular	C-initial		E-Class	-el
 1960	jant͡sant͡sel	2	kaɣel	jant͡sant͡s	Regular	C-initial		E-Class	-el
 1961	jant͡snararel	2	kaɣel	jant͡snarar	Regular	C-initial		E-Class	-el
-1962	jant͡snararvil	4	zzvil	jant͡snarar	Regular	C-initial	Passive	Passive	-il
+1962	jant͡snararvil	4	zzvil	jant͡snarar	Regular	C-initial	Passive	Passive	-vil
 1963	jant͡snel	2	kaɣel	jant͡sn	Regular	C-initial		E-Class	-el
-1964	jant͡snvil	4	zzvil	jant͡sn	Regular	C-initial	Passive	Passive	-il
-1965	jaʃtvil	4	zzvil	jaʃt	Regular	C-initial	Passive	Passive	-il
+1964	jant͡snvil	4	zzvil	jant͡sn	Regular	C-initial	Passive	Passive	-vil
+1965	jaʃtvil	4	zzvil	jaʃt	Regular	C-initial	Passive	Passive	-vil
 1966	jat͡ʃaɣel	2	kaɣel	jat͡ʃaɣ	Regular	C-initial		E-Class	-el
 1967	jabaɣil	4	xosil	jabaɣ	Regular	C-initial	Basic	I-Class	-il
 1968	jabawel	2	kaɣel	jabaw	Regular	C-initial		E-Class	-el
@@ -2031,18 +2031,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2030	jortorel	2	kaɣel	jortor	Regular	C-initial		E-Class	-el
 2031	jort͡ʃort͡ʃel	2	kaɣel	jort͡ʃort͡ʃ	Regular	C-initial		E-Class	-el
 2032	juzel	2	kaɣel	juz	Regular	C-initial		E-Class	-el
-2033	juzvil	4	zzvil	juz	Regular	C-initial	Passive	Passive	-il
+2033	juzvil	4	zzvil	juz	Regular	C-initial	Passive	Passive	-vil
 2034	julanal	20	niharnal	jula	Regular	C-initial		Inchoative	-nal
 2035	juʃel	2	kaɣel	juʃ	Regular	C-initial		E-Class	-el
 2036	jurtianal	20	niharnal	jurtia	Regular	C-initial		Inchoative	-nal
 2037	jusatrel	2	kaɣel	jusatr	Regular	C-initial		E-Class	-el
 2038	jusal	6	gartal	jus	Regular	C-initial		A-Class	-al
-2039	jusalkvil	4	zzvil	jusalk	Regular	C-initial	Passive	Passive	-il
+2039	jusalkvil	4	zzvil	jusalk	Regular	C-initial	Passive	Passive	-vil
 2040	jusaxapel	2	kaɣel	jusaxap	Regular	C-initial		E-Class	-el
-2041	jusaxapvil	4	zzvil	jusaxap	Regular	C-initial	Passive	Passive	-il
+2041	jusaxapvil	4	zzvil	jusaxap	Regular	C-initial	Passive	Passive	-vil
 2042	jusahadet͡snel	10	modet͡snel	jusahade	Regular	C-initial	Basic	Causative	-t͡snel
 2043	jusahadil	4	xosil	jusahad	Regular	C-initial	Basic	I-Class	-il
-2044	jrʃodvil	4	zzvil	jrʃod	Regular	C-initial	Passive	Passive	-il
+2044	jrʃodvil	4	zzvil	jrʃod	Regular	C-initial	Passive	Passive	-vil
 2045	jsdaganal	20	niharnal	jsdaga	Regular	C-initial		Inchoative	-nal
 2046	jsdagat͡snel	10	modet͡snel	jsdaga	Regular	C-initial	Basic	Causative	-t͡snel
 2047	jotaworel	2	kaɣel	jotawor	Regular	C-initial		E-Class	-el
@@ -2061,7 +2061,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2060	naxad͡ʒaʃel	2	kaɣel	naxad͡ʒaʃ	Regular	C-initial		E-Class	-el
 2061	naxant͡sil	4	xosil	naxant͡s	Regular	C-initial	Basic	I-Class	-il
 2062	naxabadrasdel	2	kaɣel	naxabadrasd	Regular	C-initial		E-Class	-el
-2063	naxabadrasdvil	4	zzvil	naxabadrasd	Regular	C-initial	Passive	Passive	-il
+2063	naxabadrasdvil	4	zzvil	naxabadrasd	Regular	C-initial	Passive	Passive	-vil
 2064	naxasahmanel	2	kaɣel	naxasahman	Regular	C-initial		E-Class	-el
 2065	naxadel	2	kaɣel	naxad	Regular	C-initial		E-Class	-el
 2066	naxadesel	2	kaɣel	naxades	Regular	C-initial		E-Class	-el
@@ -2071,7 +2071,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2070	naxoroʃel	2	kaɣel	naxoroʃ	Regular	C-initial		E-Class	-el
 2071	nahant͡ʃel	2	kaɣel	nahant͡ʃ	Regular	C-initial		E-Class	-el
 2072	nahadagel	2	kaɣel	nahadag	Regular	C-initial		E-Class	-el
-2073	nahadagvil	4	zzvil	nahadag	Regular	C-initial	Passive	Passive	-il
+2073	nahadagvil	4	zzvil	nahadag	Regular	C-initial	Passive	Passive	-vil
 2074	najil	4	xosil	naj	Regular	C-initial	Basic	I-Class	-il
 2075	nawavarel	2	kaɣel	nawavar	Regular	C-initial		E-Class	-el
 2076	nawargel	2	kaɣel	nawarg	Regular	C-initial		E-Class	-el
@@ -2081,14 +2081,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2080	neɣat͡snel	10	modet͡snel	neɣa	Regular	C-initial	Basic	Causative	-t͡snel
 2081	neɣel	2	kaɣel	neɣ	Regular	C-initial		E-Class	-el
 2082	neɣnal	20	niharnal	neɣ	Regular	C-initial		Inchoative	-nal
-2083	neɣvil	4	zzvil	neɣ	Regular	C-initial	Passive	Passive	-il
+2083	neɣvil	4	zzvil	neɣ	Regular	C-initial	Passive	Passive	-vil
 2084	neɣt͡snel	10	modet͡snel	neɣ	Regular	C-initial	Basic	Causative	-t͡snel
 2085	nenkapoxel	2	kaɣel	nenkapox	Regular	C-initial		E-Class	-el
 2086	nenkel	2	kaɣel	nenk	Regular	C-initial		E-Class	-el
 2087	nedaharel	2	kaɣel	nedahar	Regular	C-initial		E-Class	-el
-2088	nedaharvil	4	zzvil	nedahar	Regular	C-initial	Passive	Passive	-il
+2088	nedaharvil	4	zzvil	nedahar	Regular	C-initial	Passive	Passive	-vil
 2089	nedel	2	kaɣel	ned	Regular	C-initial		E-Class	-el
-2090	nedvil	4	zzvil	ned	Regular	C-initial	Passive	Passive	-il
+2090	nedvil	4	zzvil	ned	Regular	C-initial	Passive	Passive	-vil
 2091	nerad͡zel	2	kaɣel	nerad͡z	Regular	C-initial		E-Class	-el
 2092	nerargel	2	kaɣel	nerarg	Regular	C-initial		E-Class	-el
 2093	nerpoɣel	2	kaɣel	nerpoɣ	Regular	C-initial		E-Class	-el
@@ -2104,7 +2104,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2103	nergel	2	kaɣel	nerg	Regular	C-initial		E-Class	-el
 2104	nermud͡zel	2	kaɣel	nermud͡z	Regular	C-initial		E-Class	-el
 2105	nerʃnt͡ʃel	2	kaɣel	nerʃnt͡ʃ	Regular	C-initial		E-Class	-el
-2106	nerʃnt͡ʃvil	4	zzvil	nerʃnt͡ʃ	Regular	C-initial	Passive	Passive	-il
+2106	nerʃnt͡ʃvil	4	zzvil	nerʃnt͡ʃ	Regular	C-initial	Passive	Passive	-vil
 2107	nerpagel	2	kaɣel	nerpag	Regular	C-initial		E-Class	-el
 2108	nerkinanal	20	niharnal	nerkina	Regular	C-initial		Inchoative	-nal
 2109	nerkinat͡snel	10	modet͡snel	nerkina	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2125,10 +2125,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2124	nnt͡ʃet͡snel	10	modet͡snel	nnt͡ʃe	Regular	C-initial	Basic	Causative	-t͡snel
 2125	nʃanatrel	2	kaɣel	nʃanatr	Regular	C-initial		E-Class	-el
 2126	nʃanagel	2	kaɣel	nʃanag	Regular	C-initial		E-Class	-el
-2127	nʃanagvil	4	zzvil	nʃanag	Regular	C-initial	Passive	Passive	-il
+2127	nʃanagvil	4	zzvil	nʃanag	Regular	C-initial	Passive	Passive	-vil
 2128	nʃanaharel	2	kaɣel	nʃanahar	Regular	C-initial		E-Class	-el
 2129	nʃanel	2	kaɣel	nʃan	Regular	C-initial		E-Class	-el
-2130	nʃanvil	4	zzvil	nʃan	Regular	C-initial	Passive	Passive	-il
+2130	nʃanvil	4	zzvil	nʃan	Regular	C-initial	Passive	Passive	-vil
 2131	nʃawagel	2	kaɣel	nʃawag	Regular	C-initial		E-Class	-el
 2132	nʃgahel	2	kaɣel	nʃgah	Regular	C-initial		E-Class	-el
 2133	nʃmarel	2	kaɣel	nʃmar	Regular	C-initial		E-Class	-el
@@ -2140,7 +2140,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2139	nojnat͡snel	10	modet͡snel	nojna	Regular	C-initial	Basic	Causative	-t͡snel
 2140	norel	2	kaɣel	nor	Regular	C-initial		E-Class	-el
 2141	norokel	2	kaɣel	norok	Regular	C-initial		E-Class	-el
-2142	norokvil	4	zzvil	norok	Regular	C-initial	Passive	Passive	-il
+2142	norokvil	4	zzvil	norok	Regular	C-initial	Passive	Passive	-vil
 2143	nvakagt͡sil	4	xosil	nvakagt͡s	Regular	C-initial	Basic	I-Class	-il
 2144	nvakel	2	kaɣel	nvak	Regular	C-initial		E-Class	-el
 2145	nvazet͡snel	10	modet͡snel	nvaze	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2149,13 +2149,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2148	nvaɣet͡snel	10	modet͡snel	nvaɣe	Regular	C-initial	Basic	Causative	-t͡snel
 2149	nvaɣil	4	xosil	nvaɣ	Regular	C-initial	Basic	I-Class	-il
 2150	nvad͡ʒel	2	kaɣel	nvad͡ʒ	Regular	C-initial		E-Class	-el
-2151	nvad͡ʒvil	4	zzvil	nvad͡ʒ	Regular	C-initial	Passive	Passive	-il
+2151	nvad͡ʒvil	4	zzvil	nvad͡ʒ	Regular	C-initial	Passive	Passive	-vil
 2152	nvasdanal	20	niharnal	nvasda	Regular	C-initial		Inchoative	-nal
 2153	nvasdat͡snel	10	modet͡snel	nvasda	Regular	C-initial	Basic	Causative	-t͡snel
 2154	nviraperel	38	perel	nviraper	Irregular	C-initial			-el
 2155	nvirakord͡zel	2	kaɣel	nvirakord͡z	Regular	C-initial		E-Class	-el
 2156	nvirel	2	kaɣel	nvir	Regular	C-initial		E-Class	-el
-2157	nvirvil	4	zzvil	nvir	Regular	C-initial	Passive	Passive	-il
+2157	nvirvil	4	zzvil	nvir	Regular	C-initial	Passive	Passive	-vil
 2158	nbasdaworel	2	kaɣel	nbasdawor	Regular	C-initial		E-Class	-el
 2159	nbasdel	2	kaɣel	nbasd	Regular	C-initial		E-Class	-el
 2160	nbadagatrel	2	kaɣel	nbadagatr	Regular	C-initial		E-Class	-el
@@ -2181,11 +2181,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2180	ʃaɣapel	2	kaɣel	ʃaɣap	Regular	C-initial		E-Class	-el
 2181	ʃaɣel	2	kaɣel	ʃaɣ	Regular	C-initial		E-Class	-el
 2182	ʃaɣgabel	2	kaɣel	ʃaɣgab	Regular	C-initial		E-Class	-el
-2183	ʃaɣvil	4	zzvil	ʃaɣ	Regular	C-initial	Passive	Passive	-il
+2183	ʃaɣvil	4	zzvil	ʃaɣ	Regular	C-initial	Passive	Passive	-vil
 2184	ʃaɣpaɣpel	2	kaɣel	ʃaɣpaɣp	Regular	C-initial		E-Class	-el
 2185	ʃamprel	2	kaɣel	ʃampr	Regular	C-initial		E-Class	-el
 2186	ʃantaharel	2	kaɣel	ʃantahar	Regular	C-initial		E-Class	-el
-2187	ʃantaharvil	4	zzvil	ʃantahar	Regular	C-initial	Passive	Passive	-il
+2187	ʃantaharvil	4	zzvil	ʃantahar	Regular	C-initial	Passive	Passive	-vil
 2188	ʃantel	2	kaɣel	ʃant	Regular	C-initial		E-Class	-el
 2189	ʃat͡ʃel	2	kaɣel	ʃat͡ʃ	Regular	C-initial		E-Class	-el
 2190	ʃarakunil	4	xosil	ʃarakun	Regular	C-initial	Basic	I-Class	-il
@@ -2205,7 +2205,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2204	ʃarʒel	2	kaɣel	ʃarʒ	Regular	C-initial		E-Class	-el
 2205	ʃarʒil	4	xosil	ʃarʒ	Regular	C-initial	Basic	I-Class	-il
 2206	ʃarʒdgil	4	xosil	ʃarʒdg	Regular	C-initial	Basic	I-Class	-il
-2207	ʃarvil	4	zzvil	ʃar	Regular	C-initial	Passive	Passive	-il
+2207	ʃarvil	4	zzvil	ʃar	Regular	C-initial	Passive	Passive	-vil
 2208	ʃarunagel	2	kaɣel	ʃarunag	Regular	C-initial		E-Class	-el
 2209	ʃaklil	4	xosil	ʃakl	Regular	C-initial	Basic	I-Class	-il
 2210	ʃeɣel	2	kaɣel	ʃeɣ	Regular	C-initial		E-Class	-el
@@ -2231,7 +2231,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2230	ʃxrdat͡snel	10	modet͡snel	ʃxrda	Regular	C-initial	Basic	Causative	-t͡snel
 2231	ʃgahel	2	kaɣel	ʃgah	Regular	C-initial		E-Class	-el
 2232	ʃɣtajazerd͡zel	2	kaɣel	ʃɣtajazerd͡z	Regular	C-initial		E-Class	-el
-2233	ʃɣtajazerd͡zvil	4	zzvil	ʃɣtajazerd͡z	Regular	C-initial	Passive	Passive	-il
+2233	ʃɣtajazerd͡zvil	4	zzvil	ʃɣtajazerd͡z	Regular	C-initial	Passive	Passive	-vil
 2234	ʃɣtajel	2	kaɣel	ʃɣtaj	Regular	C-initial		E-Class	-el
 2235	ʃnal	20	niharnal	ʃ	Regular	C-initial		Inchoative	-nal
 2236	ʃnanal	20	niharnal	ʃna	Regular	C-initial		Inchoative	-nal
@@ -2256,7 +2256,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2255	ʃoɣomel	2	kaɣel	ʃoɣom	Regular	C-initial		E-Class	-el
 2256	ʃoɣokortel	2	kaɣel	ʃoɣokort	Regular	C-initial		E-Class	-el
 2257	ʃojel	2	kaɣel	ʃoj	Regular	C-initial		E-Class	-el
-2258	ʃojvil	4	zzvil	ʃoj	Regular	C-initial	Passive	Passive	-il
+2258	ʃojvil	4	zzvil	ʃoj	Regular	C-initial	Passive	Passive	-vil
 2259	ʃobel	2	kaɣel	ʃob	Regular	C-initial		E-Class	-el
 2260	ʃobʃobel	2	kaɣel	ʃobʃob	Regular	C-initial		E-Class	-el
 2261	ʃortel	2	kaɣel	ʃort	Regular	C-initial		E-Class	-el
@@ -2266,23 +2266,23 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2265	ʃvaret͡snel	10	modet͡snel	ʃvare	Regular	C-initial	Basic	Causative	-t͡snel
 2266	ʃvaril	4	xosil	ʃvar	Regular	C-initial	Basic	I-Class	-il
 2267	ʃullel	2	kaɣel	ʃull	Regular	C-initial		E-Class	-el
-2268	ʃullvil	4	zzvil	ʃull	Regular	C-initial	Passive	Passive	-il
+2268	ʃullvil	4	zzvil	ʃull	Regular	C-initial	Passive	Passive	-vil
 2269	ʃt͡ʃel	2	kaɣel	ʃt͡ʃ	Regular	C-initial		E-Class	-el
 2270	ʃbarel	2	kaɣel	ʃbar	Regular	C-initial		E-Class	-el
-2271	ʃbarvil	4	zzvil	ʃbar	Regular	C-initial	Passive	Passive	-il
+2271	ʃbarvil	4	zzvil	ʃbar	Regular	C-initial	Passive	Passive	-vil
 2272	ʃbrdel	2	kaɣel	ʃbrd	Regular	C-initial		E-Class	-el
 2273	ʃrajlel	2	kaɣel	ʃrajl	Regular	C-initial		E-Class	-el
 2274	ʃrel	2	kaɣel	ʃr	Regular	C-initial		E-Class	-el
 2275	ʃrntal	6	gartal	ʃrnt	Regular	C-initial		A-Class	-al
 2276	ʃdabel	2	kaɣel	ʃdab	Regular	C-initial		E-Class	-el
 2277	ʃdgel	2	kaɣel	ʃdg	Regular	C-initial		E-Class	-el
-2278	ʃdgvil	4	zzvil	ʃdg	Regular	C-initial	Passive	Passive	-il
+2278	ʃdgvil	4	zzvil	ʃdg	Regular	C-initial	Passive	Passive	-vil
 2279	ʃdgrdel	2	kaɣel	ʃdgrd	Regular	C-initial		E-Class	-el
 2280	ʃrt͡ʃakajil	4	xosil	ʃrt͡ʃakaj	Regular	C-initial	Basic	I-Class	-il
 2281	ʃrt͡ʃanagel	2	kaɣel	ʃrt͡ʃanag	Regular	C-initial		E-Class	-el
 2282	ʃrt͡ʃant͡sel	2	kaɣel	ʃrt͡ʃant͡s	Regular	C-initial		E-Class	-el
 2283	ʃrt͡ʃabadel	2	kaɣel	ʃrt͡ʃabad	Regular	C-initial		E-Class	-el
-2284	ʃrt͡ʃabadvil	4	zzvil	ʃrt͡ʃabad	Regular	C-initial	Passive	Passive	-il
+2284	ʃrt͡ʃabadvil	4	zzvil	ʃrt͡ʃabad	Regular	C-initial	Passive	Passive	-vil
 2285	ʃrt͡ʃapagel	2	kaɣel	ʃrt͡ʃapag	Regular	C-initial		E-Class	-el
 2286	ʃrt͡ʃel	2	kaɣel	ʃrt͡ʃ	Regular	C-initial		E-Class	-el
 2287	ʃrt͡ʃil	4	xosil	ʃrt͡ʃ	Regular	C-initial	Basic	I-Class	-il
@@ -2292,26 +2292,26 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2291	ʃpotel	2	kaɣel	ʃpot	Regular	C-initial		E-Class	-el
 2292	ʃpotet͡snel	10	modet͡snel	ʃpote	Regular	C-initial	Basic	Causative	-t͡snel
 2293	ʃpotil	4	xosil	ʃpot	Regular	C-initial	Basic	I-Class	-il
-2294	ʃpvil	4	zzvil	ʃp	Regular	C-initial	Passive	Passive	-il
-2295	ʃkvil	4	zzvil	ʃk	Regular	C-initial	Passive	Passive	-il
+2294	ʃpvil	4	zzvil	ʃp	Regular	C-initial	Passive	Passive	-vil
+2295	ʃkvil	4	zzvil	ʃk	Regular	C-initial	Passive	Passive	-vil
 2296	ʃoʃapel	2	kaɣel	ʃoʃap	Regular	C-initial		E-Class	-el
 2297	okel	2	kaɣel	ok	Regular	C-initial		E-Class	-el
 2298	okegot͡ʃel	2	kaɣel	okegot͡ʃ	Regular	C-initial		E-Class	-el
 2299	okeworel	2	kaɣel	okewor	Regular	C-initial		E-Class	-el
-2300	okeworvil	4	zzvil	okewor	Regular	C-initial	Passive	Passive	-il
+2300	okeworvil	4	zzvil	okewor	Regular	C-initial	Passive	Passive	-vil
 2301	okoril	4	xosil	okor	Regular	C-initial	Basic	I-Class	-il
 2302	olorel	2	kaɣel	olor	Regular	C-initial		E-Class	-el
-2303	olorvil	4	zzvil	olor	Regular	C-initial	Passive	Passive	-il
+2303	olorvil	4	zzvil	olor	Regular	C-initial	Passive	Passive	-vil
 2304	oxal	6	gartal	ox	Regular	C-initial		A-Class	-al
 2305	oɣpal	6	gartal	oɣp	Regular	C-initial		A-Class	-al
 2306	oɣpagt͡sil	4	xosil	oɣpagt͡s	Regular	C-initial	Basic	I-Class	-il
 2307	oɣoɣel	2	kaɣel	oɣoɣ	Regular	C-initial		E-Class	-el
-2308	oɣoɣvil	4	zzvil	oɣoɣ	Regular	C-initial	Passive	Passive	-il
+2308	oɣoɣvil	4	zzvil	oɣoɣ	Regular	C-initial	Passive	Passive	-vil
 2309	oɣorgel	2	kaɣel	oɣorg	Regular	C-initial		E-Class	-el
 2310	oɣormil	4	xosil	oɣorm	Regular	C-initial	Basic	I-Class	-il
 2311	oɣokel	2	kaɣel	oɣok	Regular	C-initial		E-Class	-el
 2312	oɣt͡ʃakurel	2	kaɣel	oɣt͡ʃakur	Regular	C-initial		E-Class	-el
-2313	oɣt͡ʃakurvil	4	zzvil	oɣt͡ʃakur	Regular	C-initial	Passive	Passive	-il
+2313	oɣt͡ʃakurvil	4	zzvil	oɣt͡ʃakur	Regular	C-initial	Passive	Passive	-vil
 2314	oɣt͡ʃagizel	2	kaɣel	oɣt͡ʃagiz	Regular	C-initial		E-Class	-el
 2315	oɣt͡ʃanal	20	niharnal	oɣt͡ʃa	Regular	C-initial		Inchoative	-nal
 2316	oɣt͡ʃat͡snel	10	modet͡snel	oɣt͡ʃa	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2341,7 +2341,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2340	ort͡sadel	2	kaɣel	ort͡sad	Regular	C-initial		E-Class	-el
 2341	oronel	2	kaɣel	oron	Regular	C-initial		E-Class	-el
 2342	oroʃel	2	kaɣel	oroʃ	Regular	C-initial		E-Class	-el
-2343	oroʃvil	4	zzvil	oroʃ	Regular	C-initial	Passive	Passive	-il
+2343	oroʃvil	4	zzvil	oroʃ	Regular	C-initial	Passive	Passive	-vil
 2344	orodal	6	gartal	orod	Regular	C-initial		A-Class	-al
 2345	ort͡ʃanal	20	niharnal	ort͡ʃa	Regular	C-initial		Inchoative	-nal
 2346	orrd͡ʒal	6	gartal	orrd͡ʒ	Regular	C-initial		A-Class	-al
@@ -2358,7 +2358,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2357	uɣargel	1	erkel	uɣarg	Regular	V-initial		E-Class	-el
 2358	uɣegt͡sil	3	abril	uɣegt͡s	Regular	V-initial	Basic	I-Class	-il
 2359	uɣeworel	1	erkel	uɣewor	Regular	V-initial		E-Class	-el
-2360	uɣeworvil	3	ad͡zilvil	uɣewor	Regular	V-initial	Passive	Passive	-il
+2360	uɣeworvil	3	ad͡zilvil	uɣewor	Regular	V-initial	Passive	Passive	-vil
 2361	uɣɣakrel	1	erkel	uɣɣakr	Regular	V-initial		E-Class	-el
 2362	uɣɣel	1	erkel	uɣɣ	Regular	V-initial		E-Class	-el
 2363	unenal	19	amt͡ʃnal	une	Regular	V-initial		Inchoative	-nal
@@ -2371,12 +2371,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2370	uret͡snel	9	ad͡ʒet͡snel	ure	Regular	V-initial	Basic	Causative	-t͡snel
 2371	uril	3	abril	ur	Regular	V-initial	Basic	I-Class	-il
 2372	urd͡ʒanal	19	amt͡ʃnal	urd͡ʒa	Regular	V-initial		Inchoative	-nal
-2373	usanil	3	abril	usan	Regular	V-initial	Passive	Passive	-il
+2373	usanil	3	abril	usan	Regular	V-initial	Passive	Passive	-vil
 2374	usel	1	erkel	us	Regular	V-initial		E-Class	-el
 2375	usumnasirel	1	erkel	usumnasir	Regular	V-initial		E-Class	-el
 2376	usut͡sanel	11	usut͡sanel	usut͡s	Archaic	V-initial			-anel
 2377	udel	57	udel	ud	Suppletive	V-initial			-el
-2378	udvil	3	ad͡zilvil	ud	Regular	V-initial	Passive	Passive	-il
+2378	udvil	3	ad͡zilvil	ud	Regular	V-initial	Passive	Passive	-vil
 2379	uraxanal	19	amt͡ʃnal	uraxa	Regular	V-initial		Inchoative	-nal
 2380	uraxat͡snel	9	ad͡ʒet͡snel	uraxa	Regular	V-initial	Basic	Causative	-t͡snel
 2381	uranal	19	amt͡ʃnal	ura	Regular	V-initial		Inchoative	-nal
@@ -2392,7 +2392,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2391	t͡ʃarat͡snel	10	modet͡snel	t͡ʃara	Regular	C-initial	Basic	Causative	-t͡snel
 2392	t͡ʃarapoxel	2	kaɣel	t͡ʃarapox	Regular	C-initial		E-Class	-el
 2393	t͡ʃart͡ʃarel	2	kaɣel	t͡ʃart͡ʃar	Regular	C-initial		E-Class	-el
-2394	t͡ʃart͡ʃarvil	4	zzvil	t͡ʃart͡ʃar	Regular	C-initial	Passive	Passive	-il
+2394	t͡ʃart͡ʃarvil	4	zzvil	t͡ʃart͡ʃar	Regular	C-initial	Passive	Passive	-vil
 2395	t͡ʃart͡ʃrgel	2	kaɣel	t͡ʃart͡ʃrg	Regular	C-initial		E-Class	-el
 2396	t͡ʃapakrel	2	kaɣel	t͡ʃapakr	Regular	C-initial		E-Class	-el
 2397	t͡ʃapazant͡sel	2	kaɣel	t͡ʃapazant͡s	Regular	C-initial		E-Class	-el
@@ -2412,27 +2412,27 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2411	t͡ʃkmeɣel	2	kaɣel	t͡ʃkmeɣ	Regular	C-initial		E-Class	-el
 2412	baknel	53	xad͡znel	bak	Irregular	C-initial			-nel
 2413	baxaragel	2	kaɣel	baxarag	Regular	C-initial		E-Class	-el
-2414	baxaragvil	4	zzvil	baxarag	Regular	C-initial	Passive	Passive	-il
+2414	baxaragvil	4	zzvil	baxarag	Regular	C-initial	Passive	Passive	-vil
 2415	bagnul	22	zposnul	bag	Archaic	C-initial			-nul
 2416	bagset͡snel	10	modet͡snel	bagse	Regular	C-initial	Basic	Causative	-t͡snel
 2417	bagsil	4	xosil	bags	Regular	C-initial	Basic	I-Class	-il
 2418	bahant͡ʃel	2	kaɣel	bahant͡ʃ	Regular	C-initial		E-Class	-el
 2419	bahel	2	kaɣel	bah	Regular	C-initial		E-Class	-el
 2420	bahvədil	4	xosil	bahvəd	Regular	C-initial	Basic	I-Class	-il
-2421	bahvil	4	zzvil	bah	Regular	C-initial	Passive	Passive	-il
+2421	bahvil	4	zzvil	bah	Regular	C-initial	Passive	Passive	-vil
 2422	bahbanel	2	kaɣel	bahban	Regular	C-initial		E-Class	-el
 2423	baɣadil	4	xosil	baɣad	Regular	C-initial	Basic	I-Class	-il
 2424	baɣet͡snel	10	modet͡snel	baɣe	Regular	C-initial	Basic	Causative	-t͡snel
 2425	baɣil	4	xosil	baɣ	Regular	C-initial	Basic	I-Class	-il
 2426	baɣbat͡ʃil	4	xosil	baɣbat͡ʃ	Regular	C-initial	Basic	I-Class	-il
 2427	bad͡ʒud͡ʒel	2	kaɣel	bad͡ʒud͡ʒ	Regular	C-initial		E-Class	-el
-2428	bad͡ʒud͡ʒvil	4	zzvil	bad͡ʒud͡ʒ	Regular	C-initial	Passive	Passive	-il
+2428	bad͡ʒud͡ʒvil	4	zzvil	bad͡ʒud͡ʒ	Regular	C-initial	Passive	Passive	-vil
 2429	bajtet͡snel	10	modet͡snel	bajte	Regular	C-initial	Basic	Causative	-t͡snel
 2430	bajtil	4	xosil	bajt	Regular	C-initial	Basic	I-Class	-il
 2431	bajd͡zaranal	20	niharnal	bajd͡zara	Regular	C-initial		Inchoative	-nal
 2432	bajd͡zarat͡snel	10	modet͡snel	bajd͡zara	Regular	C-initial	Basic	Causative	-t͡snel
 2433	bajmanaworel	2	kaɣel	bajmanawor	Regular	C-initial		E-Class	-el
-2434	bajmanaworvil	4	zzvil	bajmanawor	Regular	C-initial	Passive	Passive	-il
+2434	bajmanaworvil	4	zzvil	bajmanawor	Regular	C-initial	Passive	Passive	-vil
 2435	bajdel	2	kaɣel	bajd	Regular	C-initial		E-Class	-el
 2436	bajkaril	4	xosil	bajkar	Regular	C-initial	Basic	I-Class	-il
 2437	bantxdil	4	xosil	bantxd	Regular	C-initial	Basic	I-Class	-il
@@ -2442,15 +2442,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2441	baʃdel	2	kaɣel	baʃd	Regular	C-initial		E-Class	-el
 2442	baʃdbanel	2	kaɣel	baʃdban	Regular	C-initial		E-Class	-el
 2443	baʃdonazrgel	2	kaɣel	baʃdonazrg	Regular	C-initial		E-Class	-el
-2444	baʃdonazrgvil	4	zzvil	baʃdonazrg	Regular	C-initial	Passive	Passive	-il
+2444	baʃdonazrgvil	4	zzvil	baʃdonazrg	Regular	C-initial	Passive	Passive	-vil
 2445	baʃdonaganat͡snel	10	modet͡snel	baʃdonagana	Regular	C-initial	Basic	Causative	-t͡snel
 2446	baʃdonavarel	2	kaɣel	baʃdonavar	Regular	C-initial		E-Class	-el
 2447	babagil	4	xosil	babag	Regular	C-initial	Basic	I-Class	-il
 2448	babant͡sil	4	xosil	babant͡s	Regular	C-initial	Basic	I-Class	-il
 2449	babat͡ʃel	2	kaɣel	babat͡ʃ	Regular	C-initial		E-Class	-el
 2450	baragdel	2	kaɣel	baragd	Regular	C-initial		E-Class	-el
-2451	baragdvil	4	zzvil	baragd	Regular	C-initial	Passive	Passive	-il
-2452	barawil	4	zzvil	bar	Regular	C-initial	Passive	Passive	-il
+2451	baragdvil	4	zzvil	baragd	Regular	C-initial	Passive	Passive	-vil
+2452	barawil	4	zzvil	bar	Regular	C-initial	Passive	Passive	-vil
 2453	barget͡snel	10	modet͡snel	barge	Regular	C-initial	Basic	Causative	-t͡snel
 2454	bargil	4	xosil	barg	Regular	C-initial	Basic	I-Class	-il
 2455	basket͡snel	10	modet͡snel	baske	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2465,7 +2465,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2464	badel	2	kaɣel	bad	Regular	C-initial		E-Class	-el
 2465	baderazmil	4	xosil	baderazm	Regular	C-initial	Basic	I-Class	-il
 2466	badʒel	2	kaɣel	badʒ	Regular	C-initial		E-Class	-el
-2467	badʒvil	4	zzvil	badʒ	Regular	C-initial	Passive	Passive	-il
+2467	badʒvil	4	zzvil	badʒ	Regular	C-initial	Passive	Passive	-vil
 2468	badganil	4	xosil	badgan	Regular	C-initial	Basic	I-Class	-il
 2469	badgaril	4	xosil	badgar	Regular	C-initial	Basic	I-Class	-il
 2470	badgerazartel	2	kaɣel	badgerazart	Regular	C-initial		E-Class	-el
@@ -2479,18 +2479,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2478	badʃad͡ʒet͡snel	10	modet͡snel	badʃad͡ʒe	Regular	C-initial	Basic	Causative	-t͡snel
 2479	badʃad͡ʒil	4	xosil	badʃad͡ʒ	Regular	C-initial	Basic	I-Class	-il
 2480	badvasdel	2	kaɣel	badvasd	Regular	C-initial		E-Class	-el
-2481	badvasdvil	4	zzvil	badvasd	Regular	C-initial	Passive	Passive	-il
+2481	badvasdvil	4	zzvil	badvasd	Regular	C-initial	Passive	Passive	-vil
 2482	badvel	2	kaɣel	badu	Regular	C-initial		E-Class	-el
 2483	badvirel	2	kaɣel	badvir	Regular	C-initial		E-Class	-el
 2484	baduhasel	2	kaɣel	baduhas	Regular	C-initial		E-Class	-el
 2485	badrel	2	kaɣel	badr	Regular	C-initial		E-Class	-el
-2486	badrvil	4	zzvil	badr	Regular	C-initial	Passive	Passive	-il
+2486	badrvil	4	zzvil	badr	Regular	C-initial	Passive	Passive	-vil
 2487	badrdel	2	kaɣel	badrd	Regular	C-initial		E-Class	-el
-2488	badrdvil	4	zzvil	badrd	Regular	C-initial	Passive	Passive	-il
+2488	badrdvil	4	zzvil	badrd	Regular	C-initial	Passive	Passive	-vil
 2489	badsbarel	2	kaɣel	badsbar	Regular	C-initial		E-Class	-el
-2490	badsbarvil	4	zzvil	badsbar	Regular	C-initial	Passive	Passive	-il
+2490	badsbarvil	4	zzvil	badsbar	Regular	C-initial	Passive	Passive	-vil
 2491	badrasdel	2	kaɣel	badrasd	Regular	C-initial		E-Class	-el
-2492	badrasdvil	4	zzvil	badrasd	Regular	C-initial	Passive	Passive	-il
+2492	badrasdvil	4	zzvil	badrasd	Regular	C-initial	Passive	Passive	-vil
 2493	badrel	2	kaɣel	badr	Regular	C-initial		E-Class	-el
 2494	badrvagel	2	kaɣel	badrvag	Regular	C-initial		E-Class	-el
 2495	badrusel	2	kaɣel	badrus	Regular	C-initial		E-Class	-el
@@ -2504,29 +2504,29 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2503	barkewel	2	kaɣel	barkew	Regular	C-initial		E-Class	-el
 2504	barel	2	kaɣel	bar	Regular	C-initial		E-Class	-el
 2505	barenaworel	2	kaɣel	barenawor	Regular	C-initial		E-Class	-el
-2506	barenaworvil	4	zzvil	barenawor	Regular	C-initial	Passive	Passive	-il
+2506	barenaworvil	4	zzvil	barenawor	Regular	C-initial	Passive	Passive	-vil
 2507	barzapanel	2	kaɣel	barzapan	Regular	C-initial		E-Class	-el
 2508	barzel	2	kaɣel	barz	Regular	C-initial		E-Class	-el
-2509	barzvil	4	zzvil	barz	Regular	C-initial	Passive	Passive	-il
+2509	barzvil	4	zzvil	barz	Regular	C-initial	Passive	Passive	-vil
 2510	bard͡zenal	20	niharnal	bard͡ze	Regular	C-initial		Inchoative	-nal
 2511	bard͡zil	4	xosil	bard͡z	Regular	C-initial	Basic	I-Class	-il
 2512	barunagel	2	kaɣel	barunag	Regular	C-initial		E-Class	-el
-2513	barunagvil	4	zzvil	barunag	Regular	C-initial	Passive	Passive	-il
+2513	barunagvil	4	zzvil	barunag	Regular	C-initial	Passive	Passive	-vil
 2514	barurel	2	kaɣel	barur	Regular	C-initial		E-Class	-el
 2515	barbel	2	kaɣel	barb	Regular	C-initial		E-Class	-el
-2516	barbvil	4	zzvil	barb	Regular	C-initial	Passive	Passive	-il
+2516	barbvil	4	zzvil	barb	Regular	C-initial	Passive	Passive	-vil
 2517	barsawel	2	kaɣel	barsaw	Regular	C-initial		E-Class	-el
 2518	bardatrel	2	kaɣel	bardatr	Regular	C-initial		E-Class	-el
 2519	bardaset͡snel	10	modet͡snel	bardase	Regular	C-initial	Basic	Causative	-t͡snel
 2520	bardasil	4	xosil	bardas	Regular	C-initial	Basic	I-Class	-il
 2521	bardaworel	2	kaɣel	bardawor	Regular	C-initial		E-Class	-el
-2522	bardaworvil	4	zzvil	bardawor	Regular	C-initial	Passive	Passive	-il
+2522	bardaworvil	4	zzvil	bardawor	Regular	C-initial	Passive	Passive	-vil
 2523	bardel	2	kaɣel	bard	Regular	C-initial		E-Class	-el
 2524	bardil	4	xosil	bard	Regular	C-initial	Basic	I-Class	-il
 2525	bardgel	2	kaɣel	bardg	Regular	C-initial		E-Class	-el
-2526	bardvil	4	zzvil	bard	Regular	C-initial	Passive	Passive	-il
+2526	bardvil	4	zzvil	bard	Regular	C-initial	Passive	Passive	-vil
 2527	barpagel	2	kaɣel	barpag	Regular	C-initial		E-Class	-el
-2528	barpagvil	4	zzvil	barpag	Regular	C-initial	Passive	Passive	-il
+2528	barpagvil	4	zzvil	barpag	Regular	C-initial	Passive	Passive	-vil
 2529	beɣel	2	kaɣel	beɣ	Regular	C-initial		E-Class	-el
 2530	bedaganat͡snel	10	modet͡snel	bedagana	Regular	C-initial	Basic	Causative	-t͡snel
 2531	bzdignal	20	niharnal	bzdig	Regular	C-initial		Inchoative	-nal
@@ -2534,18 +2534,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2533	bʒkal	6	gartal	bʒk	Regular	C-initial		A-Class	-al
 2534	bidagel	2	kaɣel	bidag	Regular	C-initial		E-Class	-el
 2535	bllel	2	kaɣel	bll	Regular	C-initial		E-Class	-el
-2536	bllvil	4	zzvil	bll	Regular	C-initial	Passive	Passive	-il
+2536	bllvil	4	zzvil	bll	Regular	C-initial	Passive	Passive	-vil
 2537	blʃgel	2	kaɣel	blʃg	Regular	C-initial		E-Class	-el
 2538	blʃgil	4	xosil	blʃg	Regular	C-initial	Basic	I-Class	-il
 2539	blorel	2	kaɣel	blor	Regular	C-initial		E-Class	-el
-2540	blorvil	4	zzvil	blor	Regular	C-initial	Passive	Passive	-il
+2540	blorvil	4	zzvil	blor	Regular	C-initial	Passive	Passive	-vil
 2541	blblal	6	gartal	blbl	Regular	C-initial		A-Class	-al
 2542	bɣd͡zel	2	kaɣel	bɣd͡z	Regular	C-initial		E-Class	-el
 2543	bɣbt͡ʃal	6	gartal	bɣbt͡ʃ	Regular	C-initial		A-Class	-al
 2544	bɣdorel	2	kaɣel	bɣdor	Regular	C-initial		E-Class	-el
 2545	bɣdoril	4	xosil	bɣdor	Regular	C-initial	Basic	I-Class	-il
 2546	bd͡ʒnel	2	kaɣel	bd͡ʒn	Regular	C-initial		E-Class	-el
-2547	bd͡ʒnvil	4	zzvil	bd͡ʒn	Regular	C-initial	Passive	Passive	-il
+2547	bd͡ʒnvil	4	zzvil	bd͡ʒn	Regular	C-initial	Passive	Passive	-vil
 2548	bntanal	20	niharnal	bnta	Regular	C-initial		Inchoative	-nal
 2549	bntat͡snel	10	modet͡snel	bnta	Regular	C-initial	Basic	Causative	-t͡snel
 2550	bntel	2	kaɣel	bnt	Regular	C-initial		E-Class	-el
@@ -2558,33 +2558,33 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2557	brsdel	2	kaɣel	brsd	Regular	C-initial		E-Class	-el
 2558	bsagatrel	2	kaɣel	bsagatr	Regular	C-initial		E-Class	-el
 2559	bsagel	2	kaɣel	bsag	Regular	C-initial		E-Class	-el
-2560	bsagvil	4	zzvil	bsag	Regular	C-initial	Passive	Passive	-il
+2560	bsagvil	4	zzvil	bsag	Regular	C-initial	Passive	Passive	-vil
 2561	bsbɣal	6	gartal	bsbɣ	Regular	C-initial		A-Class	-al
 2562	bdgil	4	xosil	bdg	Regular	C-initial	Basic	I-Class	-il
-2563	bdɣaworvil	4	zzvil	bdɣawor	Regular	C-initial	Passive	Passive	-il
+2563	bdɣaworvil	4	zzvil	bdɣawor	Regular	C-initial	Passive	Passive	-vil
 2564	bdrel	2	kaɣel	bdr	Regular	C-initial		E-Class	-el
 2565	bddil	4	xosil	bdd	Regular	C-initial	Basic	I-Class	-il
 2566	bddt͡snel	10	modet͡snel	bdd	Regular	C-initial	Basic	Causative	-t͡snel
 2567	brd͡zil	56	nsdil	brd͡z	Irregular	C-initial			-il
 2568	brgel	2	kaɣel	brg	Regular	C-initial		E-Class	-el
-2569	brgvil	4	zzvil	brg	Regular	C-initial	Passive	Passive	-il
+2569	brgvil	4	zzvil	brg	Regular	C-initial	Passive	Passive	-vil
 2570	brbdel	2	kaɣel	brbd	Regular	C-initial		E-Class	-el
 2571	t͡ʃaxel	2	kaɣel	t͡ʃax	Regular	C-initial		E-Class	-el
 2572	t͡ʃaxt͡ʃaxel	2	kaɣel	t͡ʃaxt͡ʃax	Regular	C-initial		E-Class	-el
-2573	t͡ʃaxt͡ʃaxvil	4	zzvil	t͡ʃaxt͡ʃax	Regular	C-initial	Passive	Passive	-il
+2573	t͡ʃaxt͡ʃaxvil	4	zzvil	t͡ʃaxt͡ʃax	Regular	C-initial	Passive	Passive	-vil
 2574	t͡ʃahavarel	2	kaɣel	t͡ʃahavar	Regular	C-initial		E-Class	-el
 2575	t͡ʃampel	2	kaɣel	t͡ʃamp	Regular	C-initial		E-Class	-el
 2576	t͡ʃajlel	2	kaɣel	t͡ʃajl	Regular	C-initial		E-Class	-el
 2577	t͡ʃanal	55	mnal	t͡ʃan	Irregular	C-initial			-al
 2578	t͡ʃadakovel	2	kaɣel	t͡ʃadakov	Regular	C-initial		E-Class	-el
 2579	t͡ʃartel	2	kaɣel	t͡ʃart	Regular	C-initial		E-Class	-el
-2580	t͡ʃartvil	4	zzvil	t͡ʃart	Regular	C-initial	Passive	Passive	-il
+2580	t͡ʃartvil	4	zzvil	t͡ʃart	Regular	C-initial	Passive	Passive	-vil
 2581	t͡ʃerat͡snel	10	modet͡snel	t͡ʃera	Regular	C-initial	Basic	Causative	-t͡snel
 2582	t͡ʃernul	22	zposnul	t͡ʃer	Archaic	C-initial			-nul
 2583	t͡ʃermanal	20	niharnal	t͡ʃerma	Regular	C-initial		Inchoative	-nal
 2584	t͡ʃermat͡snel	10	modet͡snel	t͡ʃerma	Regular	C-initial	Basic	Causative	-t͡snel
 2585	t͡ʃladel	2	kaɣel	t͡ʃlad	Regular	C-initial		E-Class	-el
-2586	t͡ʃladvil	4	zzvil	t͡ʃlad	Regular	C-initial	Passive	Passive	-il
+2586	t͡ʃladvil	4	zzvil	t͡ʃlad	Regular	C-initial	Passive	Passive	-vil
 2587	t͡ʃɣakrkrel	2	kaɣel	t͡ʃɣakrkr	Regular	C-initial		E-Class	-el
 2588	t͡ʃɣajnanal	20	niharnal	t͡ʃɣajna	Regular	C-initial		Inchoative	-nal
 2589	t͡ʃɣajnat͡snel	10	modet͡snel	t͡ʃɣajna	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2604,7 +2604,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2603	sahil	4	xosil	sah	Regular	C-initial	Basic	I-Class	-il
 2604	sahmanakd͡zel	2	kaɣel	sahmanakd͡z	Regular	C-initial		E-Class	-el
 2605	sahmanapagel	2	kaɣel	sahmanapag	Regular	C-initial		E-Class	-el
-2606	sahmanapagvil	4	zzvil	sahmanapag	Regular	C-initial	Passive	Passive	-il
+2606	sahmanapagvil	4	zzvil	sahmanapag	Regular	C-initial	Passive	Passive	-vil
 2607	sahmanel	2	kaɣel	sahman	Regular	C-initial		E-Class	-el
 2608	sahmrgel	2	kaɣel	sahmrg	Regular	C-initial		E-Class	-el
 2609	sahmrget͡snel	10	modet͡snel	sahmrge	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2641,7 +2641,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2640	saprel	2	kaɣel	sapr	Regular	C-initial		E-Class	-el
 2641	skal	6	gartal	sk	Regular	C-initial		A-Class	-al
 2642	seɣmel	2	kaɣel	seɣm	Regular	C-initial		E-Class	-el
-2643	seɣmvil	4	zzvil	seɣm	Regular	C-initial	Passive	Passive	-il
+2643	seɣmvil	4	zzvil	seɣm	Regular	C-initial	Passive	Passive	-vil
 2644	sebel	2	kaɣel	seb	Regular	C-initial		E-Class	-el
 2645	serel	2	kaɣel	ser	Regular	C-initial		E-Class	-el
 2646	seril	4	xosil	ser	Regular	C-initial	Basic	I-Class	-il
@@ -2657,10 +2657,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2656	stapil	4	xosil	stap	Regular	C-initial	Basic	I-Class	-il
 2657	sikal	6	gartal	sik	Regular	C-initial		A-Class	-al
 2658	sirapanil	4	xosil	sirapan	Regular	C-initial	Basic	I-Class	-il
-2659	siraharvil	4	zzvil	sirahar	Regular	C-initial	Passive	Passive	-il
+2659	siraharvil	4	zzvil	sirahar	Regular	C-initial	Passive	Passive	-vil
 2660	siraʃahil	4	xosil	siraʃah	Regular	C-initial	Basic	I-Class	-il
 2661	sirel	2	kaɣel	sir	Regular	C-initial		E-Class	-el
-2662	sirvil	4	zzvil	sir	Regular	C-initial	Passive	Passive	-il
+2662	sirvil	4	zzvil	sir	Regular	C-initial	Passive	Passive	-vil
 2663	slanal	6	gartal	slan	Regular	C-initial		A-Class	-al
 2664	sxalil	4	xosil	sxal	Regular	C-initial	Basic	I-Class	-il
 2665	sgzpnadarel	2	kaɣel	sgzpnadar	Regular	C-initial		E-Class	-el
@@ -2681,7 +2681,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2680	snkurel	2	kaɣel	snkur	Regular	C-initial		E-Class	-el
 2681	snut͡sanel	12	d͡zanut͡sanel	snut͡s	Archaic	C-initial			-anel
 2682	sotdel	2	kaɣel	sotd	Regular	C-initial		E-Class	-el
-2683	sotdvil	4	zzvil	sotd	Regular	C-initial	Passive	Passive	-il
+2683	sotdvil	4	zzvil	sotd	Regular	C-initial	Passive	Passive	-vil
 2684	soɣal	6	gartal	soɣ	Regular	C-initial		A-Class	-al
 2685	soɣosgil	4	xosil	soɣosg	Regular	C-initial	Basic	I-Class	-il
 2686	sonkal	6	gartal	sonk	Regular	C-initial		A-Class	-al
@@ -2694,7 +2694,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2693	sorvil	4	xosil	sorv	Regular	C-initial	Basic	I-Class	-il
 2694	svaɣil	4	xosil	svaɣ	Regular	C-initial	Basic	I-Class	-il
 2695	suzel	2	kaɣel	suz	Regular	C-initial		E-Class	-el
-2696	suzvil	4	zzvil	suz	Regular	C-initial	Passive	Passive	-il
+2696	suzvil	4	zzvil	suz	Regular	C-initial	Passive	Passive	-vil
 2697	sulel	2	kaɣel	sul	Regular	C-initial		E-Class	-el
 2698	suɣnal	20	niharnal	suɣ	Regular	C-initial		Inchoative	-nal
 2699	suɣt͡snel	10	modet͡snel	suɣ	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2702,7 +2702,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2701	sural	6	gartal	sur	Regular	C-initial		A-Class	-al
 2702	sbannel	2	kaɣel	sbann	Regular	C-initial		E-Class	-el
 2703	sbarazinel	2	kaɣel	sbarazin	Regular	C-initial		E-Class	-el
-2704	sbarazinvil	4	zzvil	sbarazin	Regular	C-initial	Passive	Passive	-il
+2704	sbarazinvil	4	zzvil	sbarazin	Regular	C-initial	Passive	Passive	-vil
 2705	sbarel	2	kaɣel	sbar	Regular	C-initial		E-Class	-el
 2706	sbaril	4	xosil	sbar	Regular	C-initial	Basic	I-Class	-il
 2707	sbarnal	55	mnal	sbarn	Irregular	C-initial			-al
@@ -2718,9 +2718,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2717	sdkdanel	2	kaɣel	sdkdan	Regular	C-initial		E-Class	-el
 2718	sdel	2	kaɣel	sd	Regular	C-initial		E-Class	-el
 2719	sdeɣd͡zel	2	kaɣel	sdeɣd͡z	Regular	C-initial		E-Class	-el
-2720	sdeɣd͡zvil	4	zzvil	sdeɣd͡z	Regular	C-initial	Passive	Passive	-il
+2720	sdeɣd͡zvil	4	zzvil	sdeɣd͡z	Regular	C-initial	Passive	Passive	-vil
 2721	sdibel	2	kaɣel	sdib	Regular	C-initial		E-Class	-el
-2722	sdibvil	4	zzvil	sdib	Regular	C-initial	Passive	Passive	-il
+2722	sdibvil	4	zzvil	sdib	Regular	C-initial	Passive	Passive	-vil
 2723	sdgel	2	kaɣel	sdg	Regular	C-initial		E-Class	-el
 2724	sdorakd͡zel	2	kaɣel	sdorakd͡z	Regular	C-initial		E-Class	-el
 2725	sdoraknahadel	2	kaɣel	sdoraknahad	Regular	C-initial		E-Class	-el
@@ -2752,9 +2752,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2751	skant͡ʃanal	20	niharnal	skant͡ʃa	Regular	C-initial		Inchoative	-nal
 2752	skant͡ʃat͡snel	10	modet͡snel	skant͡ʃa	Regular	C-initial	Basic	Causative	-t͡snel
 2753	skoɣel	2	kaɣel	skoɣ	Regular	C-initial		E-Class	-el
-2754	skoɣvil	4	zzvil	skoɣ	Regular	C-initial	Passive	Passive	-il
+2754	skoɣvil	4	zzvil	skoɣ	Regular	C-initial	Passive	Passive	-vil
 2755	skoɣel	2	kaɣel	skoɣ	Regular	C-initial		E-Class	-el
-2756	skoɣvil	4	zzvil	skoɣ	Regular	C-initial	Passive	Passive	-il
+2756	skoɣvil	4	zzvil	skoɣ	Regular	C-initial	Passive	Passive	-vil
 2757	sosapel	2	kaɣel	sosap	Regular	C-initial		E-Class	-el
 2758	vakel	2	kaɣel	vak	Regular	C-initial		E-Class	-el
 2759	vazel	2	kaɣel	vaz	Regular	C-initial		E-Class	-el
@@ -2765,7 +2765,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2764	vaxnal	20	niharnal	vax	Regular	C-initial		Inchoative	-nal
 2765	vaxt͡snel	10	modet͡snel	vax	Regular	C-initial	Basic	Causative	-t͡snel
 2766	vad͡ʒarel	2	kaɣel	vad͡ʒar	Regular	C-initial		E-Class	-el
-2767	vad͡ʒarvil	4	zzvil	vad͡ʒar	Regular	C-initial	Passive	Passive	-il
+2767	vad͡ʒarvil	4	zzvil	vad͡ʒar	Regular	C-initial	Passive	Passive	-vil
 2768	vajel	2	kaɣel	vaj	Regular	C-initial		E-Class	-el
 2769	vajelel	2	kaɣel	vajel	Regular	C-initial		E-Class	-el
 2770	vajlel	2	kaɣel	vajl	Regular	C-initial		E-Class	-el
@@ -2785,7 +2785,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2784	vadnel	2	kaɣel	vadn	Regular	C-initial		E-Class	-el
 2785	varakurel	2	kaɣel	varakur	Regular	C-initial		E-Class	-el
 2786	varagel	2	kaɣel	varag	Regular	C-initial		E-Class	-el
-2787	varagvil	4	zzvil	varag	Regular	C-initial	Passive	Passive	-il
+2787	varagvil	4	zzvil	varag	Regular	C-initial	Passive	Passive	-vil
 2788	varanil	4	xosil	varan	Regular	C-initial	Basic	I-Class	-il
 2789	varadel	2	kaɣel	varad	Regular	C-initial		E-Class	-el
 2790	vararil	4	xosil	varar	Regular	C-initial	Basic	I-Class	-il
@@ -2793,12 +2793,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2792	vartabedel	2	kaɣel	vartabed	Regular	C-initial		E-Class	-el
 2793	varel	2	kaɣel	var	Regular	C-initial		E-Class	-el
 2794	varʒet͡snel	10	modet͡snel	varʒe	Regular	C-initial	Basic	Causative	-t͡snel
-2795	varʒvil	4	zzvil	varʒ	Regular	C-initial	Passive	Passive	-il
+2795	varʒvil	4	zzvil	varʒ	Regular	C-initial	Passive	Passive	-vil
 2796	vargapegel	2	kaɣel	vargapeg	Regular	C-initial		E-Class	-el
 2797	vargakrel	2	kaɣel	vargakr	Regular	C-initial		E-Class	-el
 2798	vart͡sadrel	2	kaɣel	vart͡sadr	Regular	C-initial		E-Class	-el
 2799	vart͡sel	2	kaɣel	vart͡s	Regular	C-initial		E-Class	-el
-2800	varvil	4	zzvil	var	Regular	C-initial	Passive	Passive	-il
+2800	varvil	4	zzvil	var	Regular	C-initial	Passive	Passive	-vil
 2801	varsel	2	kaɣel	vars	Regular	C-initial		E-Class	-el
 2802	vawerat͡snel	10	modet͡snel	vawera	Regular	C-initial	Basic	Causative	-t͡snel
 2803	veheril	4	xosil	veher	Regular	C-initial	Basic	I-Class	-il
@@ -2808,7 +2808,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2807	veratarnal	40	tarnal	veratarn	Suppletive	C-initial			-al
 2808	veratart͡snel	10	tart͡snel	veratar	Regular	C-initial	Orthographic variant with affricate	Causative	-t͡snel
 2809	verazinel	2	kaɣel	verazin	Regular	C-initial		E-Class	-el
-2810	verazinvil	4	zzvil	verazin	Regular	C-initial	Passive	Passive	-il
+2810	verazinvil	4	zzvil	verazin	Regular	C-initial	Passive	Passive	-vil
 2811	veraxmpel	2	kaɣel	veraxmp	Regular	C-initial		E-Class	-el
 2812	verad͡zel	2	kaɣel	verad͡z	Regular	C-initial		E-Class	-el
 2813	verad͡znil	56	nsdil	verad͡zn	Irregular	C-initial			-il
@@ -2821,7 +2821,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2820	veragerdel	2	kaɣel	veragerd	Regular	C-initial		E-Class	-el
 2821	veragot͡ʃel	2	kaɣel	veragot͡ʃ	Regular	C-initial		E-Class	-el
 2822	verahasdadel	2	kaɣel	verahasdad	Regular	C-initial		E-Class	-el
-2823	verahasdadvil	4	zzvil	verahasdad	Regular	C-initial	Passive	Passive	-il
+2823	verahasdadvil	4	zzvil	verahasdad	Regular	C-initial	Passive	Passive	-vil
 2824	verahsgel	2	kaɣel	verahsg	Regular	C-initial		E-Class	-el
 2825	veramgrdel	2	kaɣel	veramgrd	Regular	C-initial		E-Class	-el
 2826	veramʃagel	2	kaɣel	veramʃag	Regular	C-initial		E-Class	-el
@@ -2836,11 +2836,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2835	verat͡snel	10	modet͡snel	vera	Regular	C-initial	Basic	Causative	-t͡snel
 2836	verapoxel	2	kaɣel	verapox	Regular	C-initial		E-Class	-el
 2837	veraknnel	2	kaɣel	veraknn	Regular	C-initial		E-Class	-el
-2838	vererewil	4	zzvil	verer	Regular	C-initial	Passive	Passive	-il
+2838	vererewil	4	zzvil	verer	Regular	C-initial	Passive	Passive	-vil
 2839	verəntunil	4	xosil	verəntun	Regular	C-initial	Basic	I-Class	-il
 2840	verənt͡siwɣel	2	kaɣel	verənt͡siwɣ	Regular	C-initial		E-Class	-el
 2841	verəndrel	2	kaɣel	verəndr	Regular	C-initial		E-Class	-el
-2842	verəndrvil	4	zzvil	verəndr	Regular	C-initial	Passive	Passive	-il
+2842	verəndrvil	4	zzvil	verəndr	Regular	C-initial	Passive	Passive	-vil
 2843	verlud͡zel	2	kaɣel	verlud͡z	Regular	C-initial		E-Class	-el
 2844	verd͡zanel	2	kaɣel	verd͡zan	Regular	C-initial		E-Class	-el
 2845	verjiʃel	2	kaɣel	verjiʃ	Regular	C-initial		E-Class	-el
@@ -2857,14 +2857,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2856	viʒil	4	xosil	viʒ	Regular	C-initial	Basic	I-Class	-il
 2857	vid͡ʒapanil	4	xosil	vid͡ʒapan	Regular	C-initial	Basic	I-Class	-il
 2858	vid͡ʒagel	2	kaɣel	vid͡ʒag	Regular	C-initial		E-Class	-el
-2859	vid͡ʒagvil	4	zzvil	vid͡ʒag	Regular	C-initial	Passive	Passive	-il
+2859	vid͡ʒagvil	4	zzvil	vid͡ʒag	Regular	C-initial	Passive	Passive	-vil
 2860	vid͡ʒargel	2	kaɣel	vid͡ʒarg	Regular	C-initial		E-Class	-el
 2861	vid͡ʒil	4	xosil	vid͡ʒ	Regular	C-initial	Basic	I-Class	-il
 2862	vimakrel	2	kaɣel	vimakr	Regular	C-initial		E-Class	-el
 2863	vibel	2	kaɣel	vib	Regular	C-initial		E-Class	-el
 2864	viral	6	gartal	vir	Regular	C-initial		A-Class	-al
 2865	viraworel	2	kaɣel	virawor	Regular	C-initial		E-Class	-el
-2866	viraworvil	4	zzvil	virawor	Regular	C-initial	Passive	Passive	-il
+2866	viraworvil	4	zzvil	virawor	Regular	C-initial	Passive	Passive	-vil
 2867	vxdal	6	gartal	vxd	Regular	C-initial		A-Class	-al
 2868	vgajel	2	kaɣel	vgaj	Regular	C-initial		E-Class	-el
 2869	vgantel	2	kaɣel	vgant	Regular	C-initial		E-Class	-el
@@ -2873,22 +2873,22 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2872	vd͡ʒarel	2	kaɣel	vd͡ʒar	Regular	C-initial		E-Class	-el
 2873	vd͡ʒrel	2	kaɣel	vd͡ʒr	Regular	C-initial		E-Class	-el
 2874	vnasel	2	kaɣel	vnas	Regular	C-initial		E-Class	-el
-2875	vnasvil	4	zzvil	vnas	Regular	C-initial	Passive	Passive	-il
+2875	vnasvil	4	zzvil	vnas	Regular	C-initial	Passive	Passive	-vil
 2876	vʃdagt͡sil	4	xosil	vʃdagt͡s	Regular	C-initial	Basic	I-Class	-il
 2877	vʃdanal	20	niharnal	vʃda	Regular	C-initial		Inchoative	-nal
 2878	vʃdat͡snel	10	modet͡snel	vʃda	Regular	C-initial	Basic	Causative	-t͡snel
 2879	vrndel	2	kaɣel	vrnd	Regular	C-initial		E-Class	-el
-2880	vrndvil	4	zzvil	vrnd	Regular	C-initial	Passive	Passive	-il
+2880	vrndvil	4	zzvil	vrnd	Regular	C-initial	Passive	Passive	-vil
 2881	vsemat͡snel	10	modet͡snel	vsema	Regular	C-initial	Basic	Causative	-t͡snel
 2882	vsdahet͡snel	10	modet͡snel	vsdahe	Regular	C-initial	Basic	Causative	-t͡snel
 2883	vsdahil	4	xosil	vsdah	Regular	C-initial	Basic	I-Class	-il
 2884	vdankel	2	kaɣel	vdank	Regular	C-initial		E-Class	-el
-2885	vdankvil	4	zzvil	vdank	Regular	C-initial	Passive	Passive	-il
+2885	vdankvil	4	zzvil	vdank	Regular	C-initial	Passive	Passive	-vil
 2886	vdarel	2	kaɣel	vdar	Regular	C-initial		E-Class	-el
-2887	vdarvil	4	zzvil	vdar	Regular	C-initial	Passive	Passive	-il
+2887	vdarvil	4	zzvil	vdar	Regular	C-initial	Passive	Passive	-vil
 2888	vrtovel	2	kaɣel	vrtov	Regular	C-initial		E-Class	-el
 2889	vrtovil	4	xosil	vrtov	Regular	C-initial	Basic	I-Class	-il
-2890	vrtovvil	4	zzvil	vrtov	Regular	C-initial	Passive	Passive	-il
+2890	vrtovvil	4	zzvil	vrtov	Regular	C-initial	Passive	Passive	-vil
 2891	vribet͡snel	10	modet͡snel	vribe	Regular	C-initial	Basic	Causative	-t͡snel
 2892	vribil	4	xosil	vrib	Regular	C-initial	Basic	I-Class	-il
 2893	vrnt͡ʃel	2	kaɣel	vrnt͡ʃ	Regular	C-initial		E-Class	-el
@@ -2903,7 +2903,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2902	damgat͡snel	10	modet͡snel	damga	Regular	C-initial	Basic	Causative	-t͡snel
 2903	danil	58	danil	dan	Suppletive	C-initial			-il
 2904	dant͡ʃel	2	kaɣel	dant͡ʃ	Regular	C-initial		E-Class	-el
-2905	dant͡ʃvil	4	zzvil	dant͡ʃ	Regular	C-initial	Passive	Passive	-il
+2905	dant͡ʃvil	4	zzvil	dant͡ʃ	Regular	C-initial	Passive	Passive	-vil
 2906	daʃel	2	kaɣel	daʃ	Regular	C-initial		E-Class	-el
 2907	dabalel	2	kaɣel	dabal	Regular	C-initial		E-Class	-el
 2908	dabalil	4	xosil	dabal	Regular	C-initial	Basic	I-Class	-il
@@ -2917,27 +2917,27 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2916	dadamsil	4	xosil	dadams	Regular	C-initial	Basic	I-Class	-il
 2917	dadanil	4	xosil	dadan	Regular	C-initial	Basic	I-Class	-il
 2918	darakrel	2	kaɣel	darakr	Regular	C-initial		E-Class	-el
-2919	darakrvil	4	zzvil	darakr	Regular	C-initial	Passive	Passive	-il
+2919	darakrvil	4	zzvil	darakr	Regular	C-initial	Passive	Passive	-vil
 2920	darad͡zel	2	kaɣel	darad͡z	Regular	C-initial		E-Class	-el
-2921	darad͡zvil	4	zzvil	darad͡z	Regular	C-initial	Passive	Passive	-il
+2921	darad͡zvil	4	zzvil	darad͡z	Regular	C-initial	Passive	Passive	-vil
 2922	daragusil	4	xosil	daragus	Regular	C-initial	Basic	I-Class	-il
 2923	darat͡sajnel	2	kaɣel	darat͡sajn	Regular	C-initial		E-Class	-el
-2924	darat͡sajnvil	4	zzvil	darat͡sajn	Regular	C-initial	Passive	Passive	-il
+2924	darat͡sajnvil	4	zzvil	darat͡sajn	Regular	C-initial	Passive	Passive	-vil
 2925	darant͡ʃadel	2	kaɣel	darant͡ʃad	Regular	C-initial		E-Class	-el
 2926	darpaɣatrel	2	kaɣel	darpaɣatr	Regular	C-initial		E-Class	-el
-2927	darpaɣatrvil	4	zzvil	darpaɣatr	Regular	C-initial	Passive	Passive	-il
+2927	darpaɣatrvil	4	zzvil	darpaɣatr	Regular	C-initial	Passive	Passive	-vil
 2928	darperel	2	kaɣel	darper	Regular	C-initial		E-Class	-el
 2929	darperil	4	xosil	darper	Regular	C-initial	Basic	I-Class	-il
 2930	darhamozel	2	kaɣel	darhamoz	Regular	C-initial		E-Class	-el
 2931	daroroʃel	2	kaɣel	daroroʃ	Regular	C-initial		E-Class	-el
 2932	daruperel	38	perel	daruper	Irregular	C-initial			-el
 2933	daruperil	4	xosil	daruper	Regular	C-initial	Basic	I-Class	-il
-2934	darupervil	4	zzvil	daruper	Regular	C-initial	Passive	Passive	-il
-2935	darvil	4	zzvil	dar	Regular	C-initial	Passive	Passive	-il
+2934	darupervil	4	zzvil	daruper	Regular	C-initial	Passive	Passive	-vil
+2935	darvil	4	zzvil	dar	Regular	C-initial	Passive	Passive	-vil
 2936	dardɣnel	2	kaɣel	dardɣn	Regular	C-initial		E-Class	-el
-2937	dardɣnvil	4	zzvil	dardɣn	Regular	C-initial	Passive	Passive	-il
+2937	dardɣnvil	4	zzvil	dardɣn	Regular	C-initial	Passive	Passive	-vil
 2938	darralud͡zel	2	kaɣel	darralud͡z	Regular	C-initial		E-Class	-el
-2939	darralud͡zvil	4	zzvil	darralud͡z	Regular	C-initial	Passive	Passive	-il
+2939	darralud͡zvil	4	zzvil	darralud͡z	Regular	C-initial	Passive	Passive	-vil
 2940	darpal	6	gartal	darp	Regular	C-initial		A-Class	-al
 2941	darpoɣel	2	kaɣel	darpoɣ	Regular	C-initial		E-Class	-el
 2942	dapagnal	20	niharnal	dapag	Regular	C-initial		Inchoative	-nal
@@ -2949,14 +2949,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2948	dkeɣnal	20	niharnal	dkeɣ	Regular	C-initial		Inchoative	-nal
 2949	dkeɣt͡snel	10	modet͡snel	dkeɣ	Regular	C-initial	Basic	Causative	-t͡snel
 2950	dearnakrel	2	kaɣel	dearnakr	Regular	C-initial		E-Class	-el
-2951	dearnakrvil	4	zzvil	dearnakr	Regular	C-initial	Passive	Passive	-il
+2951	dearnakrvil	4	zzvil	dearnakr	Regular	C-initial	Passive	Passive	-vil
 2952	deɣal	6	gartal	deɣ	Regular	C-initial		A-Class	-al
 2953	deɣahanel	2	kaɣel	deɣahan	Regular	C-initial		E-Class	-el
 2954	deɣat͡snel	10	modet͡snel	deɣa	Regular	C-initial	Basic	Causative	-t͡snel
 2955	deɣaworel	2	kaɣel	deɣawor	Regular	C-initial		E-Class	-el
-2956	deɣaworvil	4	zzvil	deɣawor	Regular	C-initial	Passive	Passive	-il
+2956	deɣaworvil	4	zzvil	deɣawor	Regular	C-initial	Passive	Passive	-vil
 2957	deɣapoxel	2	kaɣel	deɣapox	Regular	C-initial		E-Class	-el
-2958	deɣapoxvil	4	zzvil	deɣapox	Regular	C-initial	Passive	Passive	-il
+2958	deɣapoxvil	4	zzvil	deɣapox	Regular	C-initial	Passive	Passive	-vil
 2959	deɣegakrel	2	kaɣel	deɣegakr	Regular	C-initial		E-Class	-el
 2960	deɣeganal	20	niharnal	deɣega	Regular	C-initial		Inchoative	-nal
 2961	deɣegat͡snel	10	modet͡snel	deɣega	Regular	C-initial	Basic	Causative	-t͡snel
@@ -2964,7 +2964,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2963	desagt͡sil	4	xosil	desagt͡s	Regular	C-initial	Basic	I-Class	-il
 2964	desnal	24	kdnal	des	Irregular	C-initial	Theme -a-		-nal
 2965	desnel	24	kdnel	des	Irregular	C-initial	Theme -e-		-nel
-2966	desnvil	4	zzvil	desn	Regular	C-initial	Passive	Passive	-il
+2966	desnvil	4	zzvil	desn	Regular	C-initial	Passive	Passive	-vil
 2967	dewaganat͡snel	10	modet͡snel	dewagana	Regular	C-initial	Basic	Causative	-t͡snel
 2968	dewel	2	kaɣel	dew	Regular	C-initial		E-Class	-el
 2969	dzzal	6	gartal	dzz	Regular	C-initial		A-Class	-al
@@ -2982,11 +2982,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2981	dnkal	6	gartal	dnk	Regular	C-initial		A-Class	-al
 2982	dnorinel	2	kaɣel	dnorin	Regular	C-initial		E-Class	-el
 2983	dokorel	2	kaɣel	dokor	Regular	C-initial		E-Class	-el
-2984	dokorvil	4	zzvil	dokor	Regular	C-initial	Passive	Passive	-il
+2984	dokorvil	4	zzvil	dokor	Regular	C-initial	Passive	Passive	-vil
 2985	dogal	6	gartal	dog	Regular	C-initial		A-Class	-al
 2986	doɣant͡sel	2	kaɣel	doɣant͡s	Regular	C-initial		E-Class	-el
 2987	dot͡ʃorel	2	kaɣel	dot͡ʃor	Regular	C-initial		E-Class	-el
-2988	dot͡ʃorvil	4	zzvil	dot͡ʃor	Regular	C-initial	Passive	Passive	-il
+2988	dot͡ʃorvil	4	zzvil	dot͡ʃor	Regular	C-initial	Passive	Passive	-vil
 2989	doromel	2	kaɣel	dorom	Regular	C-initial		E-Class	-el
 2990	doromil	4	xosil	dorom	Regular	C-initial	Basic	I-Class	-il
 2991	dvajdil	4	xosil	dvajd	Regular	C-initial	Basic	I-Class	-il
@@ -2996,14 +2996,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2995	dbakrel	2	kaɣel	dbakr	Regular	C-initial		E-Class	-el
 2996	dbaworel	2	kaɣel	dbawor	Regular	C-initial		E-Class	-el
 2997	dbel	2	kaɣel	db	Regular	C-initial		E-Class	-el
-2998	dbvil	4	zzvil	db	Regular	C-initial	Passive	Passive	-il
+2998	dbvil	4	zzvil	db	Regular	C-initial	Passive	Passive	-vil
 2999	drdral	6	gartal	drdr	Regular	C-initial		A-Class	-al
 3000	dramapanel	2	kaɣel	dramapan	Regular	C-initial		E-Class	-el
 3001	dramatrel	2	kaɣel	dramatr	Regular	C-initial		E-Class	-el
 3002	drizel	2	kaɣel	driz	Regular	C-initial		E-Class	-el
 3003	drohel	2	kaɣel	droh	Regular	C-initial		E-Class	-el
 3004	drorel	2	kaɣel	dror	Regular	C-initial		E-Class	-el
-3005	drorvil	4	zzvil	dror	Regular	C-initial	Passive	Passive	-il
+3005	drorvil	4	zzvil	dror	Regular	C-initial	Passive	Passive	-vil
 3006	dropel	2	kaɣel	drop	Regular	C-initial		E-Class	-el
 3007	drdmet͡snel	10	modet͡snel	drdme	Regular	C-initial	Basic	Causative	-t͡snel
 3008	drdmil	4	xosil	drdm	Regular	C-initial	Basic	I-Class	-il
@@ -3029,7 +3029,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3028	t͡sadget͡snel	10	modet͡snel	t͡sadge	Regular	C-initial	Basic	Causative	-t͡snel
 3029	t͡sadgrdel	2	kaɣel	t͡sadgrd	Regular	C-initial		E-Class	-el
 3030	t͡sawagt͡sil	4	xosil	t͡sawagt͡s	Regular	C-initial	Basic	I-Class	-il
-3031	t͡sawil	4	zzvil	t͡s	Regular	C-initial	Passive	Passive	-il
+3031	t͡sawil	4	zzvil	t͡s	Regular	C-initial	Passive	Passive	-vil
 3032	t͡sawt͡snel	10	modet͡snel	t͡saw	Regular	C-initial	Basic	Causative	-t͡snel
 3033	t͡sakanel	2	kaɣel	t͡sakan	Regular	C-initial		E-Class	-el
 3034	t͡selel	2	kaɣel	t͡sel	Regular	C-initial		E-Class	-el
@@ -3048,23 +3048,23 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3047	t͡sut͡snel	10	modet͡snel	t͡su	Regular	C-initial	Basic	Causative	-t͡snel
 3048	t͡srel	2	kaɣel	t͡sr	Regular	C-initial		E-Class	-el
 3049	t͡srvel	2	kaɣel	t͡sru	Regular	C-initial		E-Class	-el
-3050	t͡srvil	4	zzvil	t͡sr	Regular	C-initial	Passive	Passive	-il
+3050	t͡srvil	4	zzvil	t͡sr	Regular	C-initial	Passive	Passive	-vil
 3051	t͡srdanal	20	niharnal	t͡srda	Regular	C-initial		Inchoative	-nal
 3052	t͡srdat͡snel	10	modet͡snel	t͡srda	Regular	C-initial	Basic	Causative	-t͡snel
 3053	t͡srdel	2	kaɣel	t͡srd	Regular	C-initial		E-Class	-el
 3054	t͡st͡sel	2	kaɣel	t͡st͡s	Regular	C-initial		E-Class	-el
-3055	t͡st͡svil	4	zzvil	t͡st͡s	Regular	C-initial	Passive	Passive	-il
+3055	t͡st͡svil	4	zzvil	t͡st͡s	Regular	C-initial	Passive	Passive	-vil
 3056	t͡soɣel	2	kaɣel	t͡soɣ	Regular	C-initial		E-Class	-el
 3057	t͡soɣvel	2	kaɣel	t͡soɣu	Regular	C-initial		E-Class	-el
 3058	pattel	2	kaɣel	patt	Regular	C-initial		E-Class	-el
-3059	pattvil	4	zzvil	patt	Regular	C-initial	Passive	Passive	-il
+3059	pattvil	4	zzvil	patt	Regular	C-initial	Passive	Passive	-vil
 3060	palplil	4	xosil	palpl	Regular	C-initial	Basic	I-Class	-il
 3061	paxil	44	tbil	pax	Irregular	C-initial			-il
 3062	paxt͡ʃil	26	tbt͡ʃil	pax	Irregular	C-initial			-t͡ʃil
 3063	paxt͡snel	10	modet͡snel	pax	Regular	C-initial	Basic	Causative	-t͡snel
 3064	pagel	2	kaɣel	pag	Regular	C-initial		E-Class	-el
 3065	pagil	44	tbil	pag	Irregular	C-initial			-il
-3066	pagvil	4	zzvil	pag	Regular	C-initial	Passive	Passive	-il
+3066	pagvil	4	zzvil	pag	Regular	C-initial	Passive	Passive	-vil
 3067	pagt͡ʃil	26	tbt͡ʃil	pag	Irregular	C-initial			-t͡ʃil
 3068	pagt͡snel	10	modet͡snel	pag	Regular	C-initial	Basic	Causative	-t͡snel
 3069	paɣaɣel	2	kaɣel	paɣaɣ	Regular	C-initial		E-Class	-el
@@ -3113,7 +3113,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3112	potil	4	xosil	pot	Regular	C-initial	Basic	I-Class	-il
 3113	poxatart͡sel	2	kaɣel	poxatart͡s	Regular	C-initial		E-Class	-el
 3114	poxatrel	2	kaɣel	poxatr	Regular	C-initial		E-Class	-el
-3115	poxatrvil	4	zzvil	poxatr	Regular	C-initial	Passive	Passive	-il
+3115	poxatrvil	4	zzvil	poxatr	Regular	C-initial	Passive	Passive	-vil
 3116	poxagerbel	2	kaɣel	poxagerb	Regular	C-initial		E-Class	-el
 3117	poxanagel	2	kaɣel	poxanag	Regular	C-initial		E-Class	-el
 3118	poxant͡sakrel	2	kaɣel	poxant͡sakr	Regular	C-initial		E-Class	-el
@@ -3121,7 +3121,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3120	poxarinel	2	kaɣel	poxarin	Regular	C-initial		E-Class	-el
 3121	poxargel	2	kaɣel	poxarg	Regular	C-initial		E-Class	-el
 3122	poxel	2	kaɣel	pox	Regular	C-initial		E-Class	-el
-3123	poxvil	4	zzvil	pox	Regular	C-initial	Passive	Passive	-il
+3123	poxvil	4	zzvil	pox	Regular	C-initial	Passive	Passive	-vil
 3124	poɣodel	2	kaɣel	poɣod	Regular	C-initial		E-Class	-el
 3125	poɣpoɣil	4	xosil	poɣpoɣ	Regular	C-initial	Basic	I-Class	-il
 3126	pod͡ʒogel	2	kaɣel	pod͡ʒog	Regular	C-initial		E-Class	-el
@@ -3131,7 +3131,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3130	porel	2	kaɣel	por	Regular	C-initial		E-Class	-el
 3131	port͡sargel	2	kaɣel	port͡sarg	Regular	C-initial		E-Class	-el
 3132	port͡sel	2	kaɣel	port͡s	Regular	C-initial		E-Class	-el
-3133	port͡svil	4	zzvil	port͡s	Regular	C-initial	Passive	Passive	-il
+3133	port͡svil	4	zzvil	port͡s	Regular	C-initial	Passive	Passive	-vil
 3134	putal	6	gartal	put	Regular	C-initial		A-Class	-al
 3135	putat͡snel	10	modet͡snel	puta	Regular	C-initial	Basic	Causative	-t͡snel
 3136	popoxel	2	kaɣel	popox	Regular	C-initial		E-Class	-el
@@ -3141,7 +3141,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3140	prel	2	kaɣel	pr	Regular	C-initial		E-Class	-el
 3141	prnkal	6	gartal	prnk	Regular	C-initial		A-Class	-al
 3142	prnkdal	6	gartal	prnkd	Regular	C-initial		A-Class	-al
-3143	prvil	4	zzvil	pr	Regular	C-initial	Passive	Passive	-il
+3143	prvil	4	zzvil	pr	Regular	C-initial	Passive	Passive	-vil
 3144	psxel	2	kaɣel	psx	Regular	C-initial		E-Class	-el
 3145	psorel	2	kaɣel	psor	Regular	C-initial		E-Class	-el
 3146	psoril	4	xosil	psor	Regular	C-initial	Basic	I-Class	-il
@@ -3151,43 +3151,43 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3150	prtil	56	nsdil	prt	Irregular	C-initial			-il
 3151	prgakord͡zel	2	kaɣel	prgakord͡z	Regular	C-initial		E-Class	-el
 3152	prgel	2	kaɣel	prg	Regular	C-initial		E-Class	-el
-3153	prgvil	4	zzvil	prg	Regular	C-initial	Passive	Passive	-il
+3153	prgvil	4	zzvil	prg	Regular	C-initial	Passive	Passive	-vil
 3154	prt͡snel	10	modet͡snel	pr	Regular	C-initial	Basic	Causative	-t͡snel
 3155	prpret͡snel	10	modet͡snel	prpre	Regular	C-initial	Basic	Causative	-t͡snel
 3156	prpril	4	xosil	prpr	Regular	C-initial	Basic	I-Class	-il
 3157	pkal	6	gartal	pk	Regular	C-initial		A-Class	-al
 3158	pkanal	20	niharnal	pka	Regular	C-initial		Inchoative	-nal
 3159	pkat͡snel	10	modet͡snel	pka	Regular	C-initial	Basic	Causative	-t͡snel
-3160	pkvil	4	zzvil	pk	Regular	C-initial	Passive	Passive	-il
+3160	pkvil	4	zzvil	pk	Regular	C-initial	Passive	Passive	-vil
 3161	kalel	2	kaɣel	kal	Regular	C-initial		E-Class	-el
 3162	kagel	2	kaɣel	kag	Regular	C-initial		E-Class	-el
-3163	kagvil	4	zzvil	kag	Regular	C-initial	Passive	Passive	-il
+3163	kagvil	4	zzvil	kag	Regular	C-initial	Passive	Passive	-vil
 3164	kagdel	2	kaɣel	kagd	Regular	C-initial		E-Class	-el
 3165	kahanajanal	20	niharnal	kahanaja	Regular	C-initial		Inchoative	-nal
 3166	kaɣakagrtel	2	kaɣel	kaɣakagrt	Regular	C-initial		E-Class	-el
-3167	kaɣakagrtvil	4	zzvil	kaɣakagrt	Regular	C-initial	Passive	Passive	-il
+3167	kaɣakagrtvil	4	zzvil	kaɣakagrt	Regular	C-initial	Passive	Passive	-vil
 3168	kaɣel	2	kaɣel	kaɣ	Regular	C-initial		E-Class	-el
 3169	kaɣt͡sranal	20	niharnal	kaɣt͡sra	Regular	C-initial		Inchoative	-nal
 3170	kaɣt͡srat͡snel	10	modet͡snel	kaɣt͡sra	Regular	C-initial	Basic	Causative	-t͡snel
 3171	kamahrel	2	kaɣel	kamahr	Regular	C-initial		E-Class	-el
 3172	kamel	2	kaɣel	kam	Regular	C-initial		E-Class	-el
 3173	kajkajel	2	kaɣel	kajkaj	Regular	C-initial		E-Class	-el
-3174	kajkajvil	4	zzvil	kajkaj	Regular	C-initial	Passive	Passive	-il
+3174	kajkajvil	4	zzvil	kajkaj	Regular	C-initial	Passive	Passive	-vil
 3175	kantagel	2	kaɣel	kantag	Regular	C-initial		E-Class	-el
 3176	kantel	2	kaɣel	kant	Regular	C-initial		E-Class	-el
-3177	kantvil	4	zzvil	kant	Regular	C-initial	Passive	Passive	-il
+3177	kantvil	4	zzvil	kant	Regular	C-initial	Passive	Passive	-vil
 3178	kaʃel	2	kaɣel	kaʃ	Regular	C-initial		E-Class	-el
 3179	kaʃgrdel	2	kaɣel	kaʃgrd	Regular	C-initial		E-Class	-el
-3180	kaʃvil	4	zzvil	kaʃ	Regular	C-initial	Passive	Passive	-il
+3180	kaʃvil	4	zzvil	kaʃ	Regular	C-initial	Passive	Passive	-vil
 3181	kaʃkʃel	2	kaɣel	kaʃkʃ	Regular	C-initial		E-Class	-el
 3182	kat͡ʃalerel	2	kaɣel	kat͡ʃaler	Regular	C-initial		E-Class	-el
-3183	kat͡ʃalervil	4	zzvil	kat͡ʃaler	Regular	C-initial	Passive	Passive	-il
+3183	kat͡ʃalervil	4	zzvil	kat͡ʃaler	Regular	C-initial	Passive	Passive	-vil
 3184	karabadgel	2	kaɣel	karabadg	Regular	C-initial		E-Class	-el
 3185	kasknil	4	xosil	kaskn	Regular	C-initial	Basic	I-Class	-il
 3186	karanal	20	niharnal	kara	Regular	C-initial		Inchoative	-nal
 3187	karat͡snel	10	modet͡snel	kara	Regular	C-initial	Basic	Causative	-t͡snel
 3188	kargod͡zel	2	kaɣel	kargod͡z	Regular	C-initial		E-Class	-el
-3189	kargod͡zvil	4	zzvil	kargod͡z	Regular	C-initial	Passive	Passive	-il
+3189	kargod͡zvil	4	zzvil	kargod͡z	Regular	C-initial	Passive	Passive	-vil
 3190	karozel	2	kaɣel	karoz	Regular	C-initial		E-Class	-el
 3191	kat͡sxet͡snel	10	modet͡snel	kat͡sxe	Regular	C-initial	Basic	Causative	-t͡snel
 3192	kat͡sxil	4	xosil	kat͡sx	Regular	C-initial	Basic	I-Class	-il
@@ -3195,7 +3195,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3194	kerel	2	kaɣel	ker	Regular	C-initial		E-Class	-el
 3195	kertel	2	kaɣel	kert	Regular	C-initial		E-Class	-el
 3196	kerd͡zel	2	kaɣel	kerd͡z	Regular	C-initial		E-Class	-el
-3197	kervil	4	zzvil	ker	Regular	C-initial	Passive	Passive	-il
+3197	kervil	4	zzvil	ker	Regular	C-initial	Passive	Passive	-vil
 3198	kekrdal	6	gartal	kekrd	Regular	C-initial		A-Class	-al
 3199	kennal	20	niharnal	ken	Regular	C-initial		Inchoative	-nal
 3200	kttel	2	kaɣel	ktt	Regular	C-initial		E-Class	-el
@@ -3208,9 +3208,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3207	knnatadel	2	kaɣel	knnatad	Regular	C-initial		E-Class	-el
 3208	knnargel	2	kaɣel	knnarg	Regular	C-initial		E-Class	-el
 3209	knnel	2	kaɣel	knn	Regular	C-initial		E-Class	-el
-3210	knnvil	4	zzvil	knn	Regular	C-initial	Passive	Passive	-il
+3210	knnvil	4	zzvil	knn	Regular	C-initial	Passive	Passive	-vil
 3211	kʃel	2	kaɣel	kʃ	Regular	C-initial		E-Class	-el
-3212	kʃvil	4	zzvil	kʃ	Regular	C-initial	Passive	Passive	-il
+3212	kʃvil	4	zzvil	kʃ	Regular	C-initial	Passive	Passive	-vil
 3213	koɣazerd͡zel	2	kaɣel	koɣazerd͡z	Regular	C-initial		E-Class	-el
 3214	koɣargel	2	kaɣel	koɣarg	Regular	C-initial		E-Class	-el
 3215	korel	2	kaɣel	kor	Regular	C-initial		E-Class	-el
@@ -3218,7 +3218,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3217	kunel	2	kaɣel	kun	Regular	C-initial		E-Class	-el
 3218	kt͡ʃporel	2	kaɣel	kt͡ʃpor	Regular	C-initial		E-Class	-el
 3219	ksel	2	kaɣel	ks	Regular	C-initial		E-Class	-el
-3220	ksvil	4	zzvil	ks	Regular	C-initial	Passive	Passive	-il
+3220	ksvil	4	zzvil	ks	Regular	C-initial	Passive	Passive	-vil
 3221	ksdmnil	4	xosil	ksdmn	Regular	C-initial	Basic	I-Class	-il
 3222	krtmnt͡ʃel	2	kaɣel	krtmnt͡ʃ	Regular	C-initial		E-Class	-el
 3223	krisdoneanal	20	niharnal	krisdonea	Regular	C-initial		Inchoative	-nal
@@ -3232,19 +3232,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3231	oknel	1	erkel	okn	Regular	V-initial		E-Class	-el
 3232	okdakord͡zel	1	erkel	okdakord͡z	Regular	V-initial		E-Class	-el
 3233	okdel	1	erkel	okd	Regular	V-initial		E-Class	-el
-3234	okdvil	3	ad͡zilvil	okd	Regular	V-initial	Passive	Passive	-il
+3234	okdvil	3	ad͡zilvil	okd	Regular	V-initial	Passive	Passive	-vil
 3235	otəndelanal	19	amt͡ʃnal	otəndela	Regular	V-initial		Inchoative	-nal
 3236	otəndelat͡snel	9	ad͡ʒet͡snel	otəndela	Regular	V-initial	Basic	Causative	-t͡snel
 3237	otewanil	3	abril	otewan	Regular	V-initial	Basic	I-Class	-il
 3238	oʒantagel	1	erkel	oʒantag	Regular	V-initial		E-Class	-el
 3239	oʒdel	1	erkel	oʒd	Regular	V-initial		E-Class	-el
-3240	oʒdvil	3	ad͡zilvil	oʒd	Regular	V-initial	Passive	Passive	-il
+3240	oʒdvil	3	ad͡zilvil	oʒd	Regular	V-initial	Passive	Passive	-vil
 3241	od͡zanel	1	erkel	od͡zan	Regular	V-initial		E-Class	-el
 3242	od͡zel	1	erkel	od͡z	Regular	V-initial		E-Class	-el
-3243	od͡zvil	3	ad͡zilvil	od͡z	Regular	V-initial	Passive	Passive	-il
+3243	od͡zvil	3	ad͡zilvil	od͡z	Regular	V-initial	Passive	Passive	-vil
 3244	oɣagel	1	erkel	oɣag	Regular	V-initial		E-Class	-el
 3245	od͡ʒarel	1	erkel	od͡ʒar	Regular	V-initial		E-Class	-el
-3246	od͡ʒarvil	3	ad͡zilvil	od͡ʒar	Regular	V-initial	Passive	Passive	-il
+3246	od͡ʒarvil	3	ad͡zilvil	od͡ʒar	Regular	V-initial	Passive	Passive	-vil
 3247	oslajel	1	erkel	oslaj	Regular	V-initial		E-Class	-el
 3248	odaranal	19	amt͡ʃnal	odara	Regular	V-initial		Inchoative	-nal
 3249	odarat͡snel	9	ad͡ʒet͡snel	odara	Regular	V-initial	Basic	Causative	-t͡snel
@@ -3255,5 +3255,5 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3254	orhnel	1	erkel	orhn	Regular	V-initial		E-Class	-el
 3255	orhnerkel	1	erkel	orhnerk	Regular	V-initial		E-Class	-el
 3256	ororel	1	erkel	oror	Regular	V-initial		E-Class	-el
-3257	ororvil	3	ad͡zilvil	oror	Regular	V-initial	Passive	Passive	-il
+3257	ororvil	3	ad͡zilvil	oror	Regular	V-initial	Passive	Passive	-vil
 3258	fʃʃal	6	gartal	fʃʃ	Regular	C-initial		A-Class	-al

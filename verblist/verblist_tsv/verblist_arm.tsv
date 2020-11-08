@@ -10,7 +10,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 9	ախորժիլ	3	ապրիլ	ախորժ	Regular	V-initial	Basic	I-Class	-իլ
 10	ածել	1	երգել	ած	Regular	V-initial		E-Class	-ել
 11	ածիլել	1	երգել	ածիլ	Regular	V-initial		E-Class	-ել
-12	ածիլուիլ	3	ածիլուիլ	ածիլ	Regular	V-initial	Passive	Passive	-իլ
+12	ածիլուիլ	3	ածիլուիլ	ածիլ	Regular	V-initial	Passive	Passive	-ուիլ
 13	ածխանալ	19	ամչնալ	ածխա	Regular	V-initial		Inchoative	-նալ
 14	ակնածիլ	3	ապրիլ	ակնած	Regular	V-initial	Basic	I-Class	-իլ
 15	ակնարկել	1	երգել	ակնարկ	Regular	V-initial		E-Class	-ել
@@ -48,7 +48,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 47	ամրանալ	19	ամչնալ	ամրա	Regular	V-initial		Inchoative	-նալ
 48	ամրապնդել	1	երգել	ամրապնդ	Regular	V-initial		E-Class	-ել
 49	ամփոփել	1	երգել	ամփոփ	Regular	V-initial		E-Class	-ել
-50	ամփոփուիլ	3	ածիլուիլ	ամփոփ	Regular	V-initial	Passive	Passive	-իլ
+50	ամփոփուիլ	3	ածիլուիլ	ամփոփ	Regular	V-initial	Passive	Passive	-ուիլ
 51	այլայլիլ	3	ապրիլ	այլայլ	Regular	V-initial	Basic	I-Class	-իլ
 52	այլանդակել	1	երգել	այլանդակ	Regular	V-initial		E-Class	-ել
 53	այլասերիլ	3	ապրիլ	այլասեր	Regular	V-initial	Basic	I-Class	-իլ
@@ -79,7 +79,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 78	անուանել	1	երգել	անուան	Regular	V-initial		E-Class	-ել
 79	անպատուել	1	երգել	անպատու	Regular	V-initial		E-Class	-ել
 80	անջատել	1	երգել	անջատ	Regular	V-initial		E-Class	-ել
-81	անջատուիլ	3	ածիլուիլ	անջատ	Regular	V-initial	Passive	Passive	-իլ
+81	անջատուիլ	3	ածիլուիլ	անջատ	Regular	V-initial	Passive	Passive	-ուիլ
 82	անսալ	5	աղալ	անս	Regular	V-initial		A-Class	-ալ
 83	անտեսել	1	երգել	անտես	Regular	V-initial		E-Class	-ել
 84	անցընել	9	անցընել	ան	Regular	V-initial	Orthographic variant with schwa	Causative	-ցընել
@@ -94,7 +94,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 93	ապականել	1	երգել	ապական	Regular	V-initial		E-Class	-ել
 94	ապականիլ	3	ապրիլ	ապական	Regular	V-initial	Basic	I-Class	-իլ
 95	ապահովագրել	1	երգել	ապահովագր	Regular	V-initial		E-Class	-ել
-96	ապահովագրուիլ	3	ածիլուիլ	ապահովագր	Regular	V-initial	Passive	Passive	-իլ
+96	ապահովագրուիլ	3	ածիլուիլ	ապահովագր	Regular	V-initial	Passive	Passive	-ուիլ
 97	ապահովել	1	երգել	ապահով	Regular	V-initial		E-Class	-ել
 98	ապաշխարել	1	երգել	ապաշխար	Regular	V-initial		E-Class	-ել
 99	ապասերիլ	3	ապրիլ	ապասեր	Regular	V-initial	Basic	I-Class	-իլ
@@ -123,14 +123,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 122	առինքնել	1	երգել	առինքն	Regular	V-initial		E-Class	-ել
 123	առկախել	1	երգել	առկախ	Regular	V-initial		E-Class	-ել
 124	առնել	41	առնել	առ	Irregular	V-initial			-նել
-125	առնուիլ	3	ածիլուիլ	առն	Regular	V-initial	Passive	Passive	-իլ
+125	առնուիլ	3	ածիլուիլ	առն	Regular	V-initial	Passive	Passive	-ուիլ
 126	առողջանալ	19	ամչնալ	առողջա	Regular	V-initial		Inchoative	-նալ
 127	առողջացնել	9	աճեցնել	առողջա	Regular	V-initial	Basic	Causative	-ցնել
 128	ասեղագործել	1	երգել	ասեղագործ	Regular	V-initial		E-Class	-ել
 129	ասպատակել	1	երգել	ասպատակ	Regular	V-initial		E-Class	-ել
 130	աստիճանազրկել	1	երգել	աստիճանազր	Regular	V-initial		E-Class	-ել
 131	ատել	1	երգել	ատ	Regular	V-initial		E-Class	-ել
-132	ատուիլ	3	ածիլուիլ	ատ	Regular	V-initial	Passive	Passive	-իլ
+132	ատուիլ	3	ածիլուիլ	ատ	Regular	V-initial	Passive	Passive	-ուիլ
 133	արածել	1	երգել	արած	Regular	V-initial		E-Class	-ել
 134	արածիլ	3	ապրիլ	արած	Regular	V-initial	Basic	I-Class	-իլ
 135	արաջնորդել	1	երգել	արաջնորդ	Regular	V-initial		E-Class	-ել
@@ -139,7 +139,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 138	արբիլ	3	ապրիլ	արբ	Regular	V-initial	Basic	I-Class	-իլ
 139	արգահատիլ	3	ապրիլ	արգահատ	Regular	V-initial	Basic	I-Class	-իլ
 140	արգասաւորել	1	երգել	արգասաւոր	Regular	V-initial		E-Class	-ել
-141	արգասաւորուիլ	3	ածիլուիլ	արգասաւոր	Regular	V-initial	Passive	Passive	-իլ
+141	արգասաւորուիլ	3	ածիլուիլ	արգասաւոր	Regular	V-initial	Passive	Passive	-ուիլ
 142	արգելակել	1	երգել	արգելակ	Regular	V-initial		E-Class	-ել
 143	արգելափակել	1	երգել	արգելափակ	Regular	V-initial		E-Class	-ել
 144	արգիլել	1	երգել	արգիլ	Regular	V-initial		E-Class	-ել
@@ -193,19 +193,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 192	աւետել	1	երգել	աւետ	Regular	V-initial		E-Class	-ել
 193	աւերել	1	երգել	աւեր	Regular	V-initial		E-Class	-ել
 194	աւրել	1	երգել	աւր	Regular	V-initial		E-Class	-ել
-195	աւրուիլ	3	ածիլուիլ	աւր	Regular	V-initial	Passive	Passive	-իլ
+195	աւրուիլ	3	ածիլուիլ	աւր	Regular	V-initial	Passive	Passive	-ուիլ
 196	աքացել	1	երգել	աքաց	Regular	V-initial		E-Class	-ել
 197	աքսորել	1	երգել	աքսոր	Regular	V-initial		E-Class	-ել
-198	աքսորուիլ	3	ածիլուիլ	աքսոր	Regular	V-initial	Passive	Passive	-իլ
+198	աքսորուիլ	3	ածիլուիլ	աքսոր	Regular	V-initial	Passive	Passive	-ուիլ
 199	բաբախել	2	քաղել	բաբախ	Regular	C-initial		E-Class	-ել
 200	բազմանալ	20	նիհարնալ	բազմա	Regular	C-initial		Inchoative	-նալ
 201	բազմապատկել	2	քաղել	բազմապատկ	Regular	C-initial		E-Class	-ել
 202	բազմացնել	10	մօտեցնել	բազմա	Regular	C-initial	Basic	Causative	-ցնել
 203	բազմիլ	4	խօսիլ	բազմ	Regular	C-initial	Basic	I-Class	-իլ
 204	բաժանորդագրել	2	քաղել	բաժանորդագր	Regular	C-initial		E-Class	-ել
-205	բաժանորդագրուիլ	4	զզուիլ	բաժանորդագր	Regular	C-initial	Passive	Passive	-իլ
+205	բաժանորդագրուիլ	4	զզուիլ	բաժանորդագր	Regular	C-initial	Passive	Passive	-ուիլ
 206	բաժնել	2	քաղել	բաժն	Regular	C-initial		E-Class	-ել
-207	բաժնուիլ	4	զզուիլ	բաժն	Regular	C-initial	Passive	Passive	-իլ
+207	բաժնուիլ	4	զզուիլ	բաժն	Regular	C-initial	Passive	Passive	-ուիլ
 208	բախել	2	քաղել	բախ	Regular	C-initial		E-Class	-ել
 209	բախիլ	4	խօսիլ	բախ	Regular	C-initial	Basic	I-Class	-իլ
 210	բաղադրել	2	քաղել	բաղադր	Regular	C-initial		E-Class	-ել
@@ -255,7 +255,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 254	բացայայտել	2	քաղել	բացայայտ	Regular	C-initial		E-Class	-ել
 255	բացասել	2	քաղել	բացաս	Regular	C-initial		E-Class	-ել
 256	բացատրել	2	քաղել	բացատր	Regular	C-initial		E-Class	-ել
-257	բացուիլ	4	զզուիլ	բաց	Regular	C-initial	Passive	Passive	-իլ
+257	բացուիլ	4	զզուիլ	բաց	Regular	C-initial	Passive	Passive	-ուիլ
 258	բաւականանալ	20	նիհարնալ	բաւականա	Regular	C-initial		Inchoative	-նալ
 259	բաւարարել	2	քաղել	բաւարար	Regular	C-initial		E-Class	-ել
 260	բաւել	2	քաղել	բաւ	Regular	C-initial		E-Class	-ել
@@ -274,7 +274,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 273	բթանալ	20	նիհարնալ	բթա	Regular	C-initial		Inchoative	-նալ
 274	բթացնել	10	մօտեցնել	բթա	Regular	C-initial	Basic	Causative	-ցնել
 275	բժշկել	2	քաղել	բժշկ	Regular	C-initial		E-Class	-ել
-276	բժշկուիլ	4	զզուիլ	բժշկ	Regular	C-initial	Passive	Passive	-իլ
+276	բժշկուիլ	4	զզուիլ	բժշկ	Regular	C-initial	Passive	Passive	-ուիլ
 277	բիւրեղանալ	20	նիհարնալ	բիւրեղա	Regular	C-initial		Inchoative	-նալ
 278	բիւրեղացնել	10	մօտեցնել	բիւրեղա	Regular	C-initial	Basic	Causative	-ցնել
 279	բխեցնել	10	մօտեցնել	բխե	Regular	C-initial	Basic	Causative	-ցնել
@@ -293,7 +293,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 292	բորբոսիլ	4	խօսիլ	բորբոս	Regular	C-initial	Basic	I-Class	-իլ
 293	բորբոքել	2	քաղել	բորբոք	Regular	C-initial		E-Class	-ել
 294	բուժել	2	քաղել	բուժ	Regular	C-initial		E-Class	-ել
-295	բուժուիլ	4	զզուիլ	բուժ	Regular	C-initial	Passive	Passive	-իլ
+295	բուժուիլ	4	զզուիլ	բուժ	Regular	C-initial	Passive	Passive	-ուիլ
 296	բուսնիլ	14	մեռնիլ	բուս	Irregular	C-initial			-նիլ
 297	բուսցնել	10	մօտեցնել	բուս	Regular	C-initial	Basic	Causative	-ցնել
 298	բուրել	2	քաղել	բուր	Regular	C-initial		E-Class	-ել
@@ -305,7 +305,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 304	բռնել	2	քաղել	բռն	Regular	C-initial		E-Class	-ել
 305	բռնկեցնել	10	մօտեցնել	բռնկե	Regular	C-initial	Basic	Causative	-ցնել
 306	բռնկիլ	4	խօսիլ	բռնկ	Regular	C-initial	Basic	I-Class	-իլ
-307	բռնուիլ	4	զզուիլ	բռն	Regular	C-initial	Passive	Passive	-իլ
+307	բռնուիլ	4	զզուիլ	բռն	Regular	C-initial	Passive	Passive	-ուիլ
 308	բռնցքահարել	2	քաղել	բռնցքահար	Regular	C-initial		E-Class	-ել
 309	բրդել	2	քաղել	բրդ	Regular	C-initial		E-Class	-ել
 310	բրել	2	քաղել	բր	Regular	C-initial		E-Class	-ել
@@ -323,7 +323,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 322	գաղջացնել	10	մօտեցնել	գաղջա	Regular	C-initial	Basic	Causative	-ցնել
 323	գաճել	2	քաղել	գաճ	Regular	C-initial		E-Class	-ել
 324	գամել	2	քաղել	գամ	Regular	C-initial		E-Class	-ել
-325	գամուիլ	4	զզուիլ	գամ	Regular	C-initial	Passive	Passive	-իլ
+325	գամուիլ	4	զզուիլ	գամ	Regular	C-initial	Passive	Passive	-ուիլ
 326	գայթակղել	2	քաղել	գայթակղ	Regular	C-initial		E-Class	-ել
 327	գայթակղեցնել	10	մօտեցնել	գայթակղե	Regular	C-initial	Basic	Causative	-ցնել
 328	գայթակղիլ	4	խօսիլ	գայթակղ	Regular	C-initial	Basic	I-Class	-իլ
@@ -352,7 +352,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 351	գզգզել	2	քաղել	գզգզ	Regular	C-initial		E-Class	-ել
 352	գզել	2	քաղել	գզ	Regular	C-initial		E-Class	-ել
 353	գթալ	6	կարդալ	գթ	Regular	C-initial		A-Class	-ալ
-354	գժտուիլ	4	զզուիլ	գժտ	Regular	C-initial	Passive	Passive	-իլ
+354	գժտուիլ	4	զզուիլ	գժտ	Regular	C-initial	Passive	Passive	-ուիլ
 355	գինովնալ	20	նիհարնալ	գինով	Regular	C-initial		Inchoative	-նալ
 356	գինովցնել	10	մօտեցնել	գինով	Regular	C-initial	Basic	Causative	-ցնել
 357	գիշատել	2	քաղել	գիշատ	Regular	C-initial		E-Class	-ել
@@ -361,14 +361,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 360	գիտակցիլ	4	խօսիլ	գիտակց	Regular	C-initial	Basic	I-Class	-իլ
 361	գիտեմ	30	գիտեմ	գիտ	Defective	C-initial			-եմ
 362	գիտնալ	20	նիհարնալ	գիտ	Regular	C-initial		Inchoative	-նալ
-363	գիրկընդխառնուիլ	4	զզուիլ	գիրկընդխառն	Regular	C-initial	Passive	Passive	-իլ
+363	գիրկընդխառնուիլ	4	զզուիլ	գիրկընդխառն	Regular	C-initial	Passive	Passive	-ուիլ
 364	գիրնալ	20	նիհարնալ	գիր	Regular	C-initial		Inchoative	-նալ
 365	գլգլալ	6	կարդալ	գլգլ	Regular	C-initial		A-Class	-ալ
 366	գլել	2	քաղել	գլ	Regular	C-initial		E-Class	-ել
 367	գլխատել	2	քաղել	գլխատ	Regular	C-initial		E-Class	-ել
 368	գլխաւորել	2	քաղել	գլխաւոր	Regular	C-initial		E-Class	-ել
 369	գլորել	2	քաղել	գլոր	Regular	C-initial		E-Class	-ել
-370	գլորուիլ	4	զզուիլ	գլոր	Regular	C-initial	Passive	Passive	-իլ
+370	գլորուիլ	4	զզուիլ	գլոր	Regular	C-initial	Passive	Passive	-ուիլ
 371	գլտորել	2	քաղել	գլտոր	Regular	C-initial		E-Class	-ել
 372	գծագրել	2	քաղել	գծագր	Regular	C-initial		E-Class	-ել
 373	գծել	2	քաղել	գծ	Regular	C-initial		E-Class	-ել
@@ -396,7 +396,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 395	գործակցիլ	4	խօսիլ	գործակց	Regular	C-initial	Basic	I-Class	-իլ
 396	գործել	2	քաղել	գործ	Regular	C-initial		E-Class	-ել
 397	գոցել	2	քաղել	գոց	Regular	C-initial		E-Class	-ել
-398	գոցուիլ	4	զզուիլ	գոց	Regular	C-initial	Passive	Passive	-իլ
+398	գոցուիլ	4	զզուիլ	գոց	Regular	C-initial	Passive	Passive	-ուիլ
 399	գուժել	2	քաղել	գուժ	Regular	C-initial		E-Class	-ել
 400	գումարել	2	քաղել	գումար	Regular	C-initial		E-Class	-ել
 401	գունատիլ	4	խօսիլ	գունատ	Regular	C-initial	Basic	I-Class	-իլ
@@ -405,14 +405,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 404	գռգռալ	6	կարդալ	գռգռ	Regular	C-initial		A-Class	-ալ
 405	գտնալ	24	գտնալ	գտ	Irregular	C-initial	Theme -a-		-նալ
 406	գտնել	24	գտնել	գտ	Irregular	C-initial	Theme -e-		-նել
-407	գտնուիլ	4	զզուիլ	գտն	Regular	C-initial	Passive	Passive	-իլ
+407	գտնուիլ	4	զզուիլ	գտն	Regular	C-initial	Passive	Passive	-ուիլ
 408	գրանցել	2	քաղել	գրանց	Regular	C-initial		E-Class	-ել
 409	գրաւագրել	2	քաղել	գրաւագր	Regular	C-initial		E-Class	-ել
 410	գրաւել	2	քաղել	գրաւ	Regular	C-initial		E-Class	-ել
 411	գրաքննել	2	քաղել	գրաքնն	Regular	C-initial		E-Class	-ել
 412	գրգռել	2	քաղել	գրգռ	Regular	C-initial		E-Class	-ել
 413	գրել	2	քաղել	գր	Regular	C-initial		E-Class	-ել
-414	գրկախառնուիլ	4	զզուիլ	գրկախառն	Regular	C-initial	Passive	Passive	-իլ
+414	գրկախառնուիլ	4	զզուիլ	գրկախառն	Regular	C-initial	Passive	Passive	-ուիլ
 415	գրկել	2	քաղել	գրկ	Regular	C-initial		E-Class	-ել
 416	գրոհել	2	քաղել	գրոհ	Regular	C-initial		E-Class	-ել
 417	գրպանել	2	քաղել	գրպան	Regular	C-initial		E-Class	-ել
@@ -421,7 +421,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 420	գօտեմարտիլ	4	խօսիլ	գօտեմարտ	Regular	C-initial	Basic	I-Class	-իլ
 421	գօտեպնդել	2	քաղել	գօտեպնդ	Regular	C-initial		E-Class	-ել
 422	գօտեւորել	2	քաղել	գօտեւոր	Regular	C-initial		E-Class	-ել
-423	գօտեւորուիլ	4	զզուիլ	գօտեւոր	Regular	C-initial	Passive	Passive	-իլ
+423	գօտեւորուիլ	4	զզուիլ	գօտեւոր	Regular	C-initial	Passive	Passive	-ուիլ
 424	դադրեցնել	10	մօտեցնել	դադրե	Regular	C-initial	Basic	Causative	-ցնել
 425	դադրիլ	4	խօսիլ	դադր	Regular	C-initial	Basic	I-Class	-իլ
 426	դակել	2	քաղել	դակ	Regular	C-initial		E-Class	-ել
@@ -442,7 +442,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 441	դասել	2	քաղել	դաս	Regular	C-initial		E-Class	-ել
 442	դաստիարակել	2	քաղել	դաստիարակ	Regular	C-initial		E-Class	-ել
 443	դատապարտել	2	քաղել	դատապարտ	Regular	C-initial		E-Class	-ել
-444	դատապարտուիլ	4	զզուիլ	դատապարտ	Regular	C-initial	Passive	Passive	-իլ
+444	դատապարտուիլ	4	զզուիլ	դատապարտ	Regular	C-initial	Passive	Passive	-ուիլ
 445	դատարկել	2	քաղել	դատարկ	Regular	C-initial		E-Class	-ել
 446	դատափետել	2	քաղել	դատափետ	Regular	C-initial		E-Class	-ել
 447	դատել	2	քաղել	դատ	Regular	C-initial		E-Class	-ել
@@ -450,7 +450,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 449	դարբնել	2	քաղել	դարբն	Regular	C-initial		E-Class	-ել
 450	դարձնել	10	դարձնել	դար	Regular	C-initial	Orthographic variant with affricate	Causative	-ձնել
 451	դարմանել	2	քաղել	դարման	Regular	C-initial		E-Class	-ել
-452	դարմանուիլ	4	զզուիլ	դարման	Regular	C-initial	Passive	Passive	-իլ
+452	դարմանուիլ	4	զզուիլ	դարման	Regular	C-initial	Passive	Passive	-ուիլ
 453	դարովել	2	քաղել	դարով	Regular	C-initial		E-Class	-ել
 454	դաւադրել	2	քաղել	դաւադր	Regular	C-initial		E-Class	-ել
 455	դաւաճանել	2	քաղել	դաւաճան	Regular	C-initial		E-Class	-ել
@@ -458,7 +458,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 457	դաւել	2	քաղել	դաւ	Regular	C-initial		E-Class	-ել
 458	դափել	2	քաղել	դափ	Regular	C-initial		E-Class	-ել
 459	դեգերիլ	4	խօսիլ	դեգեր	Regular	C-initial	Basic	I-Class	-իլ
-460	դեդեւիլ	4	զզուիլ	դեդ	Regular	C-initial	Passive	Passive	-իլ
+460	դեդեւիլ	4	զզուիլ	դեդ	Regular	C-initial	Passive	Passive	-ուիլ
 461	դեղել	2	քաղել	դեղ	Regular	C-initial		E-Class	-ել
 462	դեղնիլ	4	խօսիլ	դեղն	Regular	C-initial	Basic	I-Class	-իլ
 463	դժբախտանալ	20	նիհարնալ	դժբախտա	Regular	C-initial		Inchoative	-նալ
@@ -471,7 +471,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 470	դիել	2	քաղել	դի	Regular	C-initial		E-Class	-ել
 471	դիեցնել	10	մօտեցնել	դիե	Regular	C-initial	Basic	Causative	-ցնել
 472	դիզել	2	քաղել	դիզ	Regular	C-initial		E-Class	-ել
-473	դիզուիլ	4	զզուիլ	դիզ	Regular	C-initial	Passive	Passive	-իլ
+473	դիզուիլ	4	զզուիլ	դիզ	Regular	C-initial	Passive	Passive	-ուիլ
 474	դիմագրաւել	2	քաղել	դիմագրաւ	Regular	C-initial		E-Class	-ել
 475	դիմադարձել	2	քաղել	դիմադարձ	Regular	C-initial		E-Class	-ել
 476	դիմադրել	2	քաղել	դիմադր	Regular	C-initial		E-Class	-ել
@@ -480,7 +480,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 479	դիմաւորել	2	քաղել	դիմաւոր	Regular	C-initial		E-Class	-ել
 480	դիմել	2	քաղել	դիմ	Regular	C-initial		E-Class	-ել
 481	դիտել	2	քաղել	դիտ	Regular	C-initial		E-Class	-ել
-482	դիրքաւորուիլ	4	զզուիլ	դիրքաւոր	Regular	C-initial	Passive	Passive	-իլ
+482	դիրքաւորուիլ	4	զզուիլ	դիրքաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 483	դիւահարիլ	4	խօսիլ	դիւահար	Regular	C-initial	Basic	I-Class	-իլ
 484	դիւթել	2	քաղել	դիւթ	Regular	C-initial		E-Class	-ել
 485	դիւրանալ	20	նիհարնալ	դիւրա	Regular	C-initial		Inchoative	-նալ
@@ -498,9 +498,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 497	դպչիլ	26	դպչիլ	դպ	Irregular	C-initial			-չիլ
 498	դպցնել	10	մօտեցնել	դպ	Regular	C-initial	Basic	Causative	-ցնել
 499	դրդել	2	քաղել	դրդ	Regular	C-initial		E-Class	-ել
-500	դրդուիլ	4	զզուիլ	դրդ	Regular	C-initial	Passive	Passive	-իլ
+500	դրդուիլ	4	զզուիլ	դրդ	Regular	C-initial	Passive	Passive	-ուիլ
 501	դրժել	2	քաղել	դրժ	Regular	C-initial		E-Class	-ել
-502	դրժուիլ	4	զզուիլ	դրժ	Regular	C-initial	Passive	Passive	-իլ
+502	դրժուիլ	4	զզուիլ	դրժ	Regular	C-initial	Passive	Passive	-ուիլ
 503	դրոշմել	2	քաղել	դրոշմ	Regular	C-initial		E-Class	-ել
 504	դրուատել	2	քաղել	դրուատ	Regular	C-initial		E-Class	-ել
 505	դրսեւորել	2	քաղել	դրսեւոր	Regular	C-initial		E-Class	-ել
@@ -555,7 +555,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 554	երկրորդել	1	երգել	երկրորդ	Regular	V-initial		E-Class	-ել
 555	երկրպագել	1	երգել	երկրպագ	Regular	V-initial		E-Class	-ել
 556	երկփեղկել	1	երգել	երկփեղկ	Regular	V-initial		E-Class	-ել
-557	երկփեղկուիլ	3	ածիլուիլ	երկփեղկ	Regular	V-initial	Passive	Passive	-իլ
+557	երկփեղկուիլ	3	ածիլուիլ	երկփեղկ	Regular	V-initial	Passive	Passive	-ուիլ
 558	երնել	1	երգել	երն	Regular	V-initial		E-Class	-ել
 559	երջանկանալ	19	ամչնալ	երջանկա	Regular	V-initial		Inchoative	-նալ
 560	երջանկացնել	9	աճեցնել	երջանկա	Regular	V-initial	Basic	Causative	-ցնել
@@ -569,7 +569,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 568	զայրանալ	20	նիհարնալ	զայրա	Regular	C-initial		Inchoative	-նալ
 569	զայրացնել	10	մօտեցնել	զայրա	Regular	C-initial	Basic	Causative	-ցնել
 570	զանազանել	2	քաղել	զանազան	Regular	C-initial		E-Class	-ել
-571	զանազանուիլ	4	զզուիլ	զանազան	Regular	C-initial	Passive	Passive	-իլ
+571	զանազանուիլ	4	զզուիլ	զանազան	Regular	C-initial	Passive	Passive	-ուիլ
 572	զանգահարել	2	քաղել	զանգահար	Regular	C-initial		E-Class	-ել
 573	զանգել	2	քաղել	զանգ	Regular	C-initial		E-Class	-ել
 574	զառածել	2	քաղել	զառած	Regular	C-initial		E-Class	-ել
@@ -577,19 +577,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 576	զառամիլ	4	խօսիլ	զառամ	Regular	C-initial	Basic	I-Class	-իլ
 577	զառանցել	2	քաղել	զառանց	Regular	C-initial		E-Class	-ել
 578	զատել	2	քաղել	զատ	Regular	C-initial		E-Class	-ել
-579	զատուիլ	4	զզուիլ	զատ	Regular	C-initial	Passive	Passive	-իլ
+579	զատուիլ	4	զզուիլ	զատ	Regular	C-initial	Passive	Passive	-ուիլ
 580	զարգանալ	20	նիհարնալ	զարգա	Regular	C-initial		Inchoative	-նալ
 581	զարգացնել	10	մօտեցնել	զարգա	Regular	C-initial	Basic	Causative	-ցնել
 582	զարդանկարել	2	քաղել	զարդանկար	Regular	C-initial		E-Class	-ել
 583	զարդարել	2	քաղել	զարդար	Regular	C-initial		E-Class	-ել
-584	զարդարուիլ	4	զզուիլ	զարդար	Regular	C-initial	Passive	Passive	-իլ
+584	զարդարուիլ	4	զզուիլ	զարդար	Regular	C-initial	Passive	Passive	-ուիլ
 585	զարթնիլ	4	խօսիլ	զարթն	Regular	C-initial	Basic	I-Class	-իլ
 586	զարթնուլ	22	զբօսնուլ	զարթ	Archaic	C-initial			-նուլ
 587	զարհուրիլ	4	խօսիլ	զարհուր	Regular	C-initial	Basic	I-Class	-իլ
 588	զարմանալ	20	նիհարնալ	զարմա	Regular	C-initial		Inchoative	-նալ
 589	զարմացնել	10	մօտեցնել	զարմա	Regular	C-initial	Basic	Causative	-ցնել
 590	զարնել	46	զարնել	զարն	Suppletive	C-initial			-ել
-591	զարնուիլ	4	զզուիլ	զարն	Regular	C-initial	Passive	Passive	-իլ
+591	զարնուիլ	4	զզուիլ	զարն	Regular	C-initial	Passive	Passive	-ուիլ
 592	զարտուղիլ	4	խօսիլ	զարտուղ	Regular	C-initial	Basic	I-Class	-իլ
 593	զբաղեցնել	10	մօտեցնել	զբաղե	Regular	C-initial	Basic	Causative	-ցնել
 594	զբաղիլ	4	խօսիլ	զբաղ	Regular	C-initial	Basic	I-Class	-իլ
@@ -597,7 +597,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 596	զբօսնուլ	22	զբօսնուլ	զբօս	Archaic	C-initial			-նուլ
 597	զգալ	6	կարդալ	զգ	Regular	C-initial		A-Class	-ալ
 598	զգածնուլ	22	զբօսնուլ	զգած	Archaic	C-initial			-նուլ
-599	զգածուիլ	4	զզուիլ	զգած	Regular	C-initial	Passive	Passive	-իլ
+599	զգածուիլ	4	զզուիլ	զգած	Regular	C-initial	Passive	Passive	-ուիլ
 600	զգայռել	2	քաղել	զգայռ	Regular	C-initial		E-Class	-ել
 601	զգաստանալ	20	նիհարնալ	զգաստա	Regular	C-initial		Inchoative	-նալ
 602	զգաստացնել	10	մօտեցնել	զգաստա	Regular	C-initial	Basic	Causative	-ցնել
@@ -605,7 +605,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 604	զգեծնուլ	22	զբօսնուլ	զգեծ	Archaic	C-initial			-նուլ
 605	զգենուլ	22	զբօսնուլ	զգե	Archaic	C-initial			-նուլ
 606	զգեստաւորել	2	քաղել	զգեստաւոր	Regular	C-initial		E-Class	-ել
-607	զգեստաւորուիլ	4	զզուիլ	զգեստաւոր	Regular	C-initial	Passive	Passive	-իլ
+607	զգեստաւորուիլ	4	զզուիլ	զգեստաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 608	զգետնել	2	քաղել	զգետն	Regular	C-initial		E-Class	-ել
 609	զգլխել	2	քաղել	զգլխ	Regular	C-initial		E-Class	-ել
 610	զգուշանալ	20	նիհարնալ	զգուշա	Regular	C-initial		Inchoative	-նալ
@@ -622,13 +622,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 621	զերծանիլ	4	խօսիլ	զերծան	Regular	C-initial	Basic	I-Class	-իլ
 622	զերծել	2	քաղել	զերծ	Regular	C-initial		E-Class	-ել
 623	զզուեցնել	10	մօտեցնել	զզուե	Regular	C-initial	Basic	Causative	-ցնել
-624	զզուիլ	4	զզուիլ	զզ	Regular	C-initial	Passive	Passive	-իլ
+624	զզուիլ	4	զզուիլ	զզ	Regular	C-initial	Passive	Passive	-ուիլ
 625	զինաթափել	2	քաղել	զինաթափ	Regular	C-initial		E-Class	-ել
 626	զինակցիլ	4	խօսիլ	զինակց	Regular	C-initial	Basic	I-Class	-իլ
 627	զինել	2	քաղել	զին	Regular	C-initial		E-Class	-ել
-628	զինուիլ	4	զզուիլ	զին	Regular	C-initial	Passive	Passive	-իլ
+628	զինուիլ	4	զզուիլ	զին	Regular	C-initial	Passive	Passive	-ուիլ
 629	զինուորագրել	2	քաղել	զինուորագր	Regular	C-initial		E-Class	-ել
-630	զինուորագրուիլ	4	զզուիլ	զինուորագր	Regular	C-initial	Passive	Passive	-իլ
+630	զինուորագրուիլ	4	զզուիլ	զինուորագր	Regular	C-initial	Passive	Passive	-ուիլ
 631	զիջանիլ	4	խօսիլ	զիջան	Regular	C-initial	Basic	I-Class	-իլ
 632	զիջիլ	47	զիջիլ	զիջ	Irregular	C-initial			-իլ
 633	զլանալ	20	նիհարնալ	զլա	Regular	C-initial		Inchoative	-նալ
@@ -640,7 +640,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 639	զննել	2	քաղել	զնն	Regular	C-initial		E-Class	-ել
 640	զոհաբերել	38	բերել	զոհաբեր	Irregular	C-initial			-ել
 641	զոհել	2	քաղել	զոհ	Regular	C-initial		E-Class	-ել
-642	զոհուիլ	4	զզուիլ	զոհ	Regular	C-initial	Passive	Passive	-իլ
+642	զոհուիլ	4	զզուիլ	զոհ	Regular	C-initial	Passive	Passive	-ուիլ
 643	զովանալ	20	նիհարնալ	զովա	Regular	C-initial		Inchoative	-նալ
 644	զովացնել	10	մօտեցնել	զովա	Regular	C-initial	Basic	Causative	-ցնել
 645	զուարթանալ	20	նիհարնալ	զուարթա	Regular	C-initial		Inchoative	-նալ
@@ -653,7 +653,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 652	զուգակցել	2	քաղել	զուգակց	Regular	C-initial		E-Class	-ել
 653	զուգակցիլ	4	խօսիլ	զուգակց	Regular	C-initial	Basic	I-Class	-իլ
 654	զուգաւորել	2	քաղել	զուգաւոր	Regular	C-initial		E-Class	-ել
-655	զուգաւորուիլ	4	զզուիլ	զուգաւոր	Regular	C-initial	Passive	Passive	-իլ
+655	զուգաւորուիլ	4	զզուիլ	զուգաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 656	զուգել	2	քաղել	զուգ	Regular	C-initial		E-Class	-ել
 657	զուգորդել	2	քաղել	զուգորդ	Regular	C-initial		E-Class	-ել
 658	զսպել	2	քաղել	զսպ	Regular	C-initial		E-Class	-ել
@@ -663,7 +663,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 662	զրահել	2	քաղել	զրահ	Regular	C-initial		E-Class	-ել
 663	զրաւել	2	քաղել	զրաւ	Regular	C-initial		E-Class	-ել
 664	զրկել	2	քաղել	զրկ	Regular	C-initial		E-Class	-ել
-665	զրկուիլ	4	զզուիլ	զրկ	Regular	C-initial	Passive	Passive	-իլ
+665	զրկուիլ	4	զզուիլ	զրկ	Regular	C-initial	Passive	Passive	-ուիլ
 666	զրուցատրել	2	քաղել	զրուցատր	Regular	C-initial		E-Class	-ել
 667	զրուցել	2	քաղել	զրուց	Regular	C-initial		E-Class	-ել
 668	զրպարտել	2	քաղել	զրպարտ	Regular	C-initial		E-Class	-ել
@@ -685,24 +685,24 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 684	ըմպել	1	երգել	ըմպ	Regular	V-initial		E-Class	-ել
 685	ընդառաջել	1	երգել	ընդառաջ	Regular	V-initial		E-Class	-ել
 686	ընդարձակել	1	երգել	ընդարձակ	Regular	V-initial		E-Class	-ել
-687	ընդարձակուիլ	3	ածիլուիլ	ընդարձակ	Regular	V-initial	Passive	Passive	-իլ
+687	ընդարձակուիլ	3	ածիլուիլ	ընդարձակ	Regular	V-initial	Passive	Passive	-ուիլ
 688	ընդարմացնել	9	աճեցնել	ընդարմա	Regular	V-initial	Basic	Causative	-ցնել
 689	ընդգծել	1	երգել	ընդգծ	Regular	V-initial		E-Class	-ել
 690	ընդգրկել	1	երգել	ընդգրկ	Regular	V-initial		E-Class	-ել
 691	ընդդիմաբանել	1	երգել	ընդդիմաբան	Regular	V-initial		E-Class	-ել
 692	ընդդիմախօսել	1	երգել	ընդդիմախօս	Regular	V-initial		E-Class	-ել
 693	ընդելուզել	1	երգել	ընդելուզ	Regular	V-initial		E-Class	-ել
-694	ընդելուզուիլ	3	ածիլուիլ	ընդելուզ	Regular	V-initial	Passive	Passive	-իլ
+694	ընդելուզուիլ	3	ածիլուիլ	ընդելուզ	Regular	V-initial	Passive	Passive	-ուիլ
 695	ընդլայնել	1	երգել	ընդլայն	Regular	V-initial		E-Class	-ել
 696	ընդհանրանալ	19	ամչնալ	ընդհանրա	Regular	V-initial		Inchoative	-նալ
 697	ընդհանրացնել	9	աճեցնել	ընդհանրա	Regular	V-initial	Basic	Causative	-ցնել
 698	ընդհատել	1	երգել	ընդհատ	Regular	V-initial		E-Class	-ել
-699	ընդհատուիլ	3	ածիլուիլ	ընդհատ	Regular	V-initial	Passive	Passive	-իլ
+699	ընդհատուիլ	3	ածիլուիլ	ընդհատ	Regular	V-initial	Passive	Passive	-ուիլ
 700	ընդհարիլ	3	ապրիլ	ընդհար	Regular	V-initial	Basic	I-Class	-իլ
 701	ընդմիջել	1	երգել	ընդմիջ	Regular	V-initial		E-Class	-ել
 702	ընդոտնել	1	երգել	ընդոտն	Regular	V-initial		E-Class	-ել
 703	ընդունիլ	48	ընդունիլ	ընդուն	Irregular	V-initial			-իլ
-704	ընդունուիլ	3	ածիլուիլ	ընդուն	Regular	V-initial	Passive	Passive	-իլ
+704	ընդունուիլ	3	ածիլուիլ	ընդուն	Regular	V-initial	Passive	Passive	-ուիլ
 705	ընդվզիլ	3	ապրիլ	ընդվզ	Regular	V-initial	Basic	I-Class	-իլ
 706	ընդօրինակել	1	երգել	ընդօրինակ	Regular	V-initial		E-Class	-ել
 707	ընել	49	ընել	ըն	Suppletive	V-initial			-ել
@@ -712,14 +712,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 711	ընթերցել	1	երգել	ընթերց	Regular	V-initial		E-Class	-ել
 712	ընթրել	1	երգել	ընթր	Regular	V-initial		E-Class	-ել
 713	ընծայել	1	երգել	ընծայ	Regular	V-initial		E-Class	-ել
-714	ընծայուիլ	3	ածիլուիլ	ընծայ	Regular	V-initial	Passive	Passive	-իլ
+714	ընծայուիլ	3	ածիլուիլ	ընծայ	Regular	V-initial	Passive	Passive	-ուիլ
 715	ընկերակցիլ	3	ապրիլ	ընկերակց	Regular	V-initial	Basic	I-Class	-իլ
 716	ընկերանալ	19	ամչնալ	ընկերա	Regular	V-initial		Inchoative	-նալ
 717	ընկլուզել	1	երգել	ընկլուզ	Regular	V-initial		E-Class	-ել
 718	ընկղմել	1	երգել	ընկղմ	Regular	V-initial		E-Class	-ել
 719	ընկղմիլ	3	ապրիլ	ընկղմ	Regular	V-initial	Basic	I-Class	-իլ
 720	ընկճել	1	երգել	ընկճ	Regular	V-initial		E-Class	-ել
-721	ընկճուիլ	3	ածիլուիլ	ընկճ	Regular	V-initial	Passive	Passive	-իլ
+721	ընկճուիլ	3	ածիլուիլ	ընկճ	Regular	V-initial	Passive	Passive	-ուիլ
 722	ընկողմանիլ	3	ապրիլ	ընկողման	Regular	V-initial	Basic	I-Class	-իլ
 723	ընկրկիլ	3	ապրիլ	ընկրկ	Regular	V-initial	Basic	I-Class	-իլ
 724	ընձեռել	1	երգել	ընձեռ	Regular	V-initial		E-Class	-ել
@@ -736,7 +736,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 735	թաթախել	2	քաղել	թաթախ	Regular	C-initial		E-Class	-ել
 736	թաթաւել	2	քաղել	թաթաւ	Regular	C-initial		E-Class	-ել
 737	թաթխել	2	քաղել	թաթխ	Regular	C-initial		E-Class	-ել
-738	թաթխուիլ	4	զզուիլ	թաթխ	Regular	C-initial	Passive	Passive	-իլ
+738	թաթխուիլ	4	զզուիլ	թաթխ	Regular	C-initial	Passive	Passive	-ուիլ
 739	թալանել	2	քաղել	թալան	Regular	C-initial		E-Class	-ել
 740	թալլել	2	քաղել	թալլ	Regular	C-initial		E-Class	-ել
 741	թալկանալ	20	նիհարնալ	թալկա	Regular	C-initial		Inchoative	-նալ
@@ -745,7 +745,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 744	թակարդել	2	քաղել	թակարդ	Regular	C-initial		E-Class	-ել
 745	թակել	2	քաղել	թակ	Regular	C-initial		E-Class	-ել
 746	թաղել	2	քաղել	թաղ	Regular	C-initial		E-Class	-ել
-747	թաղուիլ	4	զզուիլ	թաղ	Regular	C-initial	Passive	Passive	-իլ
+747	թաղուիլ	4	զզուիլ	թաղ	Regular	C-initial	Passive	Passive	-ուիլ
 748	թամբել	2	քաղել	թամբ	Regular	C-initial		E-Class	-ել
 749	թանալ	20	նիհարնալ	թա	Regular	C-initial		Inchoative	-նալ
 750	թանձրանալ	20	նիհարնալ	թանձրա	Regular	C-initial		Inchoative	-նալ
@@ -786,7 +786,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 785	թեքիլ	4	խօսիլ	թեք	Regular	C-initial	Basic	I-Class	-իլ
 786	թզկալ	6	կարդալ	թզկ	Regular	C-initial		A-Class	-ալ
 787	թթուեցնել	10	մօտեցնել	թթուե	Regular	C-initial	Basic	Causative	-ցնել
-788	թթուիլ	4	զզուիլ	թթ	Regular	C-initial	Passive	Passive	-իլ
+788	թթուիլ	4	զզուիլ	թթ	Regular	C-initial	Passive	Passive	-ուիլ
 789	թիավարել	2	քաղել	թիավար	Regular	C-initial		E-Class	-ել
 790	թիկնիլ	4	խօսիլ	թիկն	Regular	C-initial	Basic	I-Class	-իլ
 791	թլփատել	2	քաղել	թլփատ	Regular	C-initial		E-Class	-ել
@@ -813,10 +813,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 812	թուագրել	2	քաղել	թուագր	Regular	C-initial		E-Class	-ել
 813	թուարկել	2	քաղել	թուարկ	Regular	C-initial		E-Class	-ել
 814	թուել	2	քաղել	թու	Regular	C-initial		E-Class	-ել
-815	թուիլ	4	զզուիլ	թ	Regular	C-initial	Passive	Passive	-իլ
+815	թուիլ	4	զզուիլ	թ	Regular	C-initial	Passive	Passive	-ուիլ
 816	թուլնալ	20	նիհարնալ	թուլ	Regular	C-initial		Inchoative	-նալ
 817	թունաւորել	2	քաղել	թունաւոր	Regular	C-initial		E-Class	-ել
-818	թունաւորուիլ	4	զզուիլ	թունաւոր	Regular	C-initial	Passive	Passive	-իլ
+818	թունաւորուիլ	4	զզուիլ	թունաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 819	թռիլ	44	դպիլ	թռ	Irregular	C-initial			-իլ
 820	թռչիլ	26	դպչիլ	թռ	Irregular	C-initial			-չիլ
 821	թռչկոտել	2	քաղել	թռչկոտ	Regular	C-initial		E-Class	-ել
@@ -825,10 +825,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 824	թրատել	2	քաղել	թրատ	Regular	C-initial		E-Class	-ել
 825	թրթռալ	6	կարդալ	թրթռ	Regular	C-initial		A-Class	-ալ
 826	թրծել	2	քաղել	թրծ	Regular	C-initial		E-Class	-ել
-827	թրծուիլ	4	զզուիլ	թրծ	Regular	C-initial	Passive	Passive	-իլ
+827	թրծուիլ	4	զզուիլ	թրծ	Regular	C-initial	Passive	Passive	-ուիլ
 828	թրմել	2	քաղել	թրմ	Regular	C-initial		E-Class	-ել
 829	թրջել	2	քաղել	թրջ	Regular	C-initial		E-Class	-ել
-830	թրջուիլ	4	զզուիլ	թրջ	Regular	C-initial	Passive	Passive	-իլ
+830	թրջուիլ	4	զզուիլ	թրջ	Regular	C-initial	Passive	Passive	-ուիլ
 831	թփռտալ	6	կարդալ	թփռտ	Regular	C-initial		A-Class	-ալ
 832	թքել	2	քաղել	թք	Regular	C-initial		E-Class	-ել
 833	թքնել	51	թքնել	թք	Suppletive	C-initial			-նել
@@ -838,7 +838,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 837	ժահահոտել	2	քաղել	ժահահոտ	Regular	C-initial		E-Class	-ել
 838	ժահահոտիլ	4	խօսիլ	ժահահոտ	Regular	C-initial	Basic	I-Class	-իլ
 839	ժամադրել	2	քաղել	ժամադր	Regular	C-initial		E-Class	-ել
-840	ժամադրուիլ	4	զզուիլ	ժամադր	Regular	C-initial	Passive	Passive	-իլ
+840	ժամադրուիլ	4	զզուիլ	ժամադր	Regular	C-initial	Passive	Passive	-ուիլ
 841	ժամանել	2	քաղել	ժաման	Regular	C-initial		E-Class	-ել
 842	ժայթքել	2	քաղել	ժայթք	Regular	C-initial		E-Class	-ել
 843	ժանգոտիլ	4	խօսիլ	ժանգոտ	Regular	C-initial	Basic	I-Class	-իլ
@@ -884,7 +884,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 883	լերկանալ	20	նիհարնալ	լերկա	Regular	C-initial		Inchoative	-նալ
 884	լերկացնել	10	մօտեցնել	լերկա	Regular	C-initial	Basic	Causative	-ցնել
 885	լեցնել	10	մօտեցնել	լե	Regular	C-initial	Basic	Causative	-ցնել
-886	լեցուիլ	4	զզուիլ	լեց	Regular	C-initial	Passive	Passive	-իլ
+886	լեցուիլ	4	զզուիլ	լեց	Regular	C-initial	Passive	Passive	-ուիլ
 887	լզել	2	քաղել	լզ	Regular	C-initial		E-Class	-ել
 888	լզուըռտել	2	քաղել	լզուըռտ	Regular	C-initial		E-Class	-ել
 889	լիազօրել	2	քաղել	լիազօր	Regular	C-initial		E-Class	-ել
@@ -911,7 +911,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 910	լուալ	6	կարդալ	լու	Regular	C-initial		A-Class	-ալ
 911	լուել	2	քաղել	լու	Regular	C-initial		E-Class	-ել
 912	լուծել	2	քաղել	լուծ	Regular	C-initial		E-Class	-ել
-913	լուծուիլ	4	զզուիլ	լուծ	Regular	C-initial	Passive	Passive	-իլ
+913	լուծուիլ	4	զզուիլ	լուծ	Regular	C-initial	Passive	Passive	-ուիլ
 914	լուսաբանել	2	քաղել	լուսաբան	Regular	C-initial		E-Class	-ել
 915	լուսազարդել	2	քաղել	լուսազարդ	Regular	C-initial		E-Class	-ել
 916	լուսանկարել	2	քաղել	լուսանկար	Regular	C-initial		E-Class	-ել
@@ -922,7 +922,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 921	լռել	2	քաղել	լռ	Regular	C-initial		E-Class	-ել
 922	լռեցնել	10	մօտեցնել	լռե	Regular	C-initial	Basic	Causative	-ցնել
 923	լսել	2	քաղել	լս	Regular	C-initial		E-Class	-ել
-924	լսուիլ	4	զզուիլ	լս	Regular	C-initial	Passive	Passive	-իլ
+924	լսուիլ	4	զզուիլ	լս	Regular	C-initial	Passive	Passive	-ուիլ
 925	լրանալ	20	նիհարնալ	լրա	Regular	C-initial		Inchoative	-նալ
 926	լրացնել	10	մօտեցնել	լրա	Regular	C-initial	Basic	Causative	-ցնել
 927	լրբանալ	20	նիհարնալ	լրբա	Regular	C-initial		Inchoative	-նալ
@@ -932,10 +932,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 931	լփռտել	2	քաղել	լփռտ	Regular	C-initial		E-Class	-ել
 932	լքել	2	քաղել	լք	Regular	C-initial		E-Class	-ել
 933	խաբել	2	քաղել	խաբ	Regular	C-initial		E-Class	-ել
-934	խաբուիլ	4	զզուիլ	խաբ	Regular	C-initial	Passive	Passive	-իլ
+934	խաբուիլ	4	զզուիլ	խաբ	Regular	C-initial	Passive	Passive	-ուիլ
 935	խազել	2	քաղել	խազ	Regular	C-initial		E-Class	-ել
 936	խաթարել	2	քաղել	խաթար	Regular	C-initial		E-Class	-ել
-937	խաթարուիլ	4	զզուիլ	խաթար	Regular	C-initial	Passive	Passive	-իլ
+937	խաթարուիլ	4	զզուիլ	խաթար	Regular	C-initial	Passive	Passive	-ուիլ
 938	խախալել	2	քաղել	խախալ	Regular	C-initial		E-Class	-ել
 939	խախանջել	2	քաղել	խախանջ	Regular	C-initial		E-Class	-ել
 940	խախտել	2	քաղել	խախտ	Regular	C-initial		E-Class	-ել
@@ -952,12 +952,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 951	խայծիլ	4	խօսիլ	խայծ	Regular	C-initial	Basic	I-Class	-իլ
 952	խայտալ	6	կարդալ	խայտ	Regular	C-initial		A-Class	-ալ
 953	խայտառակել	2	քաղել	խայտառակ	Regular	C-initial		E-Class	-ել
-954	խայտառակուիլ	4	զզուիլ	խայտառակ	Regular	C-initial	Passive	Passive	-իլ
+954	խայտառակուիլ	4	զզուիլ	խայտառակ	Regular	C-initial	Passive	Passive	-ուիլ
 955	խանգարել	2	քաղել	խանգար	Regular	C-initial		E-Class	-ել
-956	խանգարուիլ	4	զզուիլ	խանգար	Regular	C-initial	Passive	Passive	-իլ
+956	խանգարուիլ	4	զզուիլ	խանգար	Regular	C-initial	Passive	Passive	-ուիլ
 957	խանդաղատիլ	4	խօսիլ	խանդաղատ	Regular	C-initial	Basic	I-Class	-իլ
 958	խանդավառել	2	քաղել	խանդավառ	Regular	C-initial		E-Class	-ել
-959	խանդավառուիլ	4	զզուիլ	խանդավառ	Regular	C-initial	Passive	Passive	-իլ
+959	խանդավառուիլ	4	զզուիլ	խանդավառ	Regular	C-initial	Passive	Passive	-ուիլ
 960	խանծել	2	քաղել	խանծ	Regular	C-initial		E-Class	-ել
 961	խանծիլ	4	խօսիլ	խանծ	Regular	C-initial	Basic	I-Class	-իլ
 962	խանձել	2	քաղել	խանձ	Regular	C-initial		E-Class	-ել
@@ -973,7 +973,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 972	խառնակել	2	քաղել	խառնակ	Regular	C-initial		E-Class	-ել
 973	խառնակիլ	4	խօսիլ	խառնակ	Regular	C-initial	Basic	I-Class	-իլ
 974	խառնել	2	քաղել	խառն	Regular	C-initial		E-Class	-ել
-975	խառնուիլ	4	զզուիլ	խառն	Regular	C-initial	Passive	Passive	-իլ
+975	խառնուիլ	4	զզուիլ	խառն	Regular	C-initial	Passive	Passive	-ուիլ
 976	խարազանել	2	քաղել	խարազան	Regular	C-initial		E-Class	-ել
 977	խարանել	2	քաղել	խարան	Regular	C-initial		E-Class	-ել
 978	խարբալել	2	քաղել	խարբալ	Regular	C-initial		E-Class	-ել
@@ -997,7 +997,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 996	խելօքնալ	20	նիհարնալ	խելօք	Regular	C-initial		Inchoative	-նալ
 997	խեղաթիւրել	2	քաղել	խեղաթիւր	Regular	C-initial		E-Class	-ել
 998	խեղդել	2	քաղել	խեղդ	Regular	C-initial		E-Class	-ել
-999	խեղդուիլ	4	զզուիլ	խեղդ	Regular	C-initial	Passive	Passive	-իլ
+999	խեղդուիլ	4	զզուիլ	խեղդ	Regular	C-initial	Passive	Passive	-ուիլ
 1000	խեղել	2	քաղել	խեղ	Regular	C-initial		E-Class	-ել
 1001	խեղճանալ	20	նիհարնալ	խեղճա	Regular	C-initial		Inchoative	-նալ
 1002	խենթանալ	20	նիհարնալ	խենթա	Regular	C-initial		Inchoative	-նալ
@@ -1020,7 +1020,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1019	խմբագրել	2	քաղել	խմբագր	Regular	C-initial		E-Class	-ել
 1020	խմբաւորել	2	քաղել	խմբաւոր	Regular	C-initial		E-Class	-ել
 1021	խմբել	2	քաղել	խմբ	Regular	C-initial		E-Class	-ել
-1022	խմբուիլ	4	զզուիլ	խմբ	Regular	C-initial	Passive	Passive	-իլ
+1022	խմբուիլ	4	զզուիլ	խմբ	Regular	C-initial	Passive	Passive	-ուիլ
 1023	խմել	2	քաղել	խմ	Regular	C-initial		E-Class	-ել
 1024	խմորել	2	քաղել	խմոր	Regular	C-initial		E-Class	-ել
 1025	խնամել	2	քաղել	խնամ	Regular	C-initial		E-Class	-ել
@@ -1058,7 +1058,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1057	խոտորիլ	4	խօսիլ	խոտոր	Regular	C-initial	Basic	I-Class	-իլ
 1058	խորանալ	20	նիհարնալ	խորա	Regular	C-initial		Inchoative	-նալ
 1059	խորաչափել	2	քաղել	խորաչափ	Regular	C-initial		E-Class	-ել
-1060	խորասուզուիլ	4	զզուիլ	խորասուզ	Regular	C-initial	Passive	Passive	-իլ
+1060	խորասուզուիլ	4	զզուիլ	խորասուզ	Regular	C-initial	Passive	Passive	-ուիլ
 1061	խորացնել	10	մօտեցնել	խորա	Regular	C-initial	Basic	Causative	-ցնել
 1062	խորդալ	6	կարդալ	խորդ	Regular	C-initial		A-Class	-ալ
 1063	խորել	2	քաղել	խոր	Regular	C-initial		E-Class	-ել
@@ -1072,9 +1072,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1071	խորշոմել	2	քաղել	խորշոմ	Regular	C-initial		E-Class	-ել
 1072	խորշոմիլ	4	խօսիլ	խորշոմ	Regular	C-initial	Basic	I-Class	-իլ
 1073	խորովել	2	քաղել	խորով	Regular	C-initial		E-Class	-ել
-1074	խորովուիլ	4	զզուիլ	խորով	Regular	C-initial	Passive	Passive	-իլ
+1074	խորովուիլ	4	զզուիլ	խորով	Regular	C-initial	Passive	Passive	-ուիլ
 1075	խորտակել	2	քաղել	խորտակ	Regular	C-initial		E-Class	-ել
-1076	խորտակուիլ	4	զզուիլ	խորտակ	Regular	C-initial	Passive	Passive	-իլ
+1076	խորտակուիլ	4	զզուիլ	խորտակ	Regular	C-initial	Passive	Passive	-ուիլ
 1077	խոցել	2	քաղել	խոց	Regular	C-initial		E-Class	-ել
 1078	խոցոտել	2	քաղել	խոցոտ	Regular	C-initial		E-Class	-ել
 1079	խուզարկել	2	քաղել	խուզարկ	Regular	C-initial		E-Class	-ել
@@ -1089,7 +1089,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1088	խռկալ	6	կարդալ	խռկ	Regular	C-initial		A-Class	-ալ
 1089	խռմփալ	6	կարդալ	խռմփ	Regular	C-initial		A-Class	-ալ
 1090	խռնել	2	քաղել	խռն	Regular	C-initial		E-Class	-ել
-1091	խռնուիլ	4	զզուիլ	խռն	Regular	C-initial	Passive	Passive	-իլ
+1091	խռնուիլ	4	զզուիլ	խռն	Regular	C-initial	Passive	Passive	-ուիլ
 1092	խռովել	2	քաղել	խռով	Regular	C-initial		E-Class	-ել
 1093	խռովիլ	4	խօսիլ	խռով	Regular	C-initial	Basic	I-Class	-իլ
 1094	խռֆիլ	4	խօսիլ	խռֆ	Regular	C-initial	Basic	I-Class	-իլ
@@ -1121,15 +1121,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1120	ծալել	2	քաղել	ծալ	Regular	C-initial		E-Class	-ել
 1121	ծալլել	2	քաղել	ծալլ	Regular	C-initial		E-Class	-ել
 1122	ծախել	2	քաղել	ծախ	Regular	C-initial		E-Class	-ել
-1123	ծախուիլ	4	զզուիլ	ծախ	Regular	C-initial	Passive	Passive	-իլ
+1123	ծախուիլ	4	զզուիլ	ծախ	Regular	C-initial	Passive	Passive	-ուիլ
 1124	ծածանիլ	4	խօսիլ	ծածան	Regular	C-initial	Basic	I-Class	-իլ
 1125	ծածկել	2	քաղել	ծածկ	Regular	C-initial		E-Class	-ել
-1126	ծածկուիլ	4	զզուիլ	ծածկ	Regular	C-initial	Passive	Passive	-իլ
+1126	ծածկուիլ	4	զզուիլ	ծածկ	Regular	C-initial	Passive	Passive	-ուիլ
 1127	ծականշել	2	քաղել	ծականշ	Regular	C-initial		E-Class	-ել
 1128	ծակել	2	քաղել	ծակ	Regular	C-initial		E-Class	-ել
 1129	ծակծկել	2	քաղել	ծակծկ	Regular	C-initial		E-Class	-ել
 1130	ծակոտել	2	քաղել	ծակոտ	Regular	C-initial		E-Class	-ել
-1131	ծակուիլ	4	զզուիլ	ծակ	Regular	C-initial	Passive	Passive	-իլ
+1131	ծակուիլ	4	զզուիլ	ծակ	Regular	C-initial	Passive	Passive	-ուիլ
 1132	ծաղկազարդել	2	քաղել	ծաղկազարդ	Regular	C-initial		E-Class	-ել
 1133	ծաղկել	2	քաղել	ծաղկ	Regular	C-initial		E-Class	-ել
 1134	ծաղկեցնել	10	մօտեցնել	ծաղկե	Regular	C-initial	Basic	Causative	-ցնել
@@ -1152,7 +1152,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1151	ծառայել	2	քաղել	ծառայ	Regular	C-initial		E-Class	-ել
 1152	ծառայեցնել	10	մօտեցնել	ծառայե	Regular	C-initial	Basic	Causative	-ցնել
 1153	ծառանալ	20	նիհարնալ	ծառա	Regular	C-initial		Inchoative	-նալ
-1154	ծարաւիլ	4	զզուիլ	ծար	Regular	C-initial	Passive	Passive	-իլ
+1154	ծարաւիլ	4	զզուիլ	ծար	Regular	C-initial	Passive	Passive	-ուիլ
 1155	ծարաւնալ	20	նիհարնալ	ծարաւ	Regular	C-initial		Inchoative	-նալ
 1156	ծարիրել	2	քաղել	ծարիր	Regular	C-initial		E-Class	-ել
 1157	ծարուրել	2	քաղել	ծարուր	Regular	C-initial		E-Class	-ել
@@ -1162,7 +1162,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1161	ծափել	2	քաղել	ծափ	Regular	C-initial		E-Class	-ել
 1162	ծեթեւեթել	2	քաղել	ծեթեւեթ	Regular	C-initial		E-Class	-ել
 1163	ծեծել	2	քաղել	ծեծ	Regular	C-initial		E-Class	-ել
-1164	ծեծուիլ	4	զզուիլ	ծեծ	Regular	C-initial	Passive	Passive	-իլ
+1164	ծեծուիլ	4	զզուիլ	ծեծ	Regular	C-initial	Passive	Passive	-ուիլ
 1165	ծերանալ	20	նիհարնալ	ծերա	Regular	C-initial		Inchoative	-նալ
 1166	ծեփել	2	քաղել	ծեփ	Regular	C-initial		E-Class	-ել
 1167	ծեքել	2	քաղել	ծեք	Regular	C-initial		E-Class	-ել
@@ -1184,7 +1184,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1183	ծուատիլ	4	խօսիլ	ծուատ	Regular	C-initial	Basic	I-Class	-իլ
 1184	ծուարիլ	4	խօսիլ	ծուար	Regular	C-initial	Basic	I-Class	-իլ
 1185	ծպտել	2	քաղել	ծպտ	Regular	C-initial		E-Class	-ել
-1186	ծպտուիլ	4	զզուիլ	ծպտ	Regular	C-initial	Passive	Passive	-իլ
+1186	ծպտուիլ	4	զզուիլ	ծպտ	Regular	C-initial	Passive	Passive	-ուիլ
 1187	ծռել	2	քաղել	ծռ	Regular	C-initial		E-Class	-ել
 1188	ծռիլ	4	խօսիլ	ծռ	Regular	C-initial	Basic	I-Class	-իլ
 1189	ծրագրել	2	քաղել	ծրագր	Regular	C-initial		E-Class	-ել
@@ -1192,13 +1192,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1191	ծրտել	2	քաղել	ծրտ	Regular	C-initial		E-Class	-ել
 1192	ծփալ	6	կարդալ	ծփ	Regular	C-initial		A-Class	-ալ
 1193	կազդուրել	2	քաղել	կազդուր	Regular	C-initial		E-Class	-ել
-1194	կազդուրուիլ	4	զզուիլ	կազդուր	Regular	C-initial	Passive	Passive	-իլ
+1194	կազդուրուիլ	4	զզուիլ	կազդուր	Regular	C-initial	Passive	Passive	-ուիլ
 1195	կազմալուծել	2	քաղել	կազմալուծ	Regular	C-initial		E-Class	-ել
-1196	կազմալուծուիլ	4	զզուիլ	կազմալուծ	Regular	C-initial	Passive	Passive	-իլ
+1196	կազմալուծուիլ	4	զզուիլ	կազմալուծ	Regular	C-initial	Passive	Passive	-ուիլ
 1197	կազմակերպել	2	քաղել	կազմակերպ	Regular	C-initial		E-Class	-ել
-1198	կազմակերպուիլ	4	զզուիլ	կազմակերպ	Regular	C-initial	Passive	Passive	-իլ
+1198	կազմակերպուիլ	4	զզուիլ	կազմակերպ	Regular	C-initial	Passive	Passive	-ուիլ
 1199	կազմաւորել	2	քաղել	կազմաւոր	Regular	C-initial		E-Class	-ել
-1200	կազմաւորուիլ	4	զզուիլ	կազմաւոր	Regular	C-initial	Passive	Passive	-իլ
+1200	կազմաւորուիլ	4	զզուիլ	կազմաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 1201	կազմել	2	քաղել	կազմ	Regular	C-initial		E-Class	-ել
 1202	կաթիլ	4	խօսիլ	կաթ	Regular	C-initial	Basic	I-Class	-իլ
 1203	կաթոտիլ	4	խօսիլ	կաթոտ	Regular	C-initial	Basic	I-Class	-իլ
@@ -1209,7 +1209,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1208	կախակայել	2	քաղել	կախակայ	Regular	C-initial		E-Class	-ել
 1209	կախարդել	2	քաղել	կախարդ	Regular	C-initial		E-Class	-ել
 1210	կախել	2	քաղել	կախ	Regular	C-initial		E-Class	-ել
-1211	կախուիլ	4	զզուիլ	կախ	Regular	C-initial	Passive	Passive	-իլ
+1211	կախուիլ	4	զզուիլ	կախ	Regular	C-initial	Passive	Passive	-ուիլ
 1212	կակազել	2	քաղել	կակազ	Regular	C-initial		E-Class	-ել
 1213	կակուղնալ	20	նիհարնալ	կակուղ	Regular	C-initial		Inchoative	-նալ
 1214	կակուղցնել	10	մօտեցնել	կակուղ	Regular	C-initial	Basic	Causative	-ցնել
@@ -1237,12 +1237,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1236	կանչել	2	քաղել	կանչ	Regular	C-initial		E-Class	-ել
 1237	կանչուըռտել	2	քաղել	կանչուըռտ	Regular	C-initial		E-Class	-ել
 1238	կաշառել	2	քաղել	կաշառ	Regular	C-initial		E-Class	-ել
-1239	կաշառուիլ	4	զզուիլ	կաշառ	Regular	C-initial	Passive	Passive	-իլ
+1239	կաշառուիլ	4	զզուիլ	կաշառ	Regular	C-initial	Passive	Passive	-ուիլ
 1240	կաշկանդել	2	քաղել	կաշկանդ	Regular	C-initial		E-Class	-ել
-1241	կաշկանդուիլ	4	զզուիլ	կաշկանդ	Regular	C-initial	Passive	Passive	-իլ
+1241	կաշկանդուիլ	4	զզուիլ	կաշկանդ	Regular	C-initial	Passive	Passive	-ուիլ
 1242	կապել	2	քաղել	կապ	Regular	C-initial		E-Class	-ել
 1243	կապկել	2	քաղել	կապկ	Regular	C-initial		E-Class	-ել
-1244	կապուիլ	4	զզուիլ	կապ	Regular	C-initial	Passive	Passive	-իլ
+1244	կապուիլ	4	զզուիլ	կապ	Regular	C-initial	Passive	Passive	-ուիլ
 1245	կապտել	2	քաղել	կապտ	Regular	C-initial		E-Class	-ել
 1246	կառանել	2	քաղել	կառան	Regular	C-initial		E-Class	-ել
 1247	կառաչել	2	քաղել	կառաչ	Regular	C-initial		E-Class	-ել
@@ -1257,14 +1257,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1256	կատակել	2	քաղել	կատակ	Regular	C-initial		E-Class	-ել
 1257	կատարել	2	քաղել	կատար	Regular	C-initial		E-Class	-ել
 1258	կատարելագործել	2	քաղել	կատարելագործ	Regular	C-initial		E-Class	-ել
-1259	կատարելագործուիլ	4	զզուիլ	կատարելագործ	Regular	C-initial	Passive	Passive	-իլ
-1260	կատարուիլ	4	զզուիլ	կատար	Regular	C-initial	Passive	Passive	-իլ
+1259	կատարելագործուիլ	4	զզուիլ	կատարելագործ	Regular	C-initial	Passive	Passive	-ուիլ
+1260	կատարուիլ	4	զզուիլ	կատար	Regular	C-initial	Passive	Passive	-ուիլ
 1261	կատղեցնել	10	մօտեցնել	կատղե	Regular	C-initial	Basic	Causative	-ցնել
 1262	կատղիլ	4	խօսիլ	կատղ	Regular	C-initial	Basic	I-Class	-իլ
 1263	կարգադրել	2	քաղել	կարգադր	Regular	C-initial		E-Class	-ել
 1264	կարգաւորել	2	քաղել	կարգաւոր	Regular	C-initial		E-Class	-ել
 1265	կարգել	2	քաղել	կարգ	Regular	C-initial		E-Class	-ել
-1266	կարգուիլ	4	զզուիլ	կարգ	Regular	C-initial	Passive	Passive	-իլ
+1266	կարգուիլ	4	զզուիլ	կարգ	Regular	C-initial	Passive	Passive	-ուիլ
 1267	կարդալ	6	կարդալ	կարդ	Regular	C-initial		A-Class	-ալ
 1268	կարել	2	քաղել	կար	Regular	C-initial		E-Class	-ել
 1269	կարեկցիլ	47	զիջիլ	կարեկց	Irregular	C-initial			-իլ
@@ -1309,9 +1309,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1308	կենդանանալ	20	նիհարնալ	կենդանա	Regular	C-initial		Inchoative	-նալ
 1309	կենդանացնել	10	մօտեցնել	կենդանա	Regular	C-initial	Basic	Causative	-ցնել
 1310	կերակրել	2	քաղել	կերակր	Regular	C-initial		E-Class	-ել
-1311	կերակրուիլ	4	զզուիլ	կերակր	Regular	C-initial	Passive	Passive	-իլ
+1311	կերակրուիլ	4	զզուիլ	կերակր	Regular	C-initial	Passive	Passive	-ուիլ
 1312	կերպարանափոխել	2	քաղել	կերպարանափոխ	Regular	C-initial		E-Class	-ել
-1313	կերպարանափոխուիլ	4	զզուիլ	կերպարանափոխ	Regular	C-initial	Passive	Passive	-իլ
+1313	կերպարանափոխուիլ	4	զզուիլ	կերպարանափոխ	Regular	C-initial	Passive	Passive	-ուիլ
 1314	կերտել	2	քաղել	կերտ	Regular	C-initial		E-Class	-ել
 1315	կերցնել	10	մօտեցնել	կեր	Regular	C-initial	Basic	Causative	-ցնել
 1316	կեցնել	10	մօտեցնել	կե	Regular	C-initial	Basic	Causative	-ցնել
@@ -1331,7 +1331,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1330	կլորցնել	10	մօտեցնել	կլոր	Regular	C-initial	Basic	Causative	-ցնել
 1331	կծել	2	քաղել	կծ	Regular	C-initial		E-Class	-ել
 1332	կծկել	2	քաղել	կծկ	Regular	C-initial		E-Class	-ել
-1333	կծկուիլ	4	զզուիլ	կծկ	Regular	C-initial	Passive	Passive	-իլ
+1333	կծկուիլ	4	զզուիլ	կծկ	Regular	C-initial	Passive	Passive	-ուիլ
 1334	կծկտիլ	4	խօսիլ	կծկտ	Regular	C-initial	Basic	I-Class	-իլ
 1335	կկզիլ	4	խօսիլ	կկզ	Regular	C-initial	Basic	I-Class	-իլ
 1336	կղզիանալ	20	նիհարնալ	կղզիա	Regular	C-initial		Inchoative	-նալ
@@ -1353,22 +1353,22 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1352	կոթողել	2	քաղել	կոթող	Regular	C-initial		E-Class	-ել
 1353	կոխել	2	քաղել	կոխ	Regular	C-initial		E-Class	-ել
 1354	կոխկռտել	2	քաղել	կոխկռտ	Regular	C-initial		E-Class	-ել
-1355	կոխկռտուիլ	4	զզուիլ	կոխկռտ	Regular	C-initial	Passive	Passive	-իլ
+1355	կոխկռտուիլ	4	զզուիլ	կոխկռտ	Regular	C-initial	Passive	Passive	-ուիլ
 1356	կոծել	2	քաղել	կոծ	Regular	C-initial		E-Class	-ել
 1357	կոկել	2	քաղել	կոկ	Regular	C-initial		E-Class	-ել
 1358	կոկոզաբանել	2	քաղել	կոկոզաբան	Regular	C-initial		E-Class	-ել
-1359	կողմնորոշուիլ	4	զզուիլ	կողմնորոշ	Regular	C-initial	Passive	Passive	-իլ
-1360	կողոպտուիլ	4	զզուիլ	կողոպտ	Regular	C-initial	Passive	Passive	-իլ
+1359	կողմնորոշուիլ	4	զզուիլ	կողմնորոշ	Regular	C-initial	Passive	Passive	-ուիլ
+1360	կողոպտուիլ	4	զզուիլ	կողոպտ	Regular	C-initial	Passive	Passive	-ուիլ
 1361	կոճկել	2	քաղել	կոճկ	Regular	C-initial		E-Class	-ել
 1362	կոճոպել	2	քաղել	կոճոպ	Regular	C-initial		E-Class	-ել
 1363	կոնծել	2	քաղել	կոնծ	Regular	C-initial		E-Class	-ել
 1364	կոշկոճել	2	քաղել	կոշկոճ	Regular	C-initial		E-Class	-ել
 1365	կոչել	2	քաղել	կոչ	Regular	C-initial		E-Class	-ել
-1366	կոչուիլ	4	զզուիլ	կոչ	Regular	C-initial	Passive	Passive	-իլ
+1366	կոչուիլ	4	զզուիլ	կոչ	Regular	C-initial	Passive	Passive	-ուիլ
 1367	կոտորակել	2	քաղել	կոտորակ	Regular	C-initial		E-Class	-ել
 1368	կոտորել	2	քաղել	կոտոր	Regular	C-initial		E-Class	-ել
 1369	կոտրել	2	քաղել	կոտր	Regular	C-initial		E-Class	-ել
-1370	կոտրուիլ	4	զզուիլ	կոտր	Regular	C-initial	Passive	Passive	-իլ
+1370	կոտրուիլ	4	զզուիլ	կոտր	Regular	C-initial	Passive	Passive	-ուիլ
 1371	կոտրտել	2	քաղել	կոտրտ	Regular	C-initial		E-Class	-ել
 1372	կորանալ	20	նիհարնալ	կորա	Regular	C-initial		Inchoative	-նալ
 1373	կործանել	2	քաղել	կործան	Regular	C-initial		E-Class	-ել
@@ -1378,14 +1378,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1377	կորչել	2	քաղել	կորչ	Regular	C-initial		E-Class	-ել
 1378	կորչիլ	16	կպչիլ	կոր	Irregular	C-initial			-չիլ
 1379	կորսնցնել	10	մօտեցնել	կորսն	Regular	C-initial	Basic	Causative	-ցնել
-1380	կորսուիլ	4	զզուիլ	կորս	Regular	C-initial	Passive	Passive	-իլ
+1380	կորսուիլ	4	զզուիլ	կորս	Regular	C-initial	Passive	Passive	-ուիլ
 1381	կուտակել	2	քաղել	կուտակ	Regular	C-initial		E-Class	-ել
-1382	կուտակուիլ	4	զզուիլ	կուտակ	Regular	C-initial	Passive	Passive	-իլ
+1382	կուտակուիլ	4	զզուիլ	կուտակ	Regular	C-initial	Passive	Passive	-ուիլ
 1383	կուտել	2	քաղել	կուտ	Regular	C-initial		E-Class	-ել
 1384	կուրնալ	20	նիհարնալ	կուր	Regular	C-initial		Inchoative	-նալ
 1385	կուրցնել	10	մօտեցնել	կուր	Regular	C-initial	Basic	Causative	-ցնել
 1386	կոփել	2	քաղել	կոփ	Regular	C-initial		E-Class	-ել
-1387	կոփուիլ	4	զզուիլ	կոփ	Regular	C-initial	Passive	Passive	-իլ
+1387	կոփուիլ	4	զզուիլ	կոփ	Regular	C-initial	Passive	Passive	-ուիլ
 1388	կպչիլ	16	կպչիլ	կպ	Irregular	C-initial			-չիլ
 1389	կպրապատել	2	քաղել	կպրապատ	Regular	C-initial		E-Class	-ել
 1390	կպցնել	10	մօտեցնել	կպ	Regular	C-initial	Basic	Causative	-ցնել
@@ -1400,7 +1400,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1399	կռնծիլ	4	խօսիլ	կռնծ	Regular	C-initial	Basic	I-Class	-իլ
 1400	կռնչել	2	քաղել	կռնչ	Regular	C-initial		E-Class	-ել
 1401	կռուըտիլ	4	խօսիլ	կռուըտ	Regular	C-initial	Basic	I-Class	-իլ
-1402	կռուիլ	4	զզուիլ	կռ	Regular	C-initial	Passive	Passive	-իլ
+1402	կռուիլ	4	զզուիլ	կռ	Regular	C-initial	Passive	Passive	-ուիլ
 1403	կռփահարել	2	քաղել	կռփահար	Regular	C-initial		E-Class	-ել
 1404	կռփել	2	քաղել	կռփ	Regular	C-initial		E-Class	-ել
 1405	կսկծալ	6	կարդալ	կսկծ	Regular	C-initial		A-Class	-ալ
@@ -1411,13 +1411,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1410	կտրատել	2	քաղել	կտրատ	Regular	C-initial		E-Class	-ել
 1411	կտրել	2	քաղել	կտր	Regular	C-initial		E-Class	-ել
 1412	կտրիլ	4	խօսիլ	կտր	Regular	C-initial	Basic	I-Class	-իլ
-1413	կտրուիլ	4	զզուիլ	կտր	Regular	C-initial	Passive	Passive	-իլ
+1413	կտրուիլ	4	զզուիլ	կտր	Regular	C-initial	Passive	Passive	-ուիլ
 1414	կտցահարել	2	քաղել	կտցահար	Regular	C-initial		E-Class	-ել
 1415	կտցել	2	քաղել	կտց	Regular	C-initial		E-Class	-ել
 1416	կրակել	2	քաղել	կրակ	Regular	C-initial		E-Class	-ել
 1417	կրել	2	քաղել	կր	Regular	C-initial		E-Class	-ել
 1418	կրթել	2	քաղել	կրթ	Regular	C-initial		E-Class	-ել
-1419	կրթուիլ	4	զզուիլ	կրթ	Regular	C-initial	Passive	Passive	-իլ
+1419	կրթուիլ	4	զզուիլ	կրթ	Regular	C-initial	Passive	Passive	-ուիլ
 1420	կրծել	2	քաղել	կրծ	Regular	C-initial		E-Class	-ել
 1421	կրկնաբանել	2	քաղել	կրկնաբան	Regular	C-initial		E-Class	-ել
 1422	կրկնապատկել	2	քաղել	կրկնապատկ	Regular	C-initial		E-Class	-ել
@@ -1430,15 +1430,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1429	կրտել	2	քաղել	կրտ	Regular	C-initial		E-Class	-ել
 1430	կցել	2	քաղել	կց	Regular	C-initial		E-Class	-ել
 1431	կցորդել	2	քաղել	կցորդ	Regular	C-initial		E-Class	-ել
-1432	կցուիլ	4	զզուիլ	կց	Regular	C-initial	Passive	Passive	-իլ
+1432	կցուիլ	4	զզուիլ	կց	Regular	C-initial	Passive	Passive	-ուիլ
 1433	կքել	2	քաղել	կք	Regular	C-initial		E-Class	-ել
 1434	կքիլ	4	խօսիլ	կք	Regular	C-initial	Basic	I-Class	-իլ
 1435	հագնիլ	14	մեռնիլ	հագ	Irregular	C-initial			-նիլ
-1436	հագուիլ	4	զզուիլ	հագ	Regular	C-initial	Passive	Passive	-իլ
+1436	հագուիլ	4	զզուիլ	հագ	Regular	C-initial	Passive	Passive	-ուիլ
 1437	հագցնել	10	մօտեցնել	հագ	Regular	C-initial	Basic	Causative	-ցնել
 1438	հազալ	6	կարդալ	հազ	Regular	C-initial		A-Class	-ալ
 1439	հալածել	2	քաղել	հալած	Regular	C-initial		E-Class	-ել
-1440	հալածուիլ	4	զզուիլ	հալած	Regular	C-initial	Passive	Passive	-իլ
+1440	հալածուիլ	4	զզուիլ	հալած	Regular	C-initial	Passive	Passive	-ուիլ
 1441	հալել	2	քաղել	հալ	Regular	C-initial		E-Class	-ել
 1442	հալեցնել	10	մօտեցնել	հալե	Regular	C-initial	Basic	Causative	-ցնել
 1443	հալիլ	4	խօսիլ	հալ	Regular	C-initial	Basic	I-Class	-իլ
@@ -1453,7 +1453,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1452	հակիլ	4	խօսիլ	հակ	Regular	C-initial	Basic	I-Class	-իլ
 1453	հաղորդակցիլ	4	խօսիլ	հաղորդակց	Regular	C-initial	Basic	I-Class	-իլ
 1454	հաղորդել	2	քաղել	հաղորդ	Regular	C-initial		E-Class	-ել
-1455	հաղորդուիլ	4	զզուիլ	հաղորդ	Regular	C-initial	Passive	Passive	-իլ
+1455	հաղորդուիլ	4	զզուիլ	հաղորդ	Regular	C-initial	Passive	Passive	-ուիլ
 1456	հաճել	2	քաղել	հաճ	Regular	C-initial		E-Class	-ել
 1457	հաճիլ	4	խօսիլ	հաճ	Regular	C-initial	Basic	I-Class	-իլ
 1458	հաճիլ	4	խօսիլ	հաճ	Regular	C-initial	Basic	I-Class	-իլ
@@ -1464,7 +1464,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1463	համակարգել	2	քաղել	համակարգ	Regular	C-initial		E-Class	-ել
 1464	համակել	2	քաղել	համակ	Regular	C-initial		E-Class	-ել
 1465	համակերպիլ	4	խօսիլ	համակերպ	Regular	C-initial	Basic	I-Class	-իլ
-1466	համակուիլ	4	զզուիլ	համակ	Regular	C-initial	Passive	Passive	-իլ
+1466	համակուիլ	4	զզուիլ	համակ	Regular	C-initial	Passive	Passive	-ուիլ
 1467	համակրիլ	4	խօսիլ	համակր	Regular	C-initial	Basic	I-Class	-իլ
 1468	համաձայնիլ	4	խօսիլ	համաձայն	Regular	C-initial	Basic	I-Class	-իլ
 1469	համապատասխանել	2	քաղել	համապատասխան	Regular	C-initial		E-Class	-ել
@@ -1475,9 +1475,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1474	համարձակիլ	4	խօսիլ	համարձակ	Regular	C-initial	Basic	I-Class	-իլ
 1475	համբառնալ	20	նիհարնալ	համբառ	Regular	C-initial		Inchoative	-նալ
 1476	համբերել	2	քաղել	համբեր	Regular	C-initial		E-Class	-ել
-1477	համբուրուիլ	4	զզուիլ	համբուր	Regular	C-initial	Passive	Passive	-իլ
+1477	համբուրուիլ	4	զզուիլ	համբուր	Regular	C-initial	Passive	Passive	-ուիլ
 1478	համեմատել	2	քաղել	համեմատ	Regular	C-initial		E-Class	-ել
-1479	համեմատուիլ	4	զզուիլ	համեմատ	Regular	C-initial	Passive	Passive	-իլ
+1479	համեմատուիլ	4	զզուիլ	համեմատ	Regular	C-initial	Passive	Passive	-ուիլ
 1480	համեմել	2	քաղել	համեմ	Regular	C-initial		E-Class	-ել
 1481	համետել	2	քաղել	համետ	Regular	C-initial		E-Class	-ել
 1482	համոզել	2	քաղել	համոզ	Regular	C-initial		E-Class	-ել
@@ -1503,13 +1503,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1502	հանդիսանալ	20	նիհարնալ	հանդիսա	Regular	C-initial		Inchoative	-նալ
 1503	հանդուրժել	2	քաղել	հանդուրժ	Regular	C-initial		E-Class	-ել
 1504	հանել	2	քաղել	հան	Regular	C-initial		E-Class	-ել
-1505	հանուիլ	4	զզուիլ	հան	Regular	C-initial	Passive	Passive	-իլ
+1505	հանուիլ	4	զզուիլ	հան	Regular	C-initial	Passive	Passive	-ուիլ
 1506	հաշմել	2	քաղել	հաշմ	Regular	C-initial		E-Class	-ել
-1507	հաշմուիլ	4	զզուիլ	հաշմ	Regular	C-initial	Passive	Passive	-իլ
+1507	հաշմուիլ	4	զզուիլ	հաշմ	Regular	C-initial	Passive	Passive	-ուիլ
 1508	հաշուակցիլ	4	խօսիլ	հաշուակց	Regular	C-initial	Basic	I-Class	-իլ
 1509	հաշուել	2	քաղել	հաշու	Regular	C-initial		E-Class	-ել
 1510	հաշտեցնել	10	մօտեցնել	հաշտե	Regular	C-initial	Basic	Causative	-ցնել
-1511	հաշտուիլ	4	զզուիլ	հաշտ	Regular	C-initial	Passive	Passive	-իլ
+1511	հաշտուիլ	4	զզուիլ	հաշտ	Regular	C-initial	Passive	Passive	-ուիլ
 1512	հաչել	2	քաղել	հաչ	Regular	C-initial		E-Class	-ել
 1513	հաջել	2	քաղել	հաջ	Regular	C-initial		E-Class	-ել
 1514	հառաչել	2	քաղել	հառաչ	Regular	C-initial		E-Class	-ել
@@ -1519,7 +1519,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1518	հասուննալ	20	նիհարնալ	հասուն	Regular	C-initial		Inchoative	-նալ
 1519	հասունցնել	10	մօտեցնել	հասուն	Regular	C-initial	Basic	Causative	-ցնել
 1520	հաստատել	2	քաղել	հաստատ	Regular	C-initial		E-Class	-ել
-1521	հաստատուիլ	4	զզուիլ	հաստատ	Regular	C-initial	Passive	Passive	-իլ
+1521	հաստատուիլ	4	զզուիլ	հաստատ	Regular	C-initial	Passive	Passive	-ուիլ
 1522	հաստել	2	քաղել	հաստ	Regular	C-initial		E-Class	-ել
 1523	հաստնալ	20	նիհարնալ	հաստ	Regular	C-initial		Inchoative	-նալ
 1524	հասցէագրել	2	քաղել	հասցէագր	Regular	C-initial		E-Class	-ել
@@ -1552,7 +1552,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1551	հաւատալ	6	կարդալ	հաւատ	Regular	C-initial		A-Class	-ալ
 1552	հաւատացնել	10	մօտեցնել	հաւատա	Regular	C-initial	Basic	Causative	-ցնել
 1553	հաւաքել	2	քաղել	հաւաք	Regular	C-initial		E-Class	-ել
-1554	հաւաքուիլ	4	զզուիլ	հաւաք	Regular	C-initial	Passive	Passive	-իլ
+1554	հաւաքուիլ	4	զզուիլ	հաւաք	Regular	C-initial	Passive	Passive	-ուիլ
 1555	հաւնիլ	4	խօսիլ	հաւն	Regular	C-initial	Basic	I-Class	-իլ
 1556	հեգել	2	քաղել	հեգ	Regular	C-initial		E-Class	-ել
 1557	հեգնել	2	քաղել	հեգն	Regular	C-initial		E-Class	-ել
@@ -1586,7 +1586,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1585	հետապնդել	2	քաղել	հետապնդ	Regular	C-initial		E-Class	-ել
 1586	հետաքննել	2	քաղել	հետաքնն	Regular	C-initial		E-Class	-ել
 1587	հետաքրքրել	2	քաղել	հետաքրքր	Regular	C-initial		E-Class	-ել
-1588	հետեւիլ	4	զզուիլ	հետ	Regular	C-initial	Passive	Passive	-իլ
+1588	հետեւիլ	4	զզուիլ	հետ	Regular	C-initial	Passive	Passive	-ուիլ
 1589	հետեւցնել	10	մօտեցնել	հետեւ	Regular	C-initial	Basic	Causative	-ցնել
 1590	հերկել	2	քաղել	հերկ	Regular	C-initial		E-Class	-ել
 1591	հերձատել	2	քաղել	հերձատ	Regular	C-initial		E-Class	-ել
@@ -1597,7 +1597,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1596	հզօրացնել	10	մօտեցնել	հզօրա	Regular	C-initial	Basic	Causative	-ցնել
 1597	հիանալ	20	նիհարնալ	հիա	Regular	C-initial		Inchoative	-նալ
 1598	հիասթափեցնել	10	մօտեցնել	հիասթափե	Regular	C-initial	Basic	Causative	-ցնել
-1599	հիասթափուիլ	4	զզուիլ	հիասթափ	Regular	C-initial	Passive	Passive	-իլ
+1599	հիասթափուիլ	4	զզուիլ	հիասթափ	Regular	C-initial	Passive	Passive	-ուիլ
 1600	հիացնել	10	մօտեցնել	հիա	Regular	C-initial	Basic	Causative	-ցնել
 1601	հիգանալ	20	նիհարնալ	հիգա	Regular	C-initial		Inchoative	-նալ
 1602	հիմնադրել	2	քաղել	հիմնադր	Regular	C-initial		E-Class	-ել
@@ -1643,7 +1643,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1642	հպարտանալ	20	նիհարնալ	հպարտա	Regular	C-initial		Inchoative	-նալ
 1643	հպիլ	4	խօսիլ	հպ	Regular	C-initial	Basic	I-Class	-իլ
 1644	հռչակել	2	քաղել	հռչակ	Regular	C-initial		E-Class	-ել
-1645	հռչակուիլ	4	զզուիլ	հռչակ	Regular	C-initial	Passive	Passive	-իլ
+1645	հռչակուիլ	4	զզուիլ	հռչակ	Regular	C-initial	Passive	Passive	-ուիլ
 1646	հսկել	2	քաղել	հսկ	Regular	C-initial		E-Class	-ել
 1647	հրաժարեցնել	10	մօտեցնել	հրաժարե	Regular	C-initial	Basic	Causative	-ցնել
 1648	հրաժարիլ	4	խօսիլ	հրաժար	Regular	C-initial	Basic	I-Class	-իլ
@@ -1660,7 +1660,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1659	հրետակոծել	2	քաղել	հրետակոծ	Regular	C-initial		E-Class	-ել
 1660	հրիտակել	2	քաղել	հրիտակ	Regular	C-initial		E-Class	-ել
 1661	հրկիզել	2	քաղել	հրկիզ	Regular	C-initial		E-Class	-ել
-1662	հրճուիլ	4	զզուիլ	հրճ	Regular	C-initial	Passive	Passive	-իլ
+1662	հրճուիլ	4	զզուիլ	հրճ	Regular	C-initial	Passive	Passive	-ուիլ
 1663	հրմշտկել	2	քաղել	հրմշտկ	Regular	C-initial		E-Class	-ել
 1664	հօտել	2	քաղել	հօտ	Regular	C-initial		E-Class	-ել
 1665	ձաբռտել	2	քաղել	ձաբռտ	Regular	C-initial		E-Class	-ել
@@ -1682,13 +1682,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1681	ձերբազատել	2	քաղել	ձերբազատ	Regular	C-initial		E-Class	-ել
 1682	ձերբազատիլ	4	խօսիլ	ձերբազատ	Regular	C-initial	Basic	I-Class	-իլ
 1683	ձերբակալել	2	քաղել	ձերբակալ	Regular	C-initial		E-Class	-ել
-1684	ձերբակալուիլ	4	զզուիլ	ձերբակալ	Regular	C-initial	Passive	Passive	-իլ
+1684	ձերբակալուիլ	4	զզուիլ	ձերբակալ	Regular	C-initial	Passive	Passive	-ուիլ
 1685	ձեւազերծել	2	քաղել	ձեւազերծ	Regular	C-initial		E-Class	-ել
 1686	ձեւակերպել	2	քաղել	ձեւակերպ	Regular	C-initial		E-Class	-ել
 1687	ձեւանալ	20	նիհարնալ	ձեւա	Regular	C-initial		Inchoative	-նալ
 1688	ձեւացնել	10	մօտեցնել	ձեւա	Regular	C-initial	Basic	Causative	-ցնել
 1689	ձեւափոխել	2	քաղել	ձեւափոխ	Regular	C-initial		E-Class	-ել
-1690	ձեւափոխուիլ	4	զզուիլ	ձեւափոխ	Regular	C-initial	Passive	Passive	-իլ
+1690	ձեւափոխուիլ	4	զզուիլ	ձեւափոխ	Regular	C-initial	Passive	Passive	-ուիլ
 1691	ձեւել	2	քաղել	ձեւ	Regular	C-initial		E-Class	-ել
 1692	ձիավարել	2	քաղել	ձիավար	Regular	C-initial		E-Class	-ել
 1693	ձիւթապատել	2	քաղել	ձիւթապատ	Regular	C-initial		E-Class	-ել
@@ -1698,12 +1698,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1697	ձողաչափել	2	քաղել	ձողաչափ	Regular	C-initial		E-Class	-ել
 1698	ձորձապատել	2	քաղել	ձորձապատ	Regular	C-initial		E-Class	-ել
 1699	ձուլել	2	քաղել	ձուլ	Regular	C-initial		E-Class	-ել
-1700	ձուլուիլ	4	զզուիլ	ձուլ	Regular	C-initial	Passive	Passive	-իլ
+1700	ձուլուիլ	4	զզուիլ	ձուլ	Regular	C-initial	Passive	Passive	-ուիլ
 1701	ձօնել	2	քաղել	ձօն	Regular	C-initial		E-Class	-ել
 1702	ղեկավարել	2	քաղել	ղեկավար	Regular	C-initial		E-Class	-ել
-1703	ղեկավարուիլ	4	զզուիլ	ղեկավար	Regular	C-initial	Passive	Passive	-իլ
+1703	ղեկավարուիլ	4	զզուիլ	ղեկավար	Regular	C-initial	Passive	Passive	-ուիլ
 1704	ղրկել	2	քաղել	ղրկ	Regular	C-initial		E-Class	-ել
-1705	ղրկուիլ	4	զզուիլ	ղրկ	Regular	C-initial	Passive	Passive	-իլ
+1705	ղրկուիլ	4	զզուիլ	ղրկ	Regular	C-initial	Passive	Passive	-ուիլ
 1706	ղօղանջել	2	քաղել	ղօղանջ	Regular	C-initial		E-Class	-ել
 1707	ղօղիլ	4	խօսիլ	ղօղ	Regular	C-initial	Basic	I-Class	-իլ
 1708	ճաթեցնել	10	մօտեցնել	ճաթե	Regular	C-initial	Basic	Causative	-ցնել
@@ -1734,18 +1734,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1733	ճարպոտել	2	քաղել	ճարպոտ	Regular	C-initial		E-Class	-ել
 1734	ճգնիլ	4	խօսիլ	ճգն	Regular	C-initial	Basic	I-Class	-իլ
 1735	ճեղքել	2	քաղել	ճեղք	Regular	C-initial		E-Class	-ել
-1736	ճեղքուիլ	4	զզուիլ	ճեղք	Regular	C-initial	Passive	Passive	-իլ
+1736	ճեղքուիլ	4	զզուիլ	ճեղք	Regular	C-initial	Passive	Passive	-ուիլ
 1737	ճեմել	2	քաղել	ճեմ	Regular	C-initial		E-Class	-ել
 1738	ճենճերիլ	4	խօսիլ	ճենճեր	Regular	C-initial	Basic	I-Class	-իլ
 1739	ճեպել	2	քաղել	ճեպ	Regular	C-initial		E-Class	-ել
 1740	ճերմկիլ	4	խօսիլ	ճերմկ	Regular	C-initial	Basic	I-Class	-իլ
 1741	ճզմել	2	քաղել	ճզմ	Regular	C-initial		E-Class	-ել
-1742	ճիւղաւորուիլ	4	զզուիլ	ճիւղաւոր	Regular	C-initial	Passive	Passive	-իլ
+1742	ճիւղաւորուիլ	4	զզուիլ	ճիւղաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 1743	ճկել	2	քաղել	ճկ	Regular	C-initial		E-Class	-ել
 1744	ճկիլ	4	խօսիլ	ճկ	Regular	C-initial	Basic	I-Class	-իլ
 1745	ճղել	2	քաղել	ճղ	Regular	C-initial		E-Class	-ել
 1746	ճմլել	2	քաղել	ճմլ	Regular	C-initial		E-Class	-ել
-1747	ճմլուիլ	4	զզուիլ	ճմլ	Regular	C-initial	Passive	Passive	-իլ
+1747	ճմլուիլ	4	զզուիլ	ճմլ	Regular	C-initial	Passive	Passive	-ուիլ
 1748	ճմռթկել	2	քաղել	ճմռթկ	Regular	C-initial		E-Class	-ել
 1749	ճնկել	2	քաղել	ճնկ	Regular	C-initial		E-Class	-ել
 1750	ճնշել	2	քաղել	ճնշ	Regular	C-initial		E-Class	-ել
@@ -1764,7 +1764,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1763	ճռնչել	2	քաղել	ճռնչ	Regular	C-initial		E-Class	-ել
 1764	ճռուողել	2	քաղել	ճռուող	Regular	C-initial		E-Class	-ել
 1765	ճօճել	2	քաղել	ճօճ	Regular	C-initial		E-Class	-ել
-1766	ճօճուիլ	4	զզուիլ	ճօճ	Regular	C-initial	Passive	Passive	-իլ
+1766	ճօճուիլ	4	զզուիլ	ճօճ	Regular	C-initial	Passive	Passive	-ուիլ
 1767	ճօշալ	6	կարդալ	ճօշ	Regular	C-initial		A-Class	-ալ
 1768	մագլել	2	քաղել	մագլ	Regular	C-initial		E-Class	-ել
 1769	մագլցիլ	4	խօսիլ	մագլց	Regular	C-initial	Basic	I-Class	-իլ
@@ -1800,7 +1800,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1799	մատնահարել	2	քաղել	մատնահար	Regular	C-initial		E-Class	-ել
 1800	մատնանշել	2	քաղել	մատնանշ	Regular	C-initial		E-Class	-ել
 1801	մատնել	2	քաղել	մատն	Regular	C-initial		E-Class	-ել
-1802	մատնուիլ	4	զզուիլ	մատն	Regular	C-initial	Passive	Passive	-իլ
+1802	մատնուիլ	4	զզուիլ	մատն	Regular	C-initial	Passive	Passive	-ուիլ
 1803	մատուցանել	12	ծանուցանել	մատուց	Archaic	C-initial			-անել
 1804	մատուցել	2	քաղել	մատուց	Regular	C-initial		E-Class	-ել
 1805	մատչիլ	16	կպչիլ	մատ	Irregular	C-initial			-չիլ
@@ -1865,7 +1865,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1864	միացնել	10	մօտեցնել	միա	Regular	C-initial	Basic	Causative	-ցնել
 1865	միացուլել	2	քաղել	միացուլ	Regular	C-initial		E-Class	-ել
 1866	միաւորել	2	քաղել	միաւոր	Regular	C-initial		E-Class	-ել
-1867	միաւորուիլ	4	զզուիլ	միաւոր	Regular	C-initial	Passive	Passive	-իլ
+1867	միաւորուիլ	4	զզուիլ	միաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 1868	միզել	2	քաղել	միզ	Regular	C-initial		E-Class	-ել
 1869	միջադրել	2	քաղել	միջադր	Regular	C-initial		E-Class	-ել
 1870	միջամտել	2	քաղել	միջամտ	Regular	C-initial		E-Class	-ել
@@ -1877,10 +1877,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1876	մխիթարել	2	քաղել	մխիթար	Regular	C-initial		E-Class	-ել
 1877	մխտել	2	քաղել	մխտ	Regular	C-initial		E-Class	-ել
 1878	մխրճել	2	քաղել	մխրճ	Regular	C-initial		E-Class	-ել
-1879	մխրճուիլ	4	զզուիլ	մխրճ	Regular	C-initial	Passive	Passive	-իլ
+1879	մխրճուիլ	4	զզուիլ	մխրճ	Regular	C-initial	Passive	Passive	-ուիլ
 1880	մկրատել	2	քաղել	մկրատ	Regular	C-initial		E-Class	-ել
 1881	մկրտել	2	քաղել	մկրտ	Regular	C-initial		E-Class	-ել
-1882	մկրտուիլ	4	զզուիլ	մկրտ	Regular	C-initial	Passive	Passive	-իլ
+1882	մկրտուիլ	4	զզուիլ	մկրտ	Regular	C-initial	Passive	Passive	-ուիլ
 1883	մղել	2	քաղել	մղ	Regular	C-initial		E-Class	-ել
 1884	մղկտալ	6	կարդալ	մղկտ	Regular	C-initial		A-Class	-ալ
 1885	մղձկիլ	4	խօսիլ	մղձկ	Regular	C-initial	Basic	I-Class	-իլ
@@ -1892,7 +1892,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1891	մոլեգնիլ	4	խօսիլ	մոլեգն	Regular	C-initial	Basic	I-Class	-իլ
 1892	մոլորել	2	քաղել	մոլոր	Regular	C-initial		E-Class	-ել
 1893	մոլորիլ	4	խօսիլ	մոլոր	Regular	C-initial	Basic	I-Class	-իլ
-1894	մոլորուիլ	4	զզուիլ	մոլոր	Regular	C-initial	Passive	Passive	-իլ
+1894	մոլորուիլ	4	զզուիլ	մոլոր	Regular	C-initial	Passive	Passive	-ուիլ
 1895	մոխրանալ	20	նիհարնալ	մոխրա	Regular	C-initial		Inchoative	-նալ
 1896	մոխրացնել	10	մօտեցնել	մոխրա	Regular	C-initial	Basic	Causative	-ցնել
 1897	մոռնալ	20	նիհարնալ	մոռ	Regular	C-initial		Inchoative	-նալ
@@ -1914,16 +1914,16 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1913	մտադրել	2	քաղել	մտադր	Regular	C-initial		E-Class	-ել
 1914	մտածել	2	քաղել	մտած	Regular	C-initial		E-Class	-ել
 1915	մտահոգել	2	քաղել	մտահոգ	Regular	C-initial		E-Class	-ել
-1916	մտահոգուիլ	4	զզուիլ	մտահոգ	Regular	C-initial	Passive	Passive	-իլ
-1917	մտամփոփուիլ	4	զզուիլ	մտամփոփ	Regular	C-initial	Passive	Passive	-իլ
+1916	մտահոգուիլ	4	զզուիլ	մտահոգ	Regular	C-initial	Passive	Passive	-ուիլ
+1917	մտամփոփուիլ	4	զզուիլ	մտամփոփ	Regular	C-initial	Passive	Passive	-ուիլ
 1918	մտատանջել	2	քաղել	մտատանջ	Regular	C-initial		E-Class	-ել
-1919	մտատանջուիլ	4	զզուիլ	մտատանջ	Regular	C-initial	Passive	Passive	-իլ
+1919	մտատանջուիլ	4	զզուիլ	մտատանջ	Regular	C-initial	Passive	Passive	-ուիլ
 1920	մտերմանալ	20	նիհարնալ	մտերմա	Regular	C-initial		Inchoative	-նալ
 1921	մտմտալ	6	կարդալ	մտմտ	Regular	C-initial		A-Class	-ալ
 1922	մտնալ	24	գտնալ	մտ	Irregular	C-initial	Theme -a-		-նալ
 1923	մտնել	24	գտնել	մտ	Irregular	C-initial	Theme -e-		-նել
 1924	մտրակել	2	քաղել	մտրակ	Regular	C-initial		E-Class	-ել
-1925	մտրակուիլ	4	զզուիլ	մտրակ	Regular	C-initial	Passive	Passive	-իլ
+1925	մտրակուիլ	4	զզուիլ	մտրակ	Regular	C-initial	Passive	Passive	-ուիլ
 1926	մրափել	2	քաղել	մրափ	Regular	C-initial		E-Class	-ել
 1927	մրթմրթալ	6	կարդալ	մրթմրթ	Regular	C-initial		A-Class	-ալ
 1928	մրկել	2	քաղել	մրկ	Regular	C-initial		E-Class	-ել
@@ -1931,7 +1931,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1930	մրճոտել	2	քաղել	մրճոտ	Regular	C-initial		E-Class	-ել
 1931	մրմնջել	2	քաղել	մրմնջ	Regular	C-initial		E-Class	-ել
 1932	մրոտել	2	քաղել	մրոտ	Regular	C-initial		E-Class	-ել
-1933	մրոտուիլ	4	զզուիլ	մրոտ	Regular	C-initial	Passive	Passive	-իլ
+1933	մրոտուիլ	4	զզուիլ	մրոտ	Regular	C-initial	Passive	Passive	-ուիլ
 1934	մրրկիլ	4	խօսիլ	մրրկ	Regular	C-initial	Basic	I-Class	-իլ
 1935	մրցակցիլ	4	խօսիլ	մրցակց	Regular	C-initial	Basic	I-Class	-իլ
 1936	մրցիլ	4	խօսիլ	մրց	Regular	C-initial	Basic	I-Class	-իլ
@@ -1944,7 +1944,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1943	յագեցնել	10	մօտեցնել	յագե	Regular	C-initial	Basic	Causative	-ցնել
 1944	յածիլ	4	խօսիլ	յած	Regular	C-initial	Basic	I-Class	-իլ
 1945	յաղթահարել	2	քաղել	յաղթահար	Regular	C-initial		E-Class	-ել
-1946	յաղթահարուիլ	4	զզուիլ	յաղթահար	Regular	C-initial	Passive	Passive	-իլ
+1946	յաղթահարուիլ	4	զզուիլ	յաղթահար	Regular	C-initial	Passive	Passive	-ուիլ
 1947	յաղթանակել	2	քաղել	յաղթանակ	Regular	C-initial		E-Class	-ել
 1948	յաղթել	2	քաղել	յաղթ	Regular	C-initial		E-Class	-ել
 1949	յաճախել	2	քաղել	յաճախ	Regular	C-initial		E-Class	-ել
@@ -1960,10 +1960,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 1959	յանդիմանել	2	քաղել	յանդիման	Regular	C-initial		E-Class	-ել
 1960	յանձանձել	2	քաղել	յանձանձ	Regular	C-initial		E-Class	-ել
 1961	յանձնարարել	2	քաղել	յանձնարար	Regular	C-initial		E-Class	-ել
-1962	յանձնարարուիլ	4	զզուիլ	յանձնարար	Regular	C-initial	Passive	Passive	-իլ
+1962	յանձնարարուիլ	4	զզուիլ	յանձնարար	Regular	C-initial	Passive	Passive	-ուիլ
 1963	յանձնել	2	քաղել	յանձն	Regular	C-initial		E-Class	-ել
-1964	յանձնուիլ	4	զզուիլ	յանձն	Regular	C-initial	Passive	Passive	-իլ
-1965	յաշթուիլ	4	զզուիլ	յաշթ	Regular	C-initial	Passive	Passive	-իլ
+1964	յանձնուիլ	4	զզուիլ	յանձն	Regular	C-initial	Passive	Passive	-ուիլ
+1965	յաշթուիլ	4	զզուիլ	յաշթ	Regular	C-initial	Passive	Passive	-ուիլ
 1966	յաչաղել	2	քաղել	յաչաղ	Regular	C-initial		E-Class	-ել
 1967	յապաղիլ	4	խօսիլ	յապաղ	Regular	C-initial	Basic	I-Class	-իլ
 1968	յապաւել	2	քաղել	յապաւ	Regular	C-initial		E-Class	-ել
@@ -2031,18 +2031,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2030	յորդորել	2	քաղել	յորդոր	Regular	C-initial		E-Class	-ել
 2031	յորջորջել	2	քաղել	յորջորջ	Regular	C-initial		E-Class	-ել
 2032	յուզել	2	քաղել	յուզ	Regular	C-initial		E-Class	-ել
-2033	յուզուիլ	4	զզուիլ	յուզ	Regular	C-initial	Passive	Passive	-իլ
+2033	յուզուիլ	4	զզուիլ	յուզ	Regular	C-initial	Passive	Passive	-ուիլ
 2034	յուլանալ	20	նիհարնալ	յուլա	Regular	C-initial		Inchoative	-նալ
 2035	յուշել	2	քաղել	յուշ	Regular	C-initial		E-Class	-ել
 2036	յուռթիանալ	20	նիհարնալ	յուռթիա	Regular	C-initial		Inchoative	-նալ
 2037	յուսադրել	2	քաղել	յուսադր	Regular	C-initial		E-Class	-ել
 2038	յուսալ	6	կարդալ	յուս	Regular	C-initial		A-Class	-ալ
-2039	յուսալքուիլ	4	զզուիլ	յուսալք	Regular	C-initial	Passive	Passive	-իլ
+2039	յուսալքուիլ	4	զզուիլ	յուսալք	Regular	C-initial	Passive	Passive	-ուիլ
 2040	յուսախաբել	2	քաղել	յուսախաբ	Regular	C-initial		E-Class	-ել
-2041	յուսախաբուիլ	4	զզուիլ	յուսախաբ	Regular	C-initial	Passive	Passive	-իլ
+2041	յուսախաբուիլ	4	զզուիլ	յուսախաբ	Regular	C-initial	Passive	Passive	-ուիլ
 2042	յուսահատեցնել	10	մօտեցնել	յուսահատե	Regular	C-initial	Basic	Causative	-ցնել
 2043	յուսահատիլ	4	խօսիլ	յուսահատ	Regular	C-initial	Basic	I-Class	-իլ
-2044	յռշոտուիլ	4	զզուիլ	յռշոտ	Regular	C-initial	Passive	Passive	-իլ
+2044	յռշոտուիլ	4	զզուիլ	յռշոտ	Regular	C-initial	Passive	Passive	-ուիլ
 2045	յստականալ	20	նիհարնալ	յստակա	Regular	C-initial		Inchoative	-նալ
 2046	յստակացնել	10	մօտեցնել	յստակա	Regular	C-initial	Basic	Causative	-ցնել
 2047	յօդաւորել	2	քաղել	յօդաւոր	Regular	C-initial		E-Class	-ել
@@ -2061,7 +2061,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2060	նախաճաշել	2	քաղել	նախաճաշ	Regular	C-initial		E-Class	-ել
 2061	նախանձիլ	4	խօսիլ	նախանձ	Regular	C-initial	Basic	I-Class	-իլ
 2062	նախապատրաստել	2	քաղել	նախապատրաստ	Regular	C-initial		E-Class	-ել
-2063	նախապատրաստուիլ	4	զզուիլ	նախապատրաստ	Regular	C-initial	Passive	Passive	-իլ
+2063	նախապատրաստուիլ	4	զզուիլ	նախապատրաստ	Regular	C-initial	Passive	Passive	-ուիլ
 2064	նախասահմանել	2	քաղել	նախասահման	Regular	C-initial		E-Class	-ել
 2065	նախատել	2	քաղել	նախատ	Regular	C-initial		E-Class	-ել
 2066	նախատեսել	2	քաղել	նախատես	Regular	C-initial		E-Class	-ել
@@ -2071,7 +2071,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2070	նախորոշել	2	քաղել	նախորոշ	Regular	C-initial		E-Class	-ել
 2071	նահանջել	2	քաղել	նահանջ	Regular	C-initial		E-Class	-ել
 2072	նահատակել	2	քաղել	նահատակ	Regular	C-initial		E-Class	-ել
-2073	նահատակուիլ	4	զզուիլ	նահատակ	Regular	C-initial	Passive	Passive	-իլ
+2073	նահատակուիլ	4	զզուիլ	նահատակ	Regular	C-initial	Passive	Passive	-ուիլ
 2074	նայիլ	4	խօսիլ	նայ	Regular	C-initial	Basic	I-Class	-իլ
 2075	նաւավարել	2	քաղել	նաւավար	Regular	C-initial		E-Class	-ել
 2076	նաւարկել	2	քաղել	նաւարկ	Regular	C-initial		E-Class	-ել
@@ -2081,14 +2081,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2080	նեղացնել	10	մօտեցնել	նեղա	Regular	C-initial	Basic	Causative	-ցնել
 2081	նեղել	2	քաղել	նեղ	Regular	C-initial		E-Class	-ել
 2082	նեղնալ	20	նիհարնալ	նեղ	Regular	C-initial		Inchoative	-նալ
-2083	նեղուիլ	4	զզուիլ	նեղ	Regular	C-initial	Passive	Passive	-իլ
+2083	նեղուիլ	4	զզուիլ	նեղ	Regular	C-initial	Passive	Passive	-ուիլ
 2084	նեղցնել	10	մօտեցնել	նեղ	Regular	C-initial	Basic	Causative	-ցնել
 2085	նենգափոխել	2	քաղել	նենգափոխ	Regular	C-initial		E-Class	-ել
 2086	նենգել	2	քաղել	նենգ	Regular	C-initial		E-Class	-ել
 2087	նետահարել	2	քաղել	նետահար	Regular	C-initial		E-Class	-ել
-2088	նետահարուիլ	4	զզուիլ	նետահար	Regular	C-initial	Passive	Passive	-իլ
+2088	նետահարուիլ	4	զզուիլ	նետահար	Regular	C-initial	Passive	Passive	-ուիլ
 2089	նետել	2	քաղել	նետ	Regular	C-initial		E-Class	-ել
-2090	նետուիլ	4	զզուիլ	նետ	Regular	C-initial	Passive	Passive	-իլ
+2090	նետուիլ	4	զզուիլ	նետ	Regular	C-initial	Passive	Passive	-ուիլ
 2091	ներածել	2	քաղել	ներած	Regular	C-initial		E-Class	-ել
 2092	ներարկել	2	քաղել	ներարկ	Regular	C-initial		E-Class	-ել
 2093	ներբողել	2	քաղել	ներբող	Regular	C-initial		E-Class	-ել
@@ -2104,7 +2104,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2103	ներկել	2	քաղել	ներկ	Regular	C-initial		E-Class	-ել
 2104	ներմուծել	2	քաղել	ներմուծ	Regular	C-initial		E-Class	-ել
 2105	ներշնչել	2	քաղել	ներշնչ	Regular	C-initial		E-Class	-ել
-2106	ներշնչուիլ	4	զզուիլ	ներշնչ	Regular	C-initial	Passive	Passive	-իլ
+2106	ներշնչուիլ	4	զզուիլ	ներշնչ	Regular	C-initial	Passive	Passive	-ուիլ
 2107	ներփակել	2	քաղել	ներփակ	Regular	C-initial		E-Class	-ել
 2108	ներքինանալ	20	նիհարնալ	ներքինա	Regular	C-initial		Inchoative	-նալ
 2109	ներքինացնել	10	մօտեցնել	ներքինա	Regular	C-initial	Basic	Causative	-ցնել
@@ -2125,10 +2125,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2124	ննջեցնել	10	մօտեցնել	ննջե	Regular	C-initial	Basic	Causative	-ցնել
 2125	նշանադրել	2	քաղել	նշանադր	Regular	C-initial		E-Class	-ել
 2126	նշանակել	2	քաղել	նշանակ	Regular	C-initial		E-Class	-ել
-2127	նշանակուիլ	4	զզուիլ	նշանակ	Regular	C-initial	Passive	Passive	-իլ
+2127	նշանակուիլ	4	զզուիլ	նշանակ	Regular	C-initial	Passive	Passive	-ուիլ
 2128	նշանահարել	2	քաղել	նշանահար	Regular	C-initial		E-Class	-ել
 2129	նշանել	2	քաղել	նշան	Regular	C-initial		E-Class	-ել
-2130	նշանուիլ	4	զզուիլ	նշան	Regular	C-initial	Passive	Passive	-իլ
+2130	նշանուիլ	4	զզուիլ	նշան	Regular	C-initial	Passive	Passive	-ուիլ
 2131	նշաւակել	2	քաղել	նշաւակ	Regular	C-initial		E-Class	-ել
 2132	նշկահել	2	քաղել	նշկահ	Regular	C-initial		E-Class	-ել
 2133	նշմարել	2	քաղել	նշմար	Regular	C-initial		E-Class	-ել
@@ -2140,7 +2140,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2139	նոյնացնել	10	մօտեցնել	նոյնա	Regular	C-initial	Basic	Causative	-ցնել
 2140	նորել	2	քաղել	նոր	Regular	C-initial		E-Class	-ել
 2141	նորոգել	2	քաղել	նորոգ	Regular	C-initial		E-Class	-ել
-2142	նորոգուիլ	4	զզուիլ	նորոգ	Regular	C-initial	Passive	Passive	-իլ
+2142	նորոգուիլ	4	զզուիլ	նորոգ	Regular	C-initial	Passive	Passive	-ուիլ
 2143	նուագակցիլ	4	խօսիլ	նուագակց	Regular	C-initial	Basic	I-Class	-իլ
 2144	նուագել	2	քաղել	նուագ	Regular	C-initial		E-Class	-ել
 2145	նուազեցնել	10	մօտեցնել	նուազե	Regular	C-initial	Basic	Causative	-ցնել
@@ -2149,13 +2149,13 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2148	նուաղեցնել	10	մօտեցնել	նուաղե	Regular	C-initial	Basic	Causative	-ցնել
 2149	նուաղիլ	4	խօսիլ	նուաղ	Regular	C-initial	Basic	I-Class	-իլ
 2150	նուաճել	2	քաղել	նուաճ	Regular	C-initial		E-Class	-ել
-2151	նուաճուիլ	4	զզուիլ	նուաճ	Regular	C-initial	Passive	Passive	-իլ
+2151	նուաճուիլ	4	զզուիլ	նուաճ	Regular	C-initial	Passive	Passive	-ուիլ
 2152	նուաստանալ	20	նիհարնալ	նուաստա	Regular	C-initial		Inchoative	-նալ
 2153	նուաստացնել	10	մօտեցնել	նուաստա	Regular	C-initial	Basic	Causative	-ցնել
 2154	նուիրաբերել	38	բերել	նուիրաբեր	Irregular	C-initial			-ել
 2155	նուիրագործել	2	քաղել	նուիրագործ	Regular	C-initial		E-Class	-ել
 2156	նուիրել	2	քաղել	նուիր	Regular	C-initial		E-Class	-ել
-2157	նուիրուիլ	4	զզուիլ	նուիր	Regular	C-initial	Passive	Passive	-իլ
+2157	նուիրուիլ	4	զզուիլ	նուիր	Regular	C-initial	Passive	Passive	-ուիլ
 2158	նպաստաւորել	2	քաղել	նպաստաւոր	Regular	C-initial		E-Class	-ել
 2159	նպաստել	2	քաղել	նպաստ	Regular	C-initial		E-Class	-ել
 2160	նպատակադրել	2	քաղել	նպատակադր	Regular	C-initial		E-Class	-ել
@@ -2181,11 +2181,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2180	շաղափել	2	քաղել	շաղափ	Regular	C-initial		E-Class	-ել
 2181	շաղել	2	քաղել	շաղ	Regular	C-initial		E-Class	-ել
 2182	շաղկապել	2	քաղել	շաղկապ	Regular	C-initial		E-Class	-ել
-2183	շաղուիլ	4	զզուիլ	շաղ	Regular	C-initial	Passive	Passive	-իլ
+2183	շաղուիլ	4	զզուիլ	շաղ	Regular	C-initial	Passive	Passive	-ուիլ
 2184	շաղփաղփել	2	քաղել	շաղփաղփ	Regular	C-initial		E-Class	-ել
 2185	շամփրել	2	քաղել	շամփր	Regular	C-initial		E-Class	-ել
 2186	շանթահարել	2	քաղել	շանթահար	Regular	C-initial		E-Class	-ել
-2187	շանթահարուիլ	4	զզուիլ	շանթահար	Regular	C-initial	Passive	Passive	-իլ
+2187	շանթահարուիլ	4	զզուիլ	շանթահար	Regular	C-initial	Passive	Passive	-ուիլ
 2188	շանթել	2	քաղել	շանթ	Regular	C-initial		E-Class	-ել
 2189	շաչել	2	քաղել	շաչ	Regular	C-initial		E-Class	-ել
 2190	շառագունիլ	4	խօսիլ	շառագուն	Regular	C-initial	Basic	I-Class	-իլ
@@ -2205,7 +2205,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2204	շարժել	2	քաղել	շարժ	Regular	C-initial		E-Class	-ել
 2205	շարժիլ	4	խօսիլ	շարժ	Regular	C-initial	Basic	I-Class	-իլ
 2206	շարժտկիլ	4	խօսիլ	շարժտկ	Regular	C-initial	Basic	I-Class	-իլ
-2207	շարուիլ	4	զզուիլ	շար	Regular	C-initial	Passive	Passive	-իլ
+2207	շարուիլ	4	զզուիլ	շար	Regular	C-initial	Passive	Passive	-ուիլ
 2208	շարունակել	2	քաղել	շարունակ	Regular	C-initial		E-Class	-ել
 2209	շաքլիլ	4	խօսիլ	շաքլ	Regular	C-initial	Basic	I-Class	-իլ
 2210	շեղել	2	քաղել	շեղ	Regular	C-initial		E-Class	-ել
@@ -2231,7 +2231,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2230	շխրտացնել	10	մօտեցնել	շխրտա	Regular	C-initial	Basic	Causative	-ցնել
 2231	շկահել	2	քաղել	շկահ	Regular	C-initial		E-Class	-ել
 2232	շղթայազերծել	2	քաղել	շղթայազերծ	Regular	C-initial		E-Class	-ել
-2233	շղթայազերծուիլ	4	զզուիլ	շղթայազերծ	Regular	C-initial	Passive	Passive	-իլ
+2233	շղթայազերծուիլ	4	զզուիլ	շղթայազերծ	Regular	C-initial	Passive	Passive	-ուիլ
 2234	շղթայել	2	քաղել	շղթայ	Regular	C-initial		E-Class	-ել
 2235	շնալ	20	նիհարնալ	շ	Regular	C-initial		Inchoative	-նալ
 2236	շնանալ	20	նիհարնալ	շնա	Regular	C-initial		Inchoative	-նալ
@@ -2256,7 +2256,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2255	շողոմել	2	քաղել	շողոմ	Regular	C-initial		E-Class	-ել
 2256	շողոքորթել	2	քաղել	շողոքորթ	Regular	C-initial		E-Class	-ել
 2257	շոյել	2	քաղել	շոյ	Regular	C-initial		E-Class	-ել
-2258	շոյուիլ	4	զզուիլ	շոյ	Regular	C-initial	Passive	Passive	-իլ
+2258	շոյուիլ	4	զզուիլ	շոյ	Regular	C-initial	Passive	Passive	-ուիլ
 2259	շոպել	2	քաղել	շոպ	Regular	C-initial		E-Class	-ել
 2260	շոպշոպել	2	քաղել	շոպշոպ	Regular	C-initial		E-Class	-ել
 2261	շորթել	2	քաղել	շորթ	Regular	C-initial		E-Class	-ել
@@ -2266,23 +2266,23 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2265	շուարեցնել	10	մօտեցնել	շուարե	Regular	C-initial	Basic	Causative	-ցնել
 2266	շուարիլ	4	խօսիլ	շուար	Regular	C-initial	Basic	I-Class	-իլ
 2267	շուլլել	2	քաղել	շուլլ	Regular	C-initial		E-Class	-ել
-2268	շուլլուիլ	4	զզուիլ	շուլլ	Regular	C-initial	Passive	Passive	-իլ
+2268	շուլլուիլ	4	զզուիլ	շուլլ	Regular	C-initial	Passive	Passive	-ուիլ
 2269	շչել	2	քաղել	շչ	Regular	C-initial		E-Class	-ել
 2270	շպարել	2	քաղել	շպար	Regular	C-initial		E-Class	-ել
-2271	շպարուիլ	4	զզուիլ	շպար	Regular	C-initial	Passive	Passive	-իլ
+2271	շպարուիլ	4	զզուիլ	շպար	Regular	C-initial	Passive	Passive	-ուիլ
 2272	շպրտել	2	քաղել	շպրտ	Regular	C-initial		E-Class	-ել
 2273	շռայլել	2	քաղել	շռայլ	Regular	C-initial		E-Class	-ել
 2274	շռել	2	քաղել	շռ	Regular	C-initial		E-Class	-ել
 2275	շռնդալ	6	կարդալ	շռնդ	Regular	C-initial		A-Class	-ալ
 2276	շտապել	2	քաղել	շտապ	Regular	C-initial		E-Class	-ել
 2277	շտկել	2	քաղել	շտկ	Regular	C-initial		E-Class	-ել
-2278	շտկուիլ	4	զզուիլ	շտկ	Regular	C-initial	Passive	Passive	-իլ
+2278	շտկուիլ	4	զզուիլ	շտկ	Regular	C-initial	Passive	Passive	-ուիլ
 2279	շտկռտել	2	քաղել	շտկռտ	Regular	C-initial		E-Class	-ել
 2280	շրջագայիլ	4	խօսիլ	շրջագայ	Regular	C-initial	Basic	I-Class	-իլ
 2281	շրջանակել	2	քաղել	շրջանակ	Regular	C-initial		E-Class	-ել
 2282	շրջանցել	2	քաղել	շրջանց	Regular	C-initial		E-Class	-ել
 2283	շրջապատել	2	քաղել	շրջապատ	Regular	C-initial		E-Class	-ել
-2284	շրջապատուիլ	4	զզուիլ	շրջապատ	Regular	C-initial	Passive	Passive	-իլ
+2284	շրջապատուիլ	4	զզուիլ	շրջապատ	Regular	C-initial	Passive	Passive	-ուիլ
 2285	շրջափակել	2	քաղել	շրջափակ	Regular	C-initial		E-Class	-ել
 2286	շրջել	2	քաղել	շրջ	Regular	C-initial		E-Class	-ել
 2287	շրջիլ	4	խօսիլ	շրջ	Regular	C-initial	Basic	I-Class	-իլ
@@ -2292,26 +2292,26 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2291	շփոթել	2	քաղել	շփոթ	Regular	C-initial		E-Class	-ել
 2292	շփոթեցնել	10	մօտեցնել	շփոթե	Regular	C-initial	Basic	Causative	-ցնել
 2293	շփոթիլ	4	խօսիլ	շփոթ	Regular	C-initial	Basic	I-Class	-իլ
-2294	շփուիլ	4	զզուիլ	շփ	Regular	C-initial	Passive	Passive	-իլ
-2295	շքուիլ	4	զզուիլ	շք	Regular	C-initial	Passive	Passive	-իլ
+2294	շփուիլ	4	զզուիլ	շփ	Regular	C-initial	Passive	Passive	-ուիլ
+2295	շքուիլ	4	զզուիլ	շք	Regular	C-initial	Passive	Passive	-ուիլ
 2296	շօշափել	2	քաղել	շօշափ	Regular	C-initial		E-Class	-ել
 2297	ոգել	2	քաղել	ոգ	Regular	C-initial		E-Class	-ել
 2298	ոգեկոչել	2	քաղել	ոգեկոչ	Regular	C-initial		E-Class	-ել
 2299	ոգեւորել	2	քաղել	ոգեւոր	Regular	C-initial		E-Class	-ել
-2300	ոգեւորուիլ	4	զզուիլ	ոգեւոր	Regular	C-initial	Passive	Passive	-իլ
+2300	ոգեւորուիլ	4	զզուիլ	ոգեւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2301	ոգորիլ	4	խօսիլ	ոգոր	Regular	C-initial	Basic	I-Class	-իլ
 2302	ոլորել	2	քաղել	ոլոր	Regular	C-initial		E-Class	-ել
-2303	ոլորուիլ	4	զզուիլ	ոլոր	Regular	C-initial	Passive	Passive	-իլ
+2303	ոլորուիլ	4	զզուիլ	ոլոր	Regular	C-initial	Passive	Passive	-ուիլ
 2304	ոխալ	6	կարդալ	ոխ	Regular	C-initial		A-Class	-ալ
 2305	ողբալ	6	կարդալ	ողբ	Regular	C-initial		A-Class	-ալ
 2306	ողբակցիլ	4	խօսիլ	ողբակց	Regular	C-initial	Basic	I-Class	-իլ
 2307	ողողել	2	քաղել	ողող	Regular	C-initial		E-Class	-ել
-2308	ողողուիլ	4	զզուիլ	ողող	Regular	C-initial	Passive	Passive	-իլ
+2308	ողողուիլ	4	զզուիլ	ողող	Regular	C-initial	Passive	Passive	-ուիլ
 2309	ողորկել	2	քաղել	ողորկ	Regular	C-initial		E-Class	-ել
 2310	ողորմիլ	4	խօսիլ	ողորմ	Regular	C-initial	Basic	I-Class	-իլ
 2311	ողոքել	2	քաղել	ողոք	Regular	C-initial		E-Class	-ել
 2312	ողջագուրել	2	քաղել	ողջագուր	Regular	C-initial		E-Class	-ել
-2313	ողջագուրուիլ	4	զզուիլ	ողջագուր	Regular	C-initial	Passive	Passive	-իլ
+2313	ողջագուրուիլ	4	զզուիլ	ողջագուր	Regular	C-initial	Passive	Passive	-ուիլ
 2314	ողջակիզել	2	քաղել	ողջակիզ	Regular	C-initial		E-Class	-ել
 2315	ողջանալ	20	նիհարնալ	ողջա	Regular	C-initial		Inchoative	-նալ
 2316	ողջացնել	10	մօտեցնել	ողջա	Regular	C-initial	Basic	Causative	-ցնել
@@ -2341,7 +2341,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2340	որձատել	2	քաղել	որձատ	Regular	C-initial		E-Class	-ել
 2341	որոնել	2	քաղել	որոն	Regular	C-initial		E-Class	-ել
 2342	որոշել	2	քաղել	որոշ	Regular	C-initial		E-Class	-ել
-2343	որոշուիլ	4	զզուիլ	որոշ	Regular	C-initial	Passive	Passive	-իլ
+2343	որոշուիլ	4	զզուիլ	որոշ	Regular	C-initial	Passive	Passive	-ուիլ
 2344	որոտալ	6	կարդալ	որոտ	Regular	C-initial		A-Class	-ալ
 2345	որջանալ	20	նիհարնալ	որջա	Regular	C-initial		Inchoative	-նալ
 2346	որռճալ	6	կարդալ	որռճ	Regular	C-initial		A-Class	-ալ
@@ -2358,7 +2358,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2357	ուղարկել	1	երգել	ուղարկ	Regular	V-initial		E-Class	-ել
 2358	ուղեկցիլ	3	ապրիլ	ուղեկց	Regular	V-initial	Basic	I-Class	-իլ
 2359	ուղեւորել	1	երգել	ուղեւոր	Regular	V-initial		E-Class	-ել
-2360	ուղեւորուիլ	3	ածիլուիլ	ուղեւոր	Regular	V-initial	Passive	Passive	-իլ
+2360	ուղեւորուիլ	3	ածիլուիլ	ուղեւոր	Regular	V-initial	Passive	Passive	-ուիլ
 2361	ուղղագրել	1	երգել	ուղղագր	Regular	V-initial		E-Class	-ել
 2362	ուղղել	1	երգել	ուղղ	Regular	V-initial		E-Class	-ել
 2363	ունենալ	19	ամչնալ	ունե	Regular	V-initial		Inchoative	-նալ
@@ -2371,12 +2371,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2370	ուռեցնել	9	աճեցնել	ուռե	Regular	V-initial	Basic	Causative	-ցնել
 2371	ուռիլ	3	ապրիլ	ուռ	Regular	V-initial	Basic	I-Class	-իլ
 2372	ուռճանալ	19	ամչնալ	ուռճա	Regular	V-initial		Inchoative	-նալ
-2373	ուսանիլ	3	ապրիլ	ուսան	Regular	V-initial	Passive	Passive	-իլ
+2373	ուսանիլ	3	ապրիլ	ուսան	Regular	V-initial	Passive	Passive	-ուիլ
 2374	ուսել	1	երգել	ուս	Regular	V-initial		E-Class	-ել
 2375	ուսումնասիրել	1	երգել	ուսումնասիր	Regular	V-initial		E-Class	-ել
 2376	ուսուցանել	11	ուսուցանել	ուսուց	Archaic	V-initial			-անել
 2377	ուտել	57	ուտել	ուտ	Suppletive	V-initial			-ել
-2378	ուտուիլ	3	ածիլուիլ	ուտ	Regular	V-initial	Passive	Passive	-իլ
+2378	ուտուիլ	3	ածիլուիլ	ուտ	Regular	V-initial	Passive	Passive	-ուիլ
 2379	ուրախանալ	19	ամչնալ	ուրախա	Regular	V-initial		Inchoative	-նալ
 2380	ուրախացնել	9	աճեցնել	ուրախա	Regular	V-initial	Basic	Causative	-ցնել
 2381	ուրանալ	19	ամչնալ	ուրա	Regular	V-initial		Inchoative	-նալ
@@ -2392,7 +2392,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2391	չարացնել	10	մօտեցնել	չարա	Regular	C-initial	Basic	Causative	-ցնել
 2392	չարափոխել	2	քաղել	չարափոխ	Regular	C-initial		E-Class	-ել
 2393	չարչարել	2	քաղել	չարչար	Regular	C-initial		E-Class	-ել
-2394	չարչարուիլ	4	զզուիլ	չարչար	Regular	C-initial	Passive	Passive	-իլ
+2394	չարչարուիլ	4	զզուիլ	չարչար	Regular	C-initial	Passive	Passive	-ուիլ
 2395	չարչրկել	2	քաղել	չարչրկ	Regular	C-initial		E-Class	-ել
 2396	չափագրել	2	քաղել	չափագր	Regular	C-initial		E-Class	-ել
 2397	չափազանցել	2	քաղել	չափազանց	Regular	C-initial		E-Class	-ել
@@ -2412,27 +2412,27 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2411	չքմեղել	2	քաղել	չքմեղ	Regular	C-initial		E-Class	-ել
 2412	պագնել	53	խածնել	պագ	Irregular	C-initial			-նել
 2413	պախարակել	2	քաղել	պախարակ	Regular	C-initial		E-Class	-ել
-2414	պախարակուիլ	4	զզուիլ	պախարակ	Regular	C-initial	Passive	Passive	-իլ
+2414	պախարակուիլ	4	զզուիլ	պախարակ	Regular	C-initial	Passive	Passive	-ուիլ
 2415	պակնուլ	22	զբօսնուլ	պակ	Archaic	C-initial			-նուլ
 2416	պակսեցնել	10	մօտեցնել	պակսե	Regular	C-initial	Basic	Causative	-ցնել
 2417	պակսիլ	4	խօսիլ	պակս	Regular	C-initial	Basic	I-Class	-իլ
 2418	պահանջել	2	քաղել	պահանջ	Regular	C-initial		E-Class	-ել
 2419	պահել	2	քաղել	պահ	Regular	C-initial		E-Class	-ել
 2420	պահուըտիլ	4	խօսիլ	պահուըտ	Regular	C-initial	Basic	I-Class	-իլ
-2421	պահուիլ	4	զզուիլ	պահ	Regular	C-initial	Passive	Passive	-իլ
+2421	պահուիլ	4	զզուիլ	պահ	Regular	C-initial	Passive	Passive	-ուիլ
 2422	պահպանել	2	քաղել	պահպան	Regular	C-initial		E-Class	-ել
 2423	պաղատիլ	4	խօսիլ	պաղատ	Regular	C-initial	Basic	I-Class	-իլ
 2424	պաղեցնել	10	մօտեցնել	պաղե	Regular	C-initial	Basic	Causative	-ցնել
 2425	պաղիլ	4	խօսիլ	պաղ	Regular	C-initial	Basic	I-Class	-իլ
 2426	պաղպաջիլ	4	խօսիլ	պաղպաջ	Regular	C-initial	Basic	I-Class	-իլ
 2427	պաճուճել	2	քաղել	պաճուճ	Regular	C-initial		E-Class	-ել
-2428	պաճուճուիլ	4	զզուիլ	պաճուճ	Regular	C-initial	Passive	Passive	-իլ
+2428	պաճուճուիլ	4	զզուիլ	պաճուճ	Regular	C-initial	Passive	Passive	-ուիլ
 2429	պայթեցնել	10	մօտեցնել	պայթե	Regular	C-initial	Basic	Causative	-ցնել
 2430	պայթիլ	4	խօսիլ	պայթ	Regular	C-initial	Basic	I-Class	-իլ
 2431	պայծառանալ	20	նիհարնալ	պայծառա	Regular	C-initial		Inchoative	-նալ
 2432	պայծառացնել	10	մօտեցնել	պայծառա	Regular	C-initial	Basic	Causative	-ցնել
 2433	պայմանաւորել	2	քաղել	պայմանաւոր	Regular	C-initial		E-Class	-ել
-2434	պայմանաւորուիլ	4	զզուիլ	պայմանաւոր	Regular	C-initial	Passive	Passive	-իլ
+2434	պայմանաւորուիլ	4	զզուիլ	պայմանաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2435	պայտել	2	քաղել	պայտ	Regular	C-initial		E-Class	-ել
 2436	պայքարիլ	4	խօսիլ	պայքար	Regular	C-initial	Basic	I-Class	-իլ
 2437	պանդխտիլ	4	խօսիլ	պանդխտ	Regular	C-initial	Basic	I-Class	-իլ
@@ -2442,15 +2442,15 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2441	պաշտել	2	քաղել	պաշտ	Regular	C-initial		E-Class	-ել
 2442	պաշտպանել	2	քաղել	պաշտպան	Regular	C-initial		E-Class	-ել
 2443	պաշտօնազրկել	2	քաղել	պաշտօնազրկ	Regular	C-initial		E-Class	-ել
-2444	պաշտօնազրկուիլ	4	զզուիլ	պաշտօնազրկ	Regular	C-initial	Passive	Passive	-իլ
+2444	պաշտօնազրկուիլ	4	զզուիլ	պաշտօնազրկ	Regular	C-initial	Passive	Passive	-ուիլ
 2445	պաշտօնականացնել	10	մօտեցնել	պաշտօնականա	Regular	C-initial	Basic	Causative	-ցնել
 2446	պաշտօնավարել	2	քաղել	պաշտօնավար	Regular	C-initial		E-Class	-ել
 2447	պապակիլ	4	խօսիլ	պապակ	Regular	C-initial	Basic	I-Class	-իլ
 2448	պապանձիլ	4	խօսիլ	պապանձ	Regular	C-initial	Basic	I-Class	-իլ
 2449	պապաչել	2	քաղել	պապաչ	Regular	C-initial		E-Class	-ել
 2450	պառակտել	2	քաղել	պառակտ	Regular	C-initial		E-Class	-ել
-2451	պառակտուիլ	4	զզուիլ	պառակտ	Regular	C-initial	Passive	Passive	-իլ
-2452	պառաւիլ	4	զզուիլ	պառ	Regular	C-initial	Passive	Passive	-իլ
+2451	պառակտուիլ	4	զզուիլ	պառակտ	Regular	C-initial	Passive	Passive	-ուիլ
+2452	պառաւիլ	4	զզուիլ	պառ	Regular	C-initial	Passive	Passive	-ուիլ
 2453	պառկեցնել	10	մօտեցնել	պառկե	Regular	C-initial	Basic	Causative	-ցնել
 2454	պառկիլ	4	խօսիլ	պառկ	Regular	C-initial	Basic	I-Class	-իլ
 2455	պասքեցնել	10	մօտեցնել	պասքե	Regular	C-initial	Basic	Causative	-ցնել
@@ -2465,7 +2465,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2464	պատել	2	քաղել	պատ	Regular	C-initial		E-Class	-ել
 2465	պատերազմիլ	4	խօսիլ	պատերազմ	Regular	C-initial	Basic	I-Class	-իլ
 2466	պատժել	2	քաղել	պատժ	Regular	C-initial		E-Class	-ել
-2467	պատժուիլ	4	զզուիլ	պատժ	Regular	C-initial	Passive	Passive	-իլ
+2467	պատժուիլ	4	զզուիլ	պատժ	Regular	C-initial	Passive	Passive	-ուիլ
 2468	պատկանիլ	4	խօսիլ	պատկան	Regular	C-initial	Basic	I-Class	-իլ
 2469	պատկառիլ	4	խօսիլ	պատկառ	Regular	C-initial	Basic	I-Class	-իլ
 2470	պատկերազարդել	2	քաղել	պատկերազարդ	Regular	C-initial		E-Class	-ել
@@ -2479,18 +2479,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2478	պատշաճեցնել	10	մօտեցնել	պատշաճե	Regular	C-initial	Basic	Causative	-ցնել
 2479	պատշաճիլ	4	խօսիլ	պատշաճ	Regular	C-initial	Basic	I-Class	-իլ
 2480	պատուաստել	2	քաղել	պատուաստ	Regular	C-initial		E-Class	-ել
-2481	պատուաստուիլ	4	զզուիլ	պատուաստ	Regular	C-initial	Passive	Passive	-իլ
+2481	պատուաստուիլ	4	զզուիլ	պատուաստ	Regular	C-initial	Passive	Passive	-ուիլ
 2482	պատուել	2	քաղել	պատու	Regular	C-initial		E-Class	-ել
 2483	պատուիրել	2	քաղել	պատուիր	Regular	C-initial		E-Class	-ել
 2484	պատուհասել	2	քաղել	պատուհաս	Regular	C-initial		E-Class	-ել
 2485	պատռել	2	քաղել	պատռ	Regular	C-initial		E-Class	-ել
-2486	պատռուիլ	4	զզուիլ	պատռ	Regular	C-initial	Passive	Passive	-իլ
+2486	պատռուիլ	4	զզուիլ	պատռ	Regular	C-initial	Passive	Passive	-ուիլ
 2487	պատռտել	2	քաղել	պատռտ	Regular	C-initial		E-Class	-ել
-2488	պատռտուիլ	4	զզուիլ	պատռտ	Regular	C-initial	Passive	Passive	-իլ
+2488	պատռտուիլ	4	զզուիլ	պատռտ	Regular	C-initial	Passive	Passive	-ուիլ
 2489	պատսպարել	2	քաղել	պատսպար	Regular	C-initial		E-Class	-ել
-2490	պատսպարուիլ	4	զզուիլ	պատսպար	Regular	C-initial	Passive	Passive	-իլ
+2490	պատսպարուիլ	4	զզուիլ	պատսպար	Regular	C-initial	Passive	Passive	-ուիլ
 2491	պատրաստել	2	քաղել	պատրաստ	Regular	C-initial		E-Class	-ել
-2492	պատրաստուիլ	4	զզուիլ	պատրաստ	Regular	C-initial	Passive	Passive	-իլ
+2492	պատրաստուիլ	4	զզուիլ	պատրաստ	Regular	C-initial	Passive	Passive	-ուիլ
 2493	պատրել	2	քաղել	պատր	Regular	C-initial		E-Class	-ել
 2494	պատրուակել	2	քաղել	պատրուակ	Regular	C-initial		E-Class	-ել
 2495	պատրուսել	2	քաղել	պատրուս	Regular	C-initial		E-Class	-ել
@@ -2504,29 +2504,29 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2503	պարգեւել	2	քաղել	պարգեւ	Regular	C-initial		E-Class	-ել
 2504	պարել	2	քաղել	պար	Regular	C-initial		E-Class	-ել
 2505	պարենաւորել	2	քաղել	պարենաւոր	Regular	C-initial		E-Class	-ել
-2506	պարենաւորուիլ	4	զզուիլ	պարենաւոր	Regular	C-initial	Passive	Passive	-իլ
+2506	պարենաւորուիլ	4	զզուիլ	պարենաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2507	պարզաբանել	2	քաղել	պարզաբան	Regular	C-initial		E-Class	-ել
 2508	պարզել	2	քաղել	պարզ	Regular	C-initial		E-Class	-ել
-2509	պարզուիլ	4	զզուիլ	պարզ	Regular	C-initial	Passive	Passive	-իլ
+2509	պարզուիլ	4	զզուիլ	պարզ	Regular	C-initial	Passive	Passive	-ուիլ
 2510	պարծենալ	20	նիհարնալ	պարծե	Regular	C-initial		Inchoative	-նալ
 2511	պարծիլ	4	խօսիլ	պարծ	Regular	C-initial	Basic	I-Class	-իլ
 2512	պարունակել	2	քաղել	պարունակ	Regular	C-initial		E-Class	-ել
-2513	պարունակուիլ	4	զզուիլ	պարունակ	Regular	C-initial	Passive	Passive	-իլ
+2513	պարունակուիլ	4	զզուիլ	պարունակ	Regular	C-initial	Passive	Passive	-ուիլ
 2514	պարուրել	2	քաղել	պարուր	Regular	C-initial		E-Class	-ել
 2515	պարպել	2	քաղել	պարպ	Regular	C-initial		E-Class	-ել
-2516	պարպուիլ	4	զզուիլ	պարպ	Regular	C-initial	Passive	Passive	-իլ
+2516	պարպուիլ	4	զզուիլ	պարպ	Regular	C-initial	Passive	Passive	-ուիլ
 2517	պարսաւել	2	քաղել	պարսաւ	Regular	C-initial		E-Class	-ել
 2518	պարտադրել	2	քաղել	պարտադր	Regular	C-initial		E-Class	-ել
 2519	պարտասեցնել	10	մօտեցնել	պարտասե	Regular	C-initial	Basic	Causative	-ցնել
 2520	պարտասիլ	4	խօսիլ	պարտաս	Regular	C-initial	Basic	I-Class	-իլ
 2521	պարտաւորել	2	քաղել	պարտաւոր	Regular	C-initial		E-Class	-ել
-2522	պարտաւորուիլ	4	զզուիլ	պարտաւոր	Regular	C-initial	Passive	Passive	-իլ
+2522	պարտաւորուիլ	4	զզուիլ	պարտաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2523	պարտել	2	քաղել	պարտ	Regular	C-initial		E-Class	-ել
 2524	պարտիլ	4	խօսիլ	պարտ	Regular	C-initial	Basic	I-Class	-իլ
 2525	պարտկել	2	քաղել	պարտկ	Regular	C-initial		E-Class	-ել
-2526	պարտուիլ	4	զզուիլ	պարտ	Regular	C-initial	Passive	Passive	-իլ
+2526	պարտուիլ	4	զզուիլ	պարտ	Regular	C-initial	Passive	Passive	-ուիլ
 2527	պարփակել	2	քաղել	պարփակ	Regular	C-initial		E-Class	-ել
-2528	պարփակուիլ	4	զզուիլ	պարփակ	Regular	C-initial	Passive	Passive	-իլ
+2528	պարփակուիլ	4	զզուիլ	պարփակ	Regular	C-initial	Passive	Passive	-ուիլ
 2529	պեղել	2	քաղել	պեղ	Regular	C-initial		E-Class	-ել
 2530	պետականացնել	10	մօտեցնել	պետականա	Regular	C-initial	Basic	Causative	-ցնել
 2531	պզտիկնալ	20	նիհարնալ	պզտիկ	Regular	C-initial		Inchoative	-նալ
@@ -2534,18 +2534,18 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2533	պժգալ	6	կարդալ	պժգ	Regular	C-initial		A-Class	-ալ
 2534	պիտակել	2	քաղել	պիտակ	Regular	C-initial		E-Class	-ել
 2535	պլլել	2	քաղել	պլլ	Regular	C-initial		E-Class	-ել
-2536	պլլուիլ	4	զզուիլ	պլլ	Regular	C-initial	Passive	Passive	-իլ
+2536	պլլուիլ	4	զզուիլ	պլլ	Regular	C-initial	Passive	Passive	-ուիլ
 2537	պլշկել	2	քաղել	պլշկ	Regular	C-initial		E-Class	-ել
 2538	պլշկիլ	4	խօսիլ	պլշկ	Regular	C-initial	Basic	I-Class	-իլ
 2539	պլորել	2	քաղել	պլոր	Regular	C-initial		E-Class	-ել
-2540	պլորուիլ	4	զզուիլ	պլոր	Regular	C-initial	Passive	Passive	-իլ
+2540	պլորուիլ	4	զզուիլ	պլոր	Regular	C-initial	Passive	Passive	-ուիլ
 2541	պլպլալ	6	կարդալ	պլպլ	Regular	C-initial		A-Class	-ալ
 2542	պղծել	2	քաղել	պղծ	Regular	C-initial		E-Class	-ել
 2543	պղպջալ	6	կարդալ	պղպջ	Regular	C-initial		A-Class	-ալ
 2544	պղտորել	2	քաղել	պղտոր	Regular	C-initial		E-Class	-ել
 2545	պղտորիլ	4	խօսիլ	պղտոր	Regular	C-initial	Basic	I-Class	-իլ
 2546	պճնել	2	քաղել	պճն	Regular	C-initial		E-Class	-ել
-2547	պճնուիլ	4	զզուիլ	պճն	Regular	C-initial	Passive	Passive	-իլ
+2547	պճնուիլ	4	զզուիլ	պճն	Regular	C-initial	Passive	Passive	-ուիլ
 2548	պնդանալ	20	նիհարնալ	պնդա	Regular	C-initial		Inchoative	-նալ
 2549	պնդացնել	10	մօտեցնել	պնդա	Regular	C-initial	Basic	Causative	-ցնել
 2550	պնդել	2	քաղել	պնդ	Regular	C-initial		E-Class	-ել
@@ -2558,33 +2558,33 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2557	պռստել	2	քաղել	պռստ	Regular	C-initial		E-Class	-ել
 2558	պսակադրել	2	քաղել	պսակադր	Regular	C-initial		E-Class	-ել
 2559	պսակել	2	քաղել	պսակ	Regular	C-initial		E-Class	-ել
-2560	պսակուիլ	4	զզուիլ	պսակ	Regular	C-initial	Passive	Passive	-իլ
+2560	պսակուիլ	4	զզուիլ	պսակ	Regular	C-initial	Passive	Passive	-ուիլ
 2561	պսպղալ	6	կարդալ	պսպղ	Regular	C-initial		A-Class	-ալ
 2562	պտկիլ	4	խօսիլ	պտկ	Regular	C-initial	Basic	I-Class	-իլ
-2563	պտղաւորուիլ	4	զզուիլ	պտղաւոր	Regular	C-initial	Passive	Passive	-իլ
+2563	պտղաւորուիլ	4	զզուիլ	պտղաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2564	պտռել	2	քաղել	պտռ	Regular	C-initial		E-Class	-ել
 2565	պտտիլ	4	խօսիլ	պտտ	Regular	C-initial	Basic	I-Class	-իլ
 2566	պտտցնել	10	մօտեցնել	պտտ	Regular	C-initial	Basic	Causative	-ցնել
 2567	պրծիլ	56	նստիլ	պրծ	Irregular	C-initial			-իլ
 2568	պրկել	2	քաղել	պրկ	Regular	C-initial		E-Class	-ել
-2569	պրկուիլ	4	զզուիլ	պրկ	Regular	C-initial	Passive	Passive	-իլ
+2569	պրկուիլ	4	զզուիլ	պրկ	Regular	C-initial	Passive	Passive	-ուիլ
 2570	պրպտել	2	քաղել	պրպտ	Regular	C-initial		E-Class	-ել
 2571	ջախել	2	քաղել	ջախ	Regular	C-initial		E-Class	-ել
 2572	ջախջախել	2	քաղել	ջախջախ	Regular	C-initial		E-Class	-ել
-2573	ջախջախուիլ	4	զզուիլ	ջախջախ	Regular	C-initial	Passive	Passive	-իլ
+2573	ջախջախուիլ	4	զզուիլ	ջախջախ	Regular	C-initial	Passive	Passive	-ուիլ
 2574	ջահավառել	2	քաղել	ջահավառ	Regular	C-initial		E-Class	-ել
 2575	ջամբել	2	քաղել	ջամբ	Regular	C-initial		E-Class	-ել
 2576	ջայլել	2	քաղել	ջայլ	Regular	C-initial		E-Class	-ել
 2577	ջանալ	55	մնալ	ջան	Irregular	C-initial			-ալ
 2578	ջատագովել	2	քաղել	ջատագով	Regular	C-initial		E-Class	-ել
 2579	ջարդել	2	քաղել	ջարդ	Regular	C-initial		E-Class	-ել
-2580	ջարդուիլ	4	զզուիլ	ջարդ	Regular	C-initial	Passive	Passive	-իլ
+2580	ջարդուիլ	4	զզուիլ	ջարդ	Regular	C-initial	Passive	Passive	-ուիլ
 2581	ջեռացնել	10	մօտեցնել	ջեռա	Regular	C-initial	Basic	Causative	-ցնել
 2582	ջեռնուլ	22	զբօսնուլ	ջեռ	Archaic	C-initial			-նուլ
 2583	ջերմանալ	20	նիհարնալ	ջերմա	Regular	C-initial		Inchoative	-նալ
 2584	ջերմացնել	10	մօտեցնել	ջերմա	Regular	C-initial	Basic	Causative	-ցնել
 2585	ջլատել	2	քաղել	ջլատ	Regular	C-initial		E-Class	-ել
-2586	ջլատուիլ	4	զզուիլ	ջլատ	Regular	C-initial	Passive	Passive	-իլ
+2586	ջլատուիլ	4	զզուիլ	ջլատ	Regular	C-initial	Passive	Passive	-ուիլ
 2587	ջղագրգռել	2	քաղել	ջղագրգռ	Regular	C-initial		E-Class	-ել
 2588	ջղայնանալ	20	նիհարնալ	ջղայնա	Regular	C-initial		Inchoative	-նալ
 2589	ջղայնացնել	10	մօտեցնել	ջղայնա	Regular	C-initial	Basic	Causative	-ցնել
@@ -2604,7 +2604,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2603	սահիլ	4	խօսիլ	սահ	Regular	C-initial	Basic	I-Class	-իլ
 2604	սահմանագծել	2	քաղել	սահմանագծ	Regular	C-initial		E-Class	-ել
 2605	սահմանափակել	2	քաղել	սահմանափակ	Regular	C-initial		E-Class	-ել
-2606	սահմանափակուիլ	4	զզուիլ	սահմանափակ	Regular	C-initial	Passive	Passive	-իլ
+2606	սահմանափակուիլ	4	զզուիլ	սահմանափակ	Regular	C-initial	Passive	Passive	-ուիլ
 2607	սահմանել	2	քաղել	սահման	Regular	C-initial		E-Class	-ել
 2608	սահմռկել	2	քաղել	սահմռկ	Regular	C-initial		E-Class	-ել
 2609	սահմռկեցնել	10	մօտեցնել	սահմռկե	Regular	C-initial	Basic	Causative	-ցնել
@@ -2641,7 +2641,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2640	սափրել	2	քաղել	սափր	Regular	C-initial		E-Class	-ել
 2641	սգալ	6	կարդալ	սգ	Regular	C-initial		A-Class	-ալ
 2642	սեղմել	2	քաղել	սեղմ	Regular	C-initial		E-Class	-ել
-2643	սեղմուիլ	4	զզուիլ	սեղմ	Regular	C-initial	Passive	Passive	-իլ
+2643	սեղմուիլ	4	զզուիլ	սեղմ	Regular	C-initial	Passive	Passive	-ուիլ
 2644	սեպել	2	քաղել	սեպ	Regular	C-initial		E-Class	-ել
 2645	սերել	2	քաղել	սեր	Regular	C-initial		E-Class	-ել
 2646	սերիլ	4	խօսիլ	սեր	Regular	C-initial	Basic	I-Class	-իլ
@@ -2657,10 +2657,10 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2656	սթափիլ	4	խօսիլ	սթափ	Regular	C-initial	Basic	I-Class	-իլ
 2657	սիգալ	6	կարդալ	սիգ	Regular	C-initial		A-Class	-ալ
 2658	սիրաբանիլ	4	խօսիլ	սիրաբան	Regular	C-initial	Basic	I-Class	-իլ
-2659	սիրահարուիլ	4	զզուիլ	սիրահար	Regular	C-initial	Passive	Passive	-իլ
+2659	սիրահարուիլ	4	զզուիլ	սիրահար	Regular	C-initial	Passive	Passive	-ուիլ
 2660	սիրաշահիլ	4	խօսիլ	սիրաշահ	Regular	C-initial	Basic	I-Class	-իլ
 2661	սիրել	2	քաղել	սիր	Regular	C-initial		E-Class	-ել
-2662	սիրուիլ	4	զզուիլ	սիր	Regular	C-initial	Passive	Passive	-իլ
+2662	սիրուիլ	4	զզուիլ	սիր	Regular	C-initial	Passive	Passive	-ուիլ
 2663	սլանալ	6	կարդալ	սլան	Regular	C-initial		A-Class	-ալ
 2664	սխալիլ	4	խօսիլ	սխալ	Regular	C-initial	Basic	I-Class	-իլ
 2665	սկզբնատառել	2	քաղել	սկզբնատառ	Regular	C-initial		E-Class	-ել
@@ -2681,7 +2681,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2680	սնգուրել	2	քաղել	սնգուր	Regular	C-initial		E-Class	-ել
 2681	սնուցանել	12	ծանուցանել	սնուց	Archaic	C-initial			-անել
 2682	սոթտել	2	քաղել	սոթտ	Regular	C-initial		E-Class	-ել
-2683	սոթտուիլ	4	զզուիլ	սոթտ	Regular	C-initial	Passive	Passive	-իլ
+2683	սոթտուիլ	4	զզուիլ	սոթտ	Regular	C-initial	Passive	Passive	-ուիլ
 2684	սողալ	6	կարդալ	սող	Regular	C-initial		A-Class	-ալ
 2685	սողոսկիլ	4	խօսիլ	սողոսկ	Regular	C-initial	Basic	I-Class	-իլ
 2686	սոնքալ	6	կարդալ	սոնք	Regular	C-initial		A-Class	-ալ
@@ -2694,7 +2694,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2693	սորվիլ	4	խօսիլ	սորվ	Regular	C-initial	Basic	I-Class	-իլ
 2694	սուաղիլ	4	խօսիլ	սուաղ	Regular	C-initial	Basic	I-Class	-իլ
 2695	սուզել	2	քաղել	սուզ	Regular	C-initial		E-Class	-ել
-2696	սուզուիլ	4	զզուիլ	սուզ	Regular	C-initial	Passive	Passive	-իլ
+2696	սուզուիլ	4	զզուիլ	սուզ	Regular	C-initial	Passive	Passive	-ուիլ
 2697	սուլել	2	քաղել	սուլ	Regular	C-initial		E-Class	-ել
 2698	սուղնալ	20	նիհարնալ	սուղ	Regular	C-initial		Inchoative	-նալ
 2699	սուղցնել	10	մօտեցնել	սուղ	Regular	C-initial	Basic	Causative	-ցնել
@@ -2702,7 +2702,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2701	սուրալ	6	կարդալ	սուր	Regular	C-initial		A-Class	-ալ
 2702	սպաննել	2	քաղել	սպանն	Regular	C-initial		E-Class	-ել
 2703	սպառազինել	2	քաղել	սպառազին	Regular	C-initial		E-Class	-ել
-2704	սպառազինուիլ	4	զզուիլ	սպառազին	Regular	C-initial	Passive	Passive	-իլ
+2704	սպառազինուիլ	4	զզուիլ	սպառազին	Regular	C-initial	Passive	Passive	-ուիլ
 2705	սպառել	2	քաղել	սպառ	Regular	C-initial		E-Class	-ել
 2706	սպառիլ	4	խօսիլ	սպառ	Regular	C-initial	Basic	I-Class	-իլ
 2707	սպառնալ	55	մնալ	սպառն	Irregular	C-initial			-ալ
@@ -2718,9 +2718,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2717	ստգտանել	2	քաղել	ստգտան	Regular	C-initial		E-Class	-ել
 2718	ստել	2	քաղել	ստ	Regular	C-initial		E-Class	-ել
 2719	ստեղծել	2	քաղել	ստեղծ	Regular	C-initial		E-Class	-ել
-2720	ստեղծուիլ	4	զզուիլ	ստեղծ	Regular	C-initial	Passive	Passive	-իլ
+2720	ստեղծուիլ	4	զզուիլ	ստեղծ	Regular	C-initial	Passive	Passive	-ուիլ
 2721	ստիպել	2	քաղել	ստիպ	Regular	C-initial		E-Class	-ել
-2722	ստիպուիլ	4	զզուիլ	ստիպ	Regular	C-initial	Passive	Passive	-իլ
+2722	ստիպուիլ	4	զզուիլ	ստիպ	Regular	C-initial	Passive	Passive	-ուիլ
 2723	ստկել	2	քաղել	ստկ	Regular	C-initial		E-Class	-ել
 2724	ստորագծել	2	քաղել	ստորագծ	Regular	C-initial		E-Class	-ել
 2725	ստորագնահատել	2	քաղել	ստորագնահատ	Regular	C-initial		E-Class	-ել
@@ -2752,9 +2752,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2751	սքանչանալ	20	նիհարնալ	սքանչա	Regular	C-initial		Inchoative	-նալ
 2752	սքանչացնել	10	մօտեցնել	սքանչա	Regular	C-initial	Basic	Causative	-ցնել
 2753	սքողել	2	քաղել	սքող	Regular	C-initial		E-Class	-ել
-2754	սքողուիլ	4	զզուիլ	սքող	Regular	C-initial	Passive	Passive	-իլ
+2754	սքողուիլ	4	զզուիլ	սքող	Regular	C-initial	Passive	Passive	-ուիլ
 2755	սքօղել	2	քաղել	սքօղ	Regular	C-initial		E-Class	-ել
-2756	սքօղուիլ	4	զզուիլ	սքօղ	Regular	C-initial	Passive	Passive	-իլ
+2756	սքօղուիլ	4	զզուիլ	սքօղ	Regular	C-initial	Passive	Passive	-ուիլ
 2757	սօսափել	2	քաղել	սօսափ	Regular	C-initial		E-Class	-ել
 2758	վագել	2	քաղել	վագ	Regular	C-initial		E-Class	-ել
 2759	վազել	2	քաղել	վազ	Regular	C-initial		E-Class	-ել
@@ -2765,7 +2765,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2764	վախնալ	20	նիհարնալ	վախ	Regular	C-initial		Inchoative	-նալ
 2765	վախցնել	10	մօտեցնել	վախ	Regular	C-initial	Basic	Causative	-ցնել
 2766	վաճառել	2	քաղել	վաճառ	Regular	C-initial		E-Class	-ել
-2767	վաճառուիլ	4	զզուիլ	վաճառ	Regular	C-initial	Passive	Passive	-իլ
+2767	վաճառուիլ	4	զզուիլ	վաճառ	Regular	C-initial	Passive	Passive	-ուիլ
 2768	վայել	2	քաղել	վայ	Regular	C-initial		E-Class	-ել
 2769	վայելել	2	քաղել	վայել	Regular	C-initial		E-Class	-ել
 2770	վայլել	2	քաղել	վայլ	Regular	C-initial		E-Class	-ել
@@ -2785,7 +2785,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2784	վատնել	2	քաղել	վատն	Regular	C-initial		E-Class	-ել
 2785	վարագուրել	2	քաղել	վարագուր	Regular	C-initial		E-Class	-ել
 2786	վարակել	2	քաղել	վարակ	Regular	C-initial		E-Class	-ել
-2787	վարակուիլ	4	զզուիլ	վարակ	Regular	C-initial	Passive	Passive	-իլ
+2787	վարակուիլ	4	զզուիլ	վարակ	Regular	C-initial	Passive	Passive	-ուիլ
 2788	վարանիլ	4	խօսիլ	վարան	Regular	C-initial	Basic	I-Class	-իլ
 2789	վարատել	2	քաղել	վարատ	Regular	C-initial		E-Class	-ել
 2790	վարարիլ	4	խօսիլ	վարար	Regular	C-initial	Basic	I-Class	-իլ
@@ -2793,12 +2793,12 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2792	վարդապետել	2	քաղել	վարդապետ	Regular	C-initial		E-Class	-ել
 2793	վարել	2	քաղել	վար	Regular	C-initial		E-Class	-ել
 2794	վարժեցնել	10	մօտեցնել	վարժե	Regular	C-initial	Basic	Causative	-ցնել
-2795	վարժուիլ	4	զզուիլ	վարժ	Regular	C-initial	Passive	Passive	-իլ
+2795	վարժուիլ	4	զզուիլ	վարժ	Regular	C-initial	Passive	Passive	-ուիլ
 2796	վարկաբեկել	2	քաղել	վարկաբեկ	Regular	C-initial		E-Class	-ել
 2797	վարկագրել	2	քաղել	վարկագր	Regular	C-initial		E-Class	-ել
 2798	վարձատրել	2	քաղել	վարձատր	Regular	C-initial		E-Class	-ել
 2799	վարձել	2	քաղել	վարձ	Regular	C-initial		E-Class	-ել
-2800	վարուիլ	4	զզուիլ	վար	Regular	C-initial	Passive	Passive	-իլ
+2800	վարուիլ	4	զզուիլ	վար	Regular	C-initial	Passive	Passive	-ուիլ
 2801	վարսել	2	քաղել	վարս	Regular	C-initial		E-Class	-ել
 2802	վաւերացնել	10	մօտեցնել	վաւերա	Regular	C-initial	Basic	Causative	-ցնել
 2803	վեհերիլ	4	խօսիլ	վեհեր	Regular	C-initial	Basic	I-Class	-իլ
@@ -2808,7 +2808,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2807	վերադառնալ	40	դառնալ	վերադառն	Suppletive	C-initial			-ալ
 2808	վերադարձնել	10	դարձնել	վերադար	Regular	C-initial	Orthographic variant with affricate	Causative	-ձնել
 2809	վերազինել	2	քաղել	վերազին	Regular	C-initial		E-Class	-ել
-2810	վերազինուիլ	4	զզուիլ	վերազին	Regular	C-initial	Passive	Passive	-իլ
+2810	վերազինուիլ	4	զզուիլ	վերազին	Regular	C-initial	Passive	Passive	-ուիլ
 2811	վերախմբել	2	քաղել	վերախմբ	Regular	C-initial		E-Class	-ել
 2812	վերածել	2	քաղել	վերած	Regular	C-initial		E-Class	-ել
 2813	վերածնիլ	56	նստիլ	վերածն	Irregular	C-initial			-իլ
@@ -2821,7 +2821,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2820	վերակերտել	2	քաղել	վերակերտ	Regular	C-initial		E-Class	-ել
 2821	վերակոչել	2	քաղել	վերակոչ	Regular	C-initial		E-Class	-ել
 2822	վերահաստատել	2	քաղել	վերահաստատ	Regular	C-initial		E-Class	-ել
-2823	վերահաստատուիլ	4	զզուիլ	վերահաստատ	Regular	C-initial	Passive	Passive	-իլ
+2823	վերահաստատուիլ	4	զզուիլ	վերահաստատ	Regular	C-initial	Passive	Passive	-ուիլ
 2824	վերահսկել	2	քաղել	վերահսկ	Regular	C-initial		E-Class	-ել
 2825	վերամկրտել	2	քաղել	վերամկրտ	Regular	C-initial		E-Class	-ել
 2826	վերամշակել	2	քաղել	վերամշակ	Regular	C-initial		E-Class	-ել
@@ -2836,11 +2836,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2835	վերացնել	10	մօտեցնել	վերա	Regular	C-initial	Basic	Causative	-ցնել
 2836	վերափոխել	2	քաղել	վերափոխ	Regular	C-initial		E-Class	-ել
 2837	վերաքննել	2	քաղել	վերաքնն	Regular	C-initial		E-Class	-ել
-2838	վերերեւիլ	4	զզուիլ	վերեր	Regular	C-initial	Passive	Passive	-իլ
+2838	վերերեւիլ	4	զզուիլ	վերեր	Regular	C-initial	Passive	Passive	-ուիլ
 2839	վերընդունիլ	4	խօսիլ	վերընդուն	Regular	C-initial	Basic	I-Class	-իլ
 2840	վերընձիւղել	2	քաղել	վերընձիւղ	Regular	C-initial		E-Class	-ել
 2841	վերընտրել	2	քաղել	վերընտր	Regular	C-initial		E-Class	-ել
-2842	վերընտրուիլ	4	զզուիլ	վերընտր	Regular	C-initial	Passive	Passive	-իլ
+2842	վերընտրուիլ	4	զզուիլ	վերընտր	Regular	C-initial	Passive	Passive	-ուիլ
 2843	վերլուծել	2	քաղել	վերլուծ	Regular	C-initial		E-Class	-ել
 2844	վերծանել	2	քաղել	վերծան	Regular	C-initial		E-Class	-ել
 2845	վերյիշել	2	քաղել	վերյիշ	Regular	C-initial		E-Class	-ել
@@ -2857,14 +2857,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2856	վիժիլ	4	խօսիլ	վիժ	Regular	C-initial	Basic	I-Class	-իլ
 2857	վիճաբանիլ	4	խօսիլ	վիճաբան	Regular	C-initial	Basic	I-Class	-իլ
 2858	վիճակել	2	քաղել	վիճակ	Regular	C-initial		E-Class	-ել
-2859	վիճակուիլ	4	զզուիլ	վիճակ	Regular	C-initial	Passive	Passive	-իլ
+2859	վիճակուիլ	4	զզուիլ	վիճակ	Regular	C-initial	Passive	Passive	-ուիլ
 2860	վիճարկել	2	քաղել	վիճարկ	Regular	C-initial		E-Class	-ել
 2861	վիճիլ	4	խօսիլ	վիճ	Regular	C-initial	Basic	I-Class	-իլ
 2862	վիմագրել	2	քաղել	վիմագր	Regular	C-initial		E-Class	-ել
 2863	վիպել	2	քաղել	վիպ	Regular	C-initial		E-Class	-ել
 2864	վիրալ	6	կարդալ	վիր	Regular	C-initial		A-Class	-ալ
 2865	վիրաւորել	2	քաղել	վիրաւոր	Regular	C-initial		E-Class	-ել
-2866	վիրաւորուիլ	4	զզուիլ	վիրաւոր	Regular	C-initial	Passive	Passive	-իլ
+2866	վիրաւորուիլ	4	զզուիլ	վիրաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2867	վխտալ	6	կարդալ	վխտ	Regular	C-initial		A-Class	-ալ
 2868	վկայել	2	քաղել	վկայ	Regular	C-initial		E-Class	-ել
 2869	վկանդել	2	քաղել	վկանդ	Regular	C-initial		E-Class	-ել
@@ -2873,22 +2873,22 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2872	վճարել	2	քաղել	վճար	Regular	C-initial		E-Class	-ել
 2873	վճռել	2	քաղել	վճռ	Regular	C-initial		E-Class	-ել
 2874	վնասել	2	քաղել	վնաս	Regular	C-initial		E-Class	-ել
-2875	վնասուիլ	4	զզուիլ	վնաս	Regular	C-initial	Passive	Passive	-իլ
+2875	վնասուիլ	4	զզուիլ	վնաս	Regular	C-initial	Passive	Passive	-ուիլ
 2876	վշտակցիլ	4	խօսիլ	վշտակց	Regular	C-initial	Basic	I-Class	-իլ
 2877	վշտանալ	20	նիհարնալ	վշտա	Regular	C-initial		Inchoative	-նալ
 2878	վշտացնել	10	մօտեցնել	վշտա	Regular	C-initial	Basic	Causative	-ցնել
 2879	վռնտել	2	քաղել	վռնտ	Regular	C-initial		E-Class	-ել
-2880	վռնտուիլ	4	զզուիլ	վռնտ	Regular	C-initial	Passive	Passive	-իլ
+2880	վռնտուիլ	4	զզուիլ	վռնտ	Regular	C-initial	Passive	Passive	-ուիլ
 2881	վսեմացնել	10	մօտեցնել	վսեմա	Regular	C-initial	Basic	Causative	-ցնել
 2882	վստահեցնել	10	մօտեցնել	վստահե	Regular	C-initial	Basic	Causative	-ցնել
 2883	վստահիլ	4	խօսիլ	վստահ	Regular	C-initial	Basic	I-Class	-իլ
 2884	վտանգել	2	քաղել	վտանգ	Regular	C-initial		E-Class	-ել
-2885	վտանգուիլ	4	զզուիլ	վտանգ	Regular	C-initial	Passive	Passive	-իլ
+2885	վտանգուիլ	4	զզուիլ	վտանգ	Regular	C-initial	Passive	Passive	-ուիլ
 2886	վտարել	2	քաղել	վտար	Regular	C-initial		E-Class	-ել
-2887	վտարուիլ	4	զզուիլ	վտար	Regular	C-initial	Passive	Passive	-իլ
+2887	վտարուիլ	4	զզուիլ	վտար	Regular	C-initial	Passive	Passive	-ուիլ
 2888	վրդովել	2	քաղել	վրդով	Regular	C-initial		E-Class	-ել
 2889	վրդովիլ	4	խօսիլ	վրդով	Regular	C-initial	Basic	I-Class	-իլ
-2890	վրդովուիլ	4	զզուիլ	վրդով	Regular	C-initial	Passive	Passive	-իլ
+2890	վրդովուիլ	4	զզուիլ	վրդով	Regular	C-initial	Passive	Passive	-ուիլ
 2891	վրիպեցնել	10	մօտեցնել	վրիպե	Regular	C-initial	Basic	Causative	-ցնել
 2892	վրիպիլ	4	խօսիլ	վրիպ	Regular	C-initial	Basic	I-Class	-իլ
 2893	վրնջել	2	քաղել	վրնջ	Regular	C-initial		E-Class	-ել
@@ -2903,7 +2903,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2902	տամկացնել	10	մօտեցնել	տամկա	Regular	C-initial	Basic	Causative	-ցնել
 2903	տանիլ	58	տանիլ	տան	Suppletive	C-initial			-իլ
 2904	տանջել	2	քաղել	տանջ	Regular	C-initial		E-Class	-ել
-2905	տանջուիլ	4	զզուիլ	տանջ	Regular	C-initial	Passive	Passive	-իլ
+2905	տանջուիլ	4	զզուիլ	տանջ	Regular	C-initial	Passive	Passive	-ուիլ
 2906	տաշել	2	քաղել	տաշ	Regular	C-initial		E-Class	-ել
 2907	տապալել	2	քաղել	տապալ	Regular	C-initial		E-Class	-ել
 2908	տապալիլ	4	խօսիլ	տապալ	Regular	C-initial	Basic	I-Class	-իլ
@@ -2917,27 +2917,27 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2916	տատամսիլ	4	խօսիլ	տատամս	Regular	C-initial	Basic	I-Class	-իլ
 2917	տատանիլ	4	խօսիլ	տատան	Regular	C-initial	Basic	I-Class	-իլ
 2918	տարագրել	2	քաղել	տարագր	Regular	C-initial		E-Class	-ել
-2919	տարագրուիլ	4	զզուիլ	տարագր	Regular	C-initial	Passive	Passive	-իլ
+2919	տարագրուիլ	4	զզուիլ	տարագր	Regular	C-initial	Passive	Passive	-ուիլ
 2920	տարածել	2	քաղել	տարած	Regular	C-initial		E-Class	-ել
-2921	տարածուիլ	4	զզուիլ	տարած	Regular	C-initial	Passive	Passive	-իլ
+2921	տարածուիլ	4	զզուիլ	տարած	Regular	C-initial	Passive	Passive	-ուիլ
 2922	տարակուսիլ	4	խօսիլ	տարակուս	Regular	C-initial	Basic	I-Class	-իլ
 2923	տարաձայնել	2	քաղել	տարաձայն	Regular	C-initial		E-Class	-ել
-2924	տարաձայնուիլ	4	զզուիլ	տարաձայն	Regular	C-initial	Passive	Passive	-իլ
+2924	տարաձայնուիլ	4	զզուիլ	տարաձայն	Regular	C-initial	Passive	Passive	-ուիլ
 2925	տարանջատել	2	քաղել	տարանջատ	Regular	C-initial		E-Class	-ել
 2926	տարբաղադրել	2	քաղել	տարբաղադր	Regular	C-initial		E-Class	-ել
-2927	տարբաղադրուիլ	4	զզուիլ	տարբաղադր	Regular	C-initial	Passive	Passive	-իլ
+2927	տարբաղադրուիլ	4	զզուիլ	տարբաղադր	Regular	C-initial	Passive	Passive	-ուիլ
 2928	տարբերել	2	քաղել	տարբեր	Regular	C-initial		E-Class	-ել
 2929	տարբերիլ	4	խօսիլ	տարբեր	Regular	C-initial	Basic	I-Class	-իլ
 2930	տարհամոզել	2	քաղել	տարհամոզ	Regular	C-initial		E-Class	-ել
 2931	տարորոշել	2	քաղել	տարորոշ	Regular	C-initial		E-Class	-ել
 2932	տարուբերել	38	բերել	տարուբեր	Irregular	C-initial			-ել
 2933	տարուբերիլ	4	խօսիլ	տարուբեր	Regular	C-initial	Basic	I-Class	-իլ
-2934	տարուբերուիլ	4	զզուիլ	տարուբեր	Regular	C-initial	Passive	Passive	-իլ
-2935	տարուիլ	4	զզուիլ	տար	Regular	C-initial	Passive	Passive	-իլ
+2934	տարուբերուիլ	4	զզուիլ	տարուբեր	Regular	C-initial	Passive	Passive	-ուիլ
+2935	տարուիլ	4	զզուիլ	տար	Regular	C-initial	Passive	Passive	-ուիլ
 2936	տարտղնել	2	քաղել	տարտղն	Regular	C-initial		E-Class	-ել
-2937	տարտղնուիլ	4	զզուիլ	տարտղն	Regular	C-initial	Passive	Passive	-իլ
+2937	տարտղնուիլ	4	զզուիլ	տարտղն	Regular	C-initial	Passive	Passive	-ուիլ
 2938	տարրալուծել	2	քաղել	տարրալուծ	Regular	C-initial		E-Class	-ել
-2939	տարրալուծուիլ	4	զզուիլ	տարրալուծ	Regular	C-initial	Passive	Passive	-իլ
+2939	տարրալուծուիլ	4	զզուիլ	տարրալուծ	Regular	C-initial	Passive	Passive	-ուիլ
 2940	տարփալ	6	կարդալ	տարփ	Regular	C-initial		A-Class	-ալ
 2941	տարփողել	2	քաղել	տարփող	Regular	C-initial		E-Class	-ել
 2942	տափակնալ	20	նիհարնալ	տափակ	Regular	C-initial		Inchoative	-նալ
@@ -2949,14 +2949,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2948	տգեղնալ	20	նիհարնալ	տգեղ	Regular	C-initial		Inchoative	-նալ
 2949	տգեղցնել	10	մօտեցնել	տգեղ	Regular	C-initial	Basic	Causative	-ցնել
 2950	տեառնագրել	2	քաղել	տեառնագր	Regular	C-initial		E-Class	-ել
-2951	տեառնագրուիլ	4	զզուիլ	տեառնագր	Regular	C-initial	Passive	Passive	-իլ
+2951	տեառնագրուիլ	4	զզուիլ	տեառնագր	Regular	C-initial	Passive	Passive	-ուիլ
 2952	տեղալ	6	կարդալ	տեղ	Regular	C-initial		A-Class	-ալ
 2953	տեղահանել	2	քաղել	տեղահան	Regular	C-initial		E-Class	-ել
 2954	տեղացնել	10	մօտեցնել	տեղա	Regular	C-initial	Basic	Causative	-ցնել
 2955	տեղաւորել	2	քաղել	տեղաւոր	Regular	C-initial		E-Class	-ել
-2956	տեղաւորուիլ	4	զզուիլ	տեղաւոր	Regular	C-initial	Passive	Passive	-իլ
+2956	տեղաւորուիլ	4	զզուիլ	տեղաւոր	Regular	C-initial	Passive	Passive	-ուիլ
 2957	տեղափոխել	2	քաղել	տեղափոխ	Regular	C-initial		E-Class	-ել
-2958	տեղափոխուիլ	4	զզուիլ	տեղափոխ	Regular	C-initial	Passive	Passive	-իլ
+2958	տեղափոխուիլ	4	զզուիլ	տեղափոխ	Regular	C-initial	Passive	Passive	-ուիլ
 2959	տեղեկագրել	2	քաղել	տեղեկագր	Regular	C-initial		E-Class	-ել
 2960	տեղեկանալ	20	նիհարնալ	տեղեկա	Regular	C-initial		Inchoative	-նալ
 2961	տեղեկացնել	10	մօտեցնել	տեղեկա	Regular	C-initial	Basic	Causative	-ցնել
@@ -2964,7 +2964,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2963	տեսակցիլ	4	խօսիլ	տեսակց	Regular	C-initial	Basic	I-Class	-իլ
 2964	տեսնալ	24	գտնալ	տես	Irregular	C-initial	Theme -a-		-նալ
 2965	տեսնել	24	գտնել	տես	Irregular	C-initial	Theme -e-		-նել
-2966	տեսնուիլ	4	զզուիլ	տեսն	Regular	C-initial	Passive	Passive	-իլ
+2966	տեսնուիլ	4	զզուիլ	տեսն	Regular	C-initial	Passive	Passive	-ուիլ
 2967	տեւականացնել	10	մօտեցնել	տեւականա	Regular	C-initial	Basic	Causative	-ցնել
 2968	տեւել	2	քաղել	տեւ	Regular	C-initial		E-Class	-ել
 2969	տզզալ	6	կարդալ	տզզ	Regular	C-initial		A-Class	-ալ
@@ -2982,11 +2982,11 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2981	տնքալ	6	կարդալ	տնք	Regular	C-initial		A-Class	-ալ
 2982	տնօրինել	2	քաղել	տնօրին	Regular	C-initial		E-Class	-ել
 2983	տոգորել	2	քաղել	տոգոր	Regular	C-initial		E-Class	-ել
-2984	տոգորուիլ	4	զզուիլ	տոգոր	Regular	C-initial	Passive	Passive	-իլ
+2984	տոգորուիլ	4	զզուիլ	տոգոր	Regular	C-initial	Passive	Passive	-ուիլ
 2985	տոկալ	6	կարդալ	տոկ	Regular	C-initial		A-Class	-ալ
 2986	տողանցել	2	քաղել	տողանց	Regular	C-initial		E-Class	-ել
 2987	տոչորել	2	քաղել	տոչոր	Regular	C-initial		E-Class	-ել
-2988	տոչորուիլ	4	զզուիլ	տոչոր	Regular	C-initial	Passive	Passive	-իլ
+2988	տոչորուիլ	4	զզուիլ	տոչոր	Regular	C-initial	Passive	Passive	-ուիլ
 2989	տորոմել	2	քաղել	տորոմ	Regular	C-initial		E-Class	-ել
 2990	տորոմիլ	4	խօսիլ	տորոմ	Regular	C-initial	Basic	I-Class	-իլ
 2991	տուայտիլ	4	խօսիլ	տուայտ	Regular	C-initial	Basic	I-Class	-իլ
@@ -2996,14 +2996,14 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 2995	տպագրել	2	քաղել	տպագր	Regular	C-initial		E-Class	-ել
 2996	տպաւորել	2	քաղել	տպաւոր	Regular	C-initial		E-Class	-ել
 2997	տպել	2	քաղել	տպ	Regular	C-initial		E-Class	-ել
-2998	տպուիլ	4	զզուիլ	տպ	Regular	C-initial	Passive	Passive	-իլ
+2998	տպուիլ	4	զզուիլ	տպ	Regular	C-initial	Passive	Passive	-ուիլ
 2999	տռտռալ	6	կարդալ	տռտռ	Regular	C-initial		A-Class	-ալ
 3000	տրամաբանել	2	քաղել	տրամաբան	Regular	C-initial		E-Class	-ել
 3001	տրամադրել	2	քաղել	տրամադր	Regular	C-initial		E-Class	-ել
 3002	տրիզել	2	քաղել	տրիզ	Regular	C-initial		E-Class	-ել
 3003	տրոհել	2	քաղել	տրոհ	Regular	C-initial		E-Class	-ել
 3004	տրորել	2	քաղել	տրոր	Regular	C-initial		E-Class	-ել
-3005	տրորուիլ	4	զզուիլ	տրոր	Regular	C-initial	Passive	Passive	-իլ
+3005	տրորուիլ	4	զզուիլ	տրոր	Regular	C-initial	Passive	Passive	-ուիլ
 3006	տրոփել	2	քաղել	տրոփ	Regular	C-initial		E-Class	-ել
 3007	տրտմեցնել	10	մօտեցնել	տրտմե	Regular	C-initial	Basic	Causative	-ցնել
 3008	տրտմիլ	4	խօսիլ	տրտմ	Regular	C-initial	Basic	I-Class	-իլ
@@ -3029,7 +3029,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3028	ցատկեցնել	10	մօտեցնել	ցատկե	Regular	C-initial	Basic	Causative	-ցնել
 3029	ցատկռտել	2	քաղել	ցատկռտ	Regular	C-initial		E-Class	-ել
 3030	ցաւակցիլ	4	խօսիլ	ցաւակց	Regular	C-initial	Basic	I-Class	-իլ
-3031	ցաւիլ	4	զզուիլ	ց	Regular	C-initial	Passive	Passive	-իլ
+3031	ցաւիլ	4	զզուիլ	ց	Regular	C-initial	Passive	Passive	-ուիլ
 3032	ցաւցնել	10	մօտեցնել	ցաւ	Regular	C-initial	Basic	Causative	-ցնել
 3033	ցաքանել	2	քաղել	ցաքան	Regular	C-initial		E-Class	-ել
 3034	ցելել	2	քաղել	ցել	Regular	C-initial		E-Class	-ել
@@ -3048,23 +3048,23 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3047	ցուցնել	10	մօտեցնել	ցու	Regular	C-initial	Basic	Causative	-ցնել
 3048	ցրել	2	քաղել	ցր	Regular	C-initial		E-Class	-ել
 3049	ցրուել	2	քաղել	ցրու	Regular	C-initial		E-Class	-ել
-3050	ցրուիլ	4	զզուիլ	ցր	Regular	C-initial	Passive	Passive	-իլ
+3050	ցրուիլ	4	զզուիլ	ցր	Regular	C-initial	Passive	Passive	-ուիլ
 3051	ցրտանալ	20	նիհարնալ	ցրտա	Regular	C-initial		Inchoative	-նալ
 3052	ցրտացնել	10	մօտեցնել	ցրտա	Regular	C-initial	Basic	Causative	-ցնել
 3053	ցրտել	2	քաղել	ցրտ	Regular	C-initial		E-Class	-ել
 3054	ցցել	2	քաղել	ցց	Regular	C-initial		E-Class	-ել
-3055	ցցուիլ	4	զզուիլ	ցց	Regular	C-initial	Passive	Passive	-իլ
+3055	ցցուիլ	4	զզուիլ	ցց	Regular	C-initial	Passive	Passive	-ուիլ
 3056	ցօղել	2	քաղել	ցօղ	Regular	C-initial		E-Class	-ել
 3057	ցօղուել	2	քաղել	ցօղու	Regular	C-initial		E-Class	-ել
 3058	փաթթել	2	քաղել	փաթթ	Regular	C-initial		E-Class	-ել
-3059	փաթթուիլ	4	զզուիլ	փաթթ	Regular	C-initial	Passive	Passive	-իլ
+3059	փաթթուիլ	4	զզուիլ	փաթթ	Regular	C-initial	Passive	Passive	-ուիլ
 3060	փալփլիլ	4	խօսիլ	փալփլ	Regular	C-initial	Basic	I-Class	-իլ
 3061	փախիլ	44	դպիլ	փախ	Irregular	C-initial			-իլ
 3062	փախչիլ	26	դպչիլ	փախ	Irregular	C-initial			-չիլ
 3063	փախցնել	10	մօտեցնել	փախ	Regular	C-initial	Basic	Causative	-ցնել
 3064	փակել	2	քաղել	փակ	Regular	C-initial		E-Class	-ել
 3065	փակիլ	44	դպիլ	փակ	Irregular	C-initial			-իլ
-3066	փակուիլ	4	զզուիլ	փակ	Regular	C-initial	Passive	Passive	-իլ
+3066	փակուիլ	4	զզուիլ	փակ	Regular	C-initial	Passive	Passive	-ուիլ
 3067	փակչիլ	26	դպչիլ	փակ	Irregular	C-initial			-չիլ
 3068	փակցնել	10	մօտեցնել	փակ	Regular	C-initial	Basic	Causative	-ցնել
 3069	փաղաղել	2	քաղել	փաղաղ	Regular	C-initial		E-Class	-ել
@@ -3113,7 +3113,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3112	փոթիլ	4	խօսիլ	փոթ	Regular	C-initial	Basic	I-Class	-իլ
 3113	փոխադարձել	2	քաղել	փոխադարձ	Regular	C-initial		E-Class	-ել
 3114	փոխադրել	2	քաղել	փոխադր	Regular	C-initial		E-Class	-ել
-3115	փոխադրուիլ	4	զզուիլ	փոխադր	Regular	C-initial	Passive	Passive	-իլ
+3115	փոխադրուիլ	4	զզուիլ	փոխադր	Regular	C-initial	Passive	Passive	-ուիլ
 3116	փոխակերպել	2	քաղել	փոխակերպ	Regular	C-initial		E-Class	-ել
 3117	փոխանակել	2	քաղել	փոխանակ	Regular	C-initial		E-Class	-ել
 3118	փոխանցագրել	2	քաղել	փոխանցագր	Regular	C-initial		E-Class	-ել
@@ -3121,7 +3121,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3120	փոխարինել	2	քաղել	փոխարին	Regular	C-initial		E-Class	-ել
 3121	փոխարկել	2	քաղել	փոխարկ	Regular	C-initial		E-Class	-ել
 3122	փոխել	2	քաղել	փոխ	Regular	C-initial		E-Class	-ել
-3123	փոխուիլ	4	զզուիլ	փոխ	Regular	C-initial	Passive	Passive	-իլ
+3123	փոխուիլ	4	զզուիլ	փոխ	Regular	C-initial	Passive	Passive	-ուիլ
 3124	փողոտել	2	քաղել	փողոտ	Regular	C-initial		E-Class	-ել
 3125	փողփողիլ	4	խօսիլ	փողփող	Regular	C-initial	Basic	I-Class	-իլ
 3126	փոճոկել	2	քաղել	փոճոկ	Regular	C-initial		E-Class	-ել
@@ -3131,7 +3131,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3130	փորել	2	քաղել	փոր	Regular	C-initial		E-Class	-ել
 3131	փորձարկել	2	քաղել	փորձարկ	Regular	C-initial		E-Class	-ել
 3132	փորձել	2	քաղել	փորձ	Regular	C-initial		E-Class	-ել
-3133	փորձուիլ	4	զզուիլ	փորձ	Regular	C-initial	Passive	Passive	-իլ
+3133	փորձուիլ	4	զզուիլ	փորձ	Regular	C-initial	Passive	Passive	-ուիլ
 3134	փութալ	6	կարդալ	փութ	Regular	C-initial		A-Class	-ալ
 3135	փութացնել	10	մօտեցնել	փութա	Regular	C-initial	Basic	Causative	-ցնել
 3136	փոփոխել	2	քաղել	փոփոխ	Regular	C-initial		E-Class	-ել
@@ -3141,7 +3141,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3140	փռել	2	քաղել	փռ	Regular	C-initial		E-Class	-ել
 3141	փռնգալ	6	կարդալ	փռնգ	Regular	C-initial		A-Class	-ալ
 3142	փռնգտալ	6	կարդալ	փռնգտ	Regular	C-initial		A-Class	-ալ
-3143	փռուիլ	4	զզուիլ	փռ	Regular	C-initial	Passive	Passive	-իլ
+3143	փռուիլ	4	զզուիլ	փռ	Regular	C-initial	Passive	Passive	-ուիլ
 3144	փսխել	2	քաղել	փսխ	Regular	C-initial		E-Class	-ել
 3145	փսորել	2	քաղել	փսոր	Regular	C-initial		E-Class	-ել
 3146	փսորիլ	4	խօսիլ	փսոր	Regular	C-initial	Basic	I-Class	-իլ
@@ -3151,43 +3151,43 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3150	փրթիլ	56	նստիլ	փրթ	Irregular	C-initial			-իլ
 3151	փրկագործել	2	քաղել	փրկագործ	Regular	C-initial		E-Class	-ել
 3152	փրկել	2	քաղել	փրկ	Regular	C-initial		E-Class	-ել
-3153	փրկուիլ	4	զզուիլ	փրկ	Regular	C-initial	Passive	Passive	-իլ
+3153	փրկուիլ	4	զզուիլ	փրկ	Regular	C-initial	Passive	Passive	-ուիլ
 3154	փրցնել	10	մօտեցնել	փր	Regular	C-initial	Basic	Causative	-ցնել
 3155	փրփրեցնել	10	մօտեցնել	փրփրե	Regular	C-initial	Basic	Causative	-ցնել
 3156	փրփրիլ	4	խօսիլ	փրփր	Regular	C-initial	Basic	I-Class	-իլ
 3157	փքալ	6	կարդալ	փք	Regular	C-initial		A-Class	-ալ
 3158	փքանալ	20	նիհարնալ	փքա	Regular	C-initial		Inchoative	-նալ
 3159	փքացնել	10	մօտեցնել	փքա	Regular	C-initial	Basic	Causative	-ցնել
-3160	փքուիլ	4	զզուիլ	փք	Regular	C-initial	Passive	Passive	-իլ
+3160	փքուիլ	4	զզուիլ	փք	Regular	C-initial	Passive	Passive	-ուիլ
 3161	քալել	2	քաղել	քալ	Regular	C-initial		E-Class	-ել
 3162	քակել	2	քաղել	քակ	Regular	C-initial		E-Class	-ել
-3163	քակուիլ	4	զզուիլ	քակ	Regular	C-initial	Passive	Passive	-իլ
+3163	քակուիլ	4	զզուիլ	քակ	Regular	C-initial	Passive	Passive	-ուիլ
 3164	քակտել	2	քաղել	քակտ	Regular	C-initial		E-Class	-ել
 3165	քահանայանալ	20	նիհարնալ	քահանայա	Regular	C-initial		Inchoative	-նալ
 3166	քաղաքակրթել	2	քաղել	քաղաքակրթ	Regular	C-initial		E-Class	-ել
-3167	քաղաքակրթուիլ	4	զզուիլ	քաղաքակրթ	Regular	C-initial	Passive	Passive	-իլ
+3167	քաղաքակրթուիլ	4	զզուիլ	քաղաքակրթ	Regular	C-initial	Passive	Passive	-ուիլ
 3168	քաղել	2	քաղել	քաղ	Regular	C-initial		E-Class	-ել
 3169	քաղցրանալ	20	նիհարնալ	քաղցրա	Regular	C-initial		Inchoative	-նալ
 3170	քաղցրացնել	10	մօտեցնել	քաղցրա	Regular	C-initial	Basic	Causative	-ցնել
 3171	քամահրել	2	քաղել	քամահր	Regular	C-initial		E-Class	-ել
 3172	քամել	2	քաղել	քամ	Regular	C-initial		E-Class	-ել
 3173	քայքայել	2	քաղել	քայքայ	Regular	C-initial		E-Class	-ել
-3174	քայքայուիլ	4	զզուիլ	քայքայ	Regular	C-initial	Passive	Passive	-իլ
+3174	քայքայուիլ	4	զզուիլ	քայքայ	Regular	C-initial	Passive	Passive	-ուիլ
 3175	քանդակել	2	քաղել	քանդակ	Regular	C-initial		E-Class	-ել
 3176	քանդել	2	քաղել	քանդ	Regular	C-initial		E-Class	-ել
-3177	քանդուիլ	4	զզուիլ	քանդ	Regular	C-initial	Passive	Passive	-իլ
+3177	քանդուիլ	4	զզուիլ	քանդ	Regular	C-initial	Passive	Passive	-ուիլ
 3178	քաշել	2	քաղել	քաշ	Regular	C-initial		E-Class	-ել
 3179	քաշկռտել	2	քաղել	քաշկռտ	Regular	C-initial		E-Class	-ել
-3180	քաշուիլ	4	զզուիլ	քաշ	Regular	C-initial	Passive	Passive	-իլ
+3180	քաշուիլ	4	զզուիլ	քաշ	Regular	C-initial	Passive	Passive	-ուիլ
 3181	քաշքշել	2	քաղել	քաշքշ	Regular	C-initial		E-Class	-ել
 3182	քաջալերել	2	քաղել	քաջալեր	Regular	C-initial		E-Class	-ել
-3183	քաջալերուիլ	4	զզուիլ	քաջալեր	Regular	C-initial	Passive	Passive	-իլ
+3183	քաջալերուիլ	4	զզուիլ	քաջալեր	Regular	C-initial	Passive	Passive	-ուիլ
 3184	քառապատկել	2	քաղել	քառապատկ	Regular	C-initial		E-Class	-ել
 3185	քասքնիլ	4	խօսիլ	քասքն	Regular	C-initial	Basic	I-Class	-իլ
 3186	քարանալ	20	նիհարնալ	քարա	Regular	C-initial		Inchoative	-նալ
 3187	քարացնել	10	մօտեցնել	քարա	Regular	C-initial	Basic	Causative	-ցնել
 3188	քարկոծել	2	քաղել	քարկոծ	Regular	C-initial		E-Class	-ել
-3189	քարկոծուիլ	4	զզուիլ	քարկոծ	Regular	C-initial	Passive	Passive	-իլ
+3189	քարկոծուիլ	4	զզուիլ	քարկոծ	Regular	C-initial	Passive	Passive	-ուիլ
 3190	քարոզել	2	քաղել	քարոզ	Regular	C-initial		E-Class	-ել
 3191	քացխեցնել	10	մօտեցնել	քացխե	Regular	C-initial	Basic	Causative	-ցնել
 3192	քացխիլ	4	խօսիլ	քացխ	Regular	C-initial	Basic	I-Class	-իլ
@@ -3195,7 +3195,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3194	քերել	2	քաղել	քեր	Regular	C-initial		E-Class	-ել
 3195	քերթել	2	քաղել	քերթ	Regular	C-initial		E-Class	-ել
 3196	քերծել	2	քաղել	քերծ	Regular	C-initial		E-Class	-ել
-3197	քերուիլ	4	զզուիլ	քեր	Regular	C-initial	Passive	Passive	-իլ
+3197	քերուիլ	4	զզուիլ	քեր	Regular	C-initial	Passive	Passive	-ուիլ
 3198	քեքրտալ	6	կարդալ	քեքրտ	Regular	C-initial		A-Class	-ալ
 3199	քէննալ	20	նիհարնալ	քէն	Regular	C-initial		Inchoative	-նալ
 3200	քթթել	2	քաղել	քթթ	Regular	C-initial		E-Class	-ել
@@ -3208,9 +3208,9 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3207	քննադատել	2	քաղել	քննադատ	Regular	C-initial		E-Class	-ել
 3208	քննարկել	2	քաղել	քննարկ	Regular	C-initial		E-Class	-ել
 3209	քննել	2	քաղել	քնն	Regular	C-initial		E-Class	-ել
-3210	քննուիլ	4	զզուիլ	քնն	Regular	C-initial	Passive	Passive	-իլ
+3210	քննուիլ	4	զզուիլ	քնն	Regular	C-initial	Passive	Passive	-ուիլ
 3211	քշել	2	քաղել	քշ	Regular	C-initial		E-Class	-ել
-3212	քշուիլ	4	զզուիլ	քշ	Regular	C-initial	Passive	Passive	-իլ
+3212	քշուիլ	4	զզուիլ	քշ	Regular	C-initial	Passive	Passive	-ուիլ
 3213	քողազերծել	2	քաղել	քողազերծ	Regular	C-initial		E-Class	-ել
 3214	քողարկել	2	քաղել	քողարկ	Regular	C-initial		E-Class	-ել
 3215	քորել	2	քաղել	քոր	Regular	C-initial		E-Class	-ել
@@ -3218,7 +3218,7 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3217	քունել	2	քաղել	քուն	Regular	C-initial		E-Class	-ել
 3218	քչփորել	2	քաղել	քչփոր	Regular	C-initial		E-Class	-ել
 3219	քսել	2	քաղել	քս	Regular	C-initial		E-Class	-ել
-3220	քսուիլ	4	զզուիլ	քս	Regular	C-initial	Passive	Passive	-իլ
+3220	քսուիլ	4	զզուիլ	քս	Regular	C-initial	Passive	Passive	-ուիլ
 3221	քստմնիլ	4	խօսիլ	քստմն	Regular	C-initial	Basic	I-Class	-իլ
 3222	քրթմնջել	2	քաղել	քրթմնջ	Regular	C-initial		E-Class	-ել
 3223	քրիստոնէանալ	20	նիհարնալ	քրիստոնէա	Regular	C-initial		Inchoative	-նալ
@@ -3232,19 +3232,19 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3231	օգնել	1	երգել	օգն	Regular	V-initial		E-Class	-ել
 3232	օգտագործել	1	երգել	օգտագործ	Regular	V-initial		E-Class	-ել
 3233	օգտել	1	երգել	օգտ	Regular	V-initial		E-Class	-ել
-3234	օգտուիլ	3	ածիլուիլ	օգտ	Regular	V-initial	Passive	Passive	-իլ
+3234	օգտուիլ	3	ածիլուիլ	օգտ	Regular	V-initial	Passive	Passive	-ուիլ
 3235	օդընտելանալ	19	ամչնալ	օդընտելա	Regular	V-initial		Inchoative	-նալ
 3236	օդընտելացնել	9	աճեցնել	օդընտելա	Regular	V-initial	Basic	Causative	-ցնել
 3237	օթեւանիլ	3	ապրիլ	օթեւան	Regular	V-initial	Basic	I-Class	-իլ
 3238	օժանդակել	1	երգել	օժանդակ	Regular	V-initial		E-Class	-ել
 3239	օժտել	1	երգել	օժտ	Regular	V-initial		E-Class	-ել
-3240	օժտուիլ	3	ածիլուիլ	օժտ	Regular	V-initial	Passive	Passive	-իլ
+3240	օժտուիլ	3	ածիլուիլ	օժտ	Regular	V-initial	Passive	Passive	-ուիլ
 3241	օծանել	1	երգել	օծան	Regular	V-initial		E-Class	-ել
 3242	օծել	1	երգել	օծ	Regular	V-initial		E-Class	-ել
-3243	օծուիլ	3	ածիլուիլ	օծ	Regular	V-initial	Passive	Passive	-իլ
+3243	օծուիլ	3	ածիլուիլ	օծ	Regular	V-initial	Passive	Passive	-ուիլ
 3244	օղակել	1	երգել	օղակ	Regular	V-initial		E-Class	-ել
 3245	օճառել	1	երգել	օճառ	Regular	V-initial		E-Class	-ել
-3246	օճառուիլ	3	ածիլուիլ	օճառ	Regular	V-initial	Passive	Passive	-իլ
+3246	օճառուիլ	3	ածիլուիլ	օճառ	Regular	V-initial	Passive	Passive	-ուիլ
 3247	օսլայել	1	երգել	օսլայ	Regular	V-initial		E-Class	-ել
 3248	օտարանալ	19	ամչնալ	օտարա	Regular	V-initial		Inchoative	-նալ
 3249	օտարացնել	9	աճեցնել	օտարա	Regular	V-initial	Basic	Causative	-ցնել
@@ -3255,5 +3255,5 @@ Index	Verb	Class number	Class example	Stem	Regularity	Initial segment	Subclass	R
 3254	օրհնել	1	երգել	օրհն	Regular	V-initial		E-Class	-ել
 3255	օրհներգել	1	երգել	օրհներգ	Regular	V-initial		E-Class	-ել
 3256	օրօրել	1	երգել	օրօր	Regular	V-initial		E-Class	-ել
-3257	օրօրուիլ	3	ածիլուիլ	օրօր	Regular	V-initial	Passive	Passive	-իլ
+3257	օրօրուիլ	3	ածիլուիլ	օրօր	Regular	V-initial	Passive	Passive	-ուիլ
 3258	ֆշշալ	6	կարդալ	ֆշշ	Regular	C-initial		A-Class	-ալ
