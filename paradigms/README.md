@@ -145,3 +145,8 @@ indicative past imperfective 3sg	|	subjunctive past imperfective 3sg	|	negative 
 indicative past imperfective 1pl	|	subjunctive past imperfective 1pl	|	negative indicative past imperfective 1pl	|	negative subjunctive past imperfective 1pl
 indicative past imperfective 2pl	|	subjunctive past imperfective 2pl	|	negative indicative past imperfective 2pl	|	negative subjunctive past imperfective 2pl
 indicative past imperfective 3pl	|	subjunctive past imperfective 3sg	|	negative indicative past imperfective 3pl	|	negative subjunctive past imperfective 3pl
+
+## Archaic and obsolete verbs
+Boyacioglu listed paradigms for some archaic or obsolete verbs which are no longer used in modern spoken Armenian. Some verbs and their classes are essentially obsolete and aren't used in modern speech (7, 8, 21, 22). Some verbs belong to archaic classes (11, 12), but they are treated as regular Class 1, 2 verbs in modern spoken Armenian. For all these archaic classes, we provide Boyacioglu's original paradigms in our verb list and paradigm list.
+
+
