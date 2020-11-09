@@ -7,7 +7,7 @@ Most grammars of Western Armenian use 3 simple conjugation classes, but these do
 4) Suppletive verbs use different stems in different cells
 5) Paradigms can slightly differ for vowel-initial vs. consonant-initial verbs. 
 
-For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use his conjugation system. We refine his paradigms to incorporate passives and regularized verbs. 
+For more complete coverage, Boyacioglu 2010 uses 58 conjugation classes. We use his conjugation system. We refine his paradigms to incorporate passives and regularized verbs. We did some other minor changes, described in the [differences](#Differences-from-Boyacioglu-2010) section.
 
 ## Types of files
 
@@ -146,7 +146,15 @@ indicative past imperfective 1pl	|	subjunctive past imperfective 1pl	|	negative 
 indicative past imperfective 2pl	|	subjunctive past imperfective 2pl	|	negative indicative past imperfective 2pl	|	negative subjunctive past imperfective 2pl
 indicative past imperfective 3pl	|	subjunctive past imperfective 3sg	|	negative indicative past imperfective 3pl	|	negative subjunctive past imperfective 3pl
 
-## Archaic and obsolete verbs
-Boyacioglu listed paradigms for some archaic or obsolete verbs which are no longer used in modern spoken Armenian. Some verbs and their classes are essentially obsolete and aren't used in modern speech (7, 8, 21, 22). Some verbs belong to archaic classes (11, 12), but they are treated as regular Class 1, 2 verbs in modern spoken Armenian. For all these archaic classes, we provide Boyacioglu's original paradigms in our verb list and paradigm list.
+## Differences from Boyacioglu 2010
+Boyacioglu provides the most complete coverage of Western Armenian verbs. Although our paradigm files and verb list files largely are adapted from Boyacioglu, we reorganized some minor details.
+1) **Stems**: Boyacioglu 2010 doesn't explicitly state the stem of words. The stems are our own analysis. 
+2) **Affixes**: Boyacioglu uses the morphological marker -ուլ (*-ul*) as the affix for Classes 21 and 22, but we use -նուլ (*-nul*).
+3) **Subclass**: While still using Boyacioglu's class numbering, we set up subclasses for conjugations which slightly differ. For example, Classes 3 and 4 include both simple verbs and passive verbs. We set these two types of verbs apart.
+4) **Obsolete verbs**: Boyacioglu listed paradigms for some archaic or obsolete verbs when end in the sequence -ուլ *-ul*. These are classes 7, 8, 21, 22. These verbs are no longer used in modern spoken Armenian.  We provide Boyacioglu's original paradigms in our verb list and paradigm list.
+5) **Archaic verbs**: Boyacioglu set up classes 11, 12 for archaic verbs which end in the sequence -ուցանել *-ut͡sanel*. These verbs are treated as regular Class 1, 2 verbs in modern spoken Armenian. We provide Boyacioglu's original paradigms in our verb list and paradigm list.
+5) **Causatives**: some causatives use an orthographic variant of the causative suffix. We set apart these verbs using a separate subclass based on orthography.
+6) ***-anil* verbs**: Boyacioglu used separated classes (17, 18) for verbs that end in *-anil*. But these are conjugated the same as regular verbs in Class 3, 4 that end in *-il*. We reassign these verbs to Class 3, 4 and don't have a separate class for them.
+7) **Class 26**: Classes 26 includes verbs with the suffix *-t͡ʃil* or the suffix *-il*. We reassign the verbs with *-il* into Class 44.
 
 
