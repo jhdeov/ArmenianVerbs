@@ -33,6 +33,12 @@ Verbs are listed starting from the second row. The first row describes the infor
 1) **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
 1) **Affix**: The sequence of segments which follows the stem.
 
-## Modifications
-We slightly modified Boyacioglu's verb list to correct for typos and errors. The differences are listed in [modifications](modifications.md) file.
+## Errors
+We slightly modified Boyacioglu's verb list to correct for typos and errors. These errors are the following:
+1) **Misspelling**: Some verbs were incorrectly written without the final infinitival suffix `-l`. This includes աստիճանազրկե,
+4) **Class**: Some verbs had the wrong conjugation class in Boyacioglu 2010. These errors were few and they are the following: յուսալ, ցօղուել, փտիլ, փառաբանել, ըմբոստանալ, նիհարնալ, ընծայուիլ, ընկերակցիլ, ընդունուիլ, ընձիւղել, ընձիւղիլ, ընտանենալ, ընտելանալ, նստեցնել, ստանձնել, ընկողմանիլ, քրտնիլ, դաւաճանել
+
+
+
+
 
