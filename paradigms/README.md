@@ -155,6 +155,6 @@ Boyacioglu provides the most complete coverage of Western Armenian verbs. Althou
 5) **Archaic verbs**: Boyacioglu set up classes 11, 12 for archaic verbs which end in the sequence -ուցանել *-ut͡sanel*. These verbs are treated as regular Class 1, 2 verbs in modern spoken Armenian. We provide Boyacioglu's original paradigms in our verb list and paradigm list.
 5) **Causatives**: some causatives use an orthographic variant of the causative suffix. We set apart these verbs using a separate subclass based on orthography.
 6) ***-anil* verbs**: Boyacioglu used separated classes (17, 18) for verbs that end in *-anil*. But these are conjugated the same as regular verbs in Class 3, 4 that end in *-il*. We reassign these verbs to Class 3, 4 and don't have a separate class for them.
-7) **Class 26**: Classes 26 includes verbs with the suffix *-t͡ʃil* or the suffix *-il*. We reassign the verbs with *-il* into Class 44.
+7) **Class 26**: Classes 26 includes verbs with the suffix -չիլ *-t͡ʃil* or the suffix -իլ *-il*. We reassign the verbs with *-il* into Class 44.
 
 
