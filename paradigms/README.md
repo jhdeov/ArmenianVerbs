@@ -147,7 +147,7 @@ indicative past imperfective 2pl	|	subjunctive past imperfective 2pl	|	negative 
 indicative past imperfective 3pl	|	subjunctive past imperfective 3sg	|	negative indicative past imperfective 3pl	|	negative subjunctive past imperfective 3pl
 
 ## Differences from Boyacioglu 2010
-Boyacioglu provides the most complete coverage of Western Armenian verbs. Although our paradigm files and verb list files largely are adapted from Boyacioglu, we reorganized some minor details.
+Boyacioglu provides the most complete coverage of Western Armenian verbs. Although our paradigm files and verb list files are largely the same as Boyacioglu 2010, we reorganized some minor details.
 1) **Stems**: Boyacioglu 2010 doesn't explicitly state the stem of words. The stems are our own analysis. 
 2) **Affixes**: Boyacioglu uses the morphological marker -ուլ (*-ul*) as the affix for Classes 21 and 22, but we use -նուլ (*-nul*).
 3) **Subclass**: While still using Boyacioglu's class numbering, we set up subclasses for conjugations which slightly differ. For example, Classes 3 and 4 include both simple verbs and passive verbs. We set these two types of verbs apart.
