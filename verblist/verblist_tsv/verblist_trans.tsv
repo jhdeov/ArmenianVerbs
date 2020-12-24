@@ -1,48 +1,4 @@
 Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	Regular category	Affix
-95	abahovakrel	1		erkel	abahovakr	Regular	V	E-Class	-el
-96	abahovakrvil	3	Passive	ad͡zilvil	abahovakr	Regular	V	Passive	-vil
-97	abahovel	1		erkel	abahov	Regular	V	E-Class	-el
-290	povantagel	2		kaɣel	povantag	Regular	C	E-Class	-el
-355	kinovnal	20		niharnal	kinov	Regular	C	Inchoative	-nal
-356	kinovt͡snel	10	Basic	modet͡snel	kinov	Regular	C	Causative	-t͡snel
-391	kovapanel	2		kaɣel	kovapan	Regular	C	E-Class	-el
-392	kovel	2		kaɣel	kov	Regular	C	E-Class	-el
-453	tarovel	2		kaɣel	tarov	Regular	C	E-Class	-el
-494	torsovil	4	Basic	xosil	torsov	Regular	C	I-Class	-il
-643	zovanal	20		niharnal	zova	Regular	C	Inchoative	-nal
-644	zovat͡snel	10	Basic	modet͡snel	zova	Regular	C	Causative	-t͡snel
-809	tovel	2		kaɣel	tov	Regular	C	E-Class	-el
-848	ʒoɣovel	2		kaɣel	ʒoɣov	Regular	C	E-Class	-el
-1055	xosdovanil	4	Basic	xosil	xosdovan	Regular	C	I-Class	-il
-1073	xorovel	2		kaɣel	xorov	Regular	C	E-Class	-el
-1074	xorovvil	4	Passive	zzvil	xorov	Regular	C	Passive	-vil
-1092	xrovel	2		kaɣel	xrov	Regular	C	E-Class	-el
-1093	xrovil	4	Basic	xosil	xrov	Regular	C	I-Class	-il
-1626	holovel	2		kaɣel	holov	Regular	C	E-Class	-el
-1630	hovaharel	2		kaɣel	hovahar	Regular	C	E-Class	-el
-1631	hovanal	20		niharnal	hova	Regular	C	Inchoative	-nal
-1632	hovanaworel	2		kaɣel	hovanawor	Regular	C	E-Class	-el
-1633	hovel	2		kaɣel	hov	Regular	C	E-Class	-el
-1634	hovvel	2		kaɣel	hovu	Regular	C	E-Class	-el
-2021	jolovel	2		kaɣel	jolov	Regular	C	E-Class	-el
-2022	jolovil	4	Basic	xosil	jolov	Regular	C	I-Class	-il
-2110	nzovel	2		kaɣel	nzov	Regular	C	E-Class	-el
-2352	uʒovnal	19		amt͡ʃnal	uʒov	Regular	V	Inchoative	-nal
-2353	uʒovt͡snel	9	Basic	ad͡ʒet͡snel	uʒov	Regular	V	Causative	-t͡snel
-2578	t͡ʃadakovel	2		kaɣel	t͡ʃadakov	Regular	C	E-Class	-el
-2888	vrtovel	2		kaɣel	vrtov	Regular	C	E-Class	-el
-2889	vrtovil	4	Basic	xosil	vrtov	Regular	C	I-Class	-il
-2890	vrtovvil	4	Passive	zzvil	vrtov	Regular	C	Passive	-vil
-385	kojanal	20		niharnal	koja	Regular	C	Inchoative	-nal
-386	kojat͡snel	10	Basic	modet͡snel	koja	Regular	C	Causative	-t͡snel
-806	tujladrel	2		kaɣel	tujladr	Regular	C	E-Class	-el
-1042	xojanal	20		niharnal	xoja	Regular	C	Inchoative	-nal
-1459	had͡ʒojanal	20		niharnal	had͡ʒoja	Regular	C	Inchoative	-nal
-1488	hajhojel	2		kaɣel	hajhoj	Regular	C	E-Class	-el
-2138	nujnanal	20		niharnal	nujna	Regular	C	Inchoative	-nal
-2139	nujnat͡snel	10	Basic	modet͡snel	nujna	Regular	C	Causative	-t͡snel
-2257	ʃojel	2		kaɣel	ʃoj	Regular	C	E-Class	-el
-2258	ʃojvil	4	Passive	zzvil	ʃoj	Regular	C	Passive	-vil
 1	akut͡sel	1		erkel	akut͡s	Regular	V	E-Class	-el
 2	azadakrel	1		erkel	azadakr	Regular	V	E-Class	-el
 3	azadel	1		erkel	azad	Regular	V	E-Class	-el
@@ -104,7 +60,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 59	ankosnel	1		erkel	ankosn	Regular	V	E-Class	-el
 60	antamagt͡sil	3	Basic	abril	antamagt͡s	Regular	V	I-Class	-il
 61	antamadel	1		erkel	antamad	Regular	V	E-Class	-el
-62	antratarnal	39		antratarnal	antratarn	Irregular	V		-al
+62	antratarnal	39		antratarnal	antratarn	Suppletive	V		-al
 63	aneanal	19		amt͡ʃnal	anea	Regular	V	Inchoative	-nal
 64	anteɣel	1		erkel	anteɣ	Regular	V	E-Class	-el
 65	anid͡zel	1		erkel	anid͡z	Regular	V	E-Class	-el
@@ -137,6 +93,9 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 92	abazinel	1		erkel	abazin	Regular	V	E-Class	-el
 93	abaganel	1		erkel	abagan	Regular	V	E-Class	-el
 94	abaganil	3	Basic	abril	abagan	Regular	V	I-Class	-il
+95	abahovakrel	1		erkel	abahovakr	Regular	V	E-Class	-el
+96	abahovakrvil	3	Passive	ad͡zilvil	abahovakr	Regular	V	Passive	-vil
+97	abahovel	1		erkel	abahov	Regular	V	E-Class	-el
 98	abaʃxarel	1		erkel	abaʃxar	Regular	V	E-Class	-el
 99	abaseril	3	Basic	abril	abaser	Regular	V	I-Class	-il
 100	abasdanil	3	Basic	abril	abasdan	Regular	V	I-Class	-il
@@ -329,6 +288,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 287	pohrel	2		kaɣel	pohr	Regular	C	E-Class	-el
 288	poɣpot͡ʃil	4	Basic	xosil	poɣpot͡ʃ	Regular	C	I-Class	-il
 289	poɣokel	2		kaɣel	poɣok	Regular	C	E-Class	-el
+290	povantagel	2		kaɣel	povantag	Regular	C	E-Class	-el
 291	porpokil	4	Basic	xosil	porpok	Regular	C	I-Class	-il
 292	porposil	4	Basic	xosil	porpos	Regular	C	I-Class	-il
 293	porpokel	2		kaɣel	porpok	Regular	C	E-Class	-el
@@ -393,6 +353,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 352	kzel	2		kaɣel	kz	Regular	C	E-Class	-el
 353	ktal	6		gartal	kt	Regular	C	A-Class	-al
 354	kʒdvil	4	Passive	zzvil	kʒd	Regular	C	Passive	-vil
+355	kinovnal	20		niharnal	kinov	Regular	C	Inchoative	-nal
+356	kinovt͡snel	10	Basic	modet͡snel	kinov	Regular	C	Causative	-t͡snel
 357	kiʃadel	2		kaɣel	kiʃad	Regular	C	E-Class	-el
 358	kiʃerel	2		kaɣel	kiʃer	Regular	C	E-Class	-el
 359	kit͡ʃanal	20		niharnal	kit͡ʃa	Regular	C	Inchoative	-nal
@@ -421,10 +383,14 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 382	kohapanel	2		kaɣel	kohapan	Regular	C	E-Class	-el
 383	kohanal	20		niharnal	koha	Regular	C	Inchoative	-nal
 384	koɣnal	20		niharnal	koɣ	Regular	C	Inchoative	-nal
+385	kojanal	20		niharnal	koja	Regular	C	Inchoative	-nal
+386	kojat͡snel	10	Basic	modet͡snel	koja	Regular	C	Causative	-t͡snel
 387	kot͡ʃel	2		kaɣel	kot͡ʃ	Regular	C	E-Class	-el
 388	koral	6		gartal	kor	Regular	C	A-Class	-al
 389	korkoral	6		gartal	korkor	Regular	C	A-Class	-al
 390	korozanal	20		niharnal	koroza	Regular	C	Inchoative	-nal
+391	kovapanel	2		kaɣel	kovapan	Regular	C	E-Class	-el
+392	kovel	2		kaɣel	kov	Regular	C	E-Class	-el
 393	kord͡zatrel	2		kaɣel	kord͡zatr	Regular	C	E-Class	-el
 394	kord͡zad͡zel	2		kaɣel	kord͡zad͡z	Regular	C	E-Class	-el
 395	kord͡zagt͡sil	4	Basic	xosil	kord͡zagt͡s	Regular	C	I-Class	-il
@@ -485,6 +451,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 450	tart͡snel	10	Orthographic variant with affricate	tart͡snel	tar	Regular	C	Causative	-t͡snel
 451	tarmanel	2		kaɣel	tarman	Regular	C	E-Class	-el
 452	tarmanvil	4	Passive	zzvil	tarman	Regular	C	Passive	-vil
+453	tarovel	2		kaɣel	tarov	Regular	C	E-Class	-el
 454	tawatrel	2		kaɣel	tawatr	Regular	C	E-Class	-el
 455	tawad͡ʒanel	2		kaɣel	tawad͡ʒan	Regular	C	E-Class	-el
 456	tawanil	4	Basic	xosil	tawan	Regular	C	I-Class	-il
@@ -525,6 +492,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 491	toɣat͡snel	10	Basic	modet͡snel	toɣa	Regular	C	Causative	-t͡snel
 492	toɣtnal	20		niharnal	toɣt	Regular	C	Inchoative	-nal
 493	toɣtot͡ʃel	2		kaɣel	toɣtot͡ʃ	Regular	C	E-Class	-el
+494	torsovil	4	Basic	xosil	torsov	Regular	C	I-Class	-il
 495	topel	2		kaɣel	top	Regular	C	E-Class	-el
 496	tbil	44		tbil	tb	Irregular	C		-il
 497	tbt͡ʃil	26		tbt͡ʃil	tb	Irregular	C		-t͡ʃil
@@ -673,6 +641,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 640	zohaperel	38		perel	zohaper	Irregular	C		-el
 641	zohel	2		kaɣel	zoh	Regular	C	E-Class	-el
 642	zohvil	4	Passive	zzvil	zoh	Regular	C	Passive	-vil
+643	zovanal	20		niharnal	zova	Regular	C	Inchoative	-nal
+644	zovat͡snel	10	Basic	modet͡snel	zova	Regular	C	Causative	-t͡snel
 645	zvartanal	20		niharnal	zvarta	Regular	C	Inchoative	-nal
 646	zvartat͡snel	10	Basic	modet͡snel	zvarta	Regular	C	Causative	-t͡snel
 647	zvard͡ʒanal	20		niharnal	zvard͡ʒa	Regular	C	Inchoative	-nal
@@ -834,8 +804,10 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 803	tʃnamat͡snel	10	Basic	modet͡snel	tʃnama	Regular	C	Causative	-t͡snel
 804	toɣlkel	2		kaɣel	toɣlk	Regular	C	E-Class	-el
 805	toɣul	8		toɣul	toɣ	Archaic	C		-ul
+806	tujladrel	2		kaɣel	tujladr	Regular	C	E-Class	-el
 807	tobaharel	2		kaɣel	tobahar	Regular	C	E-Class	-el
 808	tobel	2		kaɣel	tob	Regular	C	E-Class	-el
+809	tovel	2		kaɣel	tov	Regular	C	E-Class	-el
 810	torel	2		kaɣel	tor	Regular	C	E-Class	-el
 811	torʃomil	4	Basic	xosil	torʃom	Regular	C	I-Class	-il
 812	tvakrel	2		kaɣel	tvakr	Regular	C	E-Class	-el
@@ -874,6 +846,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 845	ʒarankel	2		kaɣel	ʒarank	Regular	C	E-Class	-el
 846	ʒxdel	2		kaɣel	ʒxd	Regular	C	E-Class	-el
 847	ʒmdil	4	Basic	xosil	ʒmd	Regular	C	I-Class	-il
+848	ʒoɣovel	2		kaɣel	ʒoɣov	Regular	C	E-Class	-el
 849	ʒoɣvel	2		kaɣel	ʒoɣv	Regular	C	E-Class	-el
 850	ʒbdil	4	Basic	xosil	ʒbd	Regular	C	I-Class	-il
 851	ʒbrhil	4	Basic	xosil	ʒbrh	Regular	C	I-Class	-il
@@ -894,7 +867,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 866	iwɣel	1		erkel	iwɣ	Regular	V	E-Class	-el
 867	iwɣodel	1		erkel	iwɣod	Regular	V	E-Class	-el
 868	iwrat͡snel	9	Basic	ad͡ʒet͡snel	iwra	Regular	V	Causative	-t͡snel
-869	lal	35		lal	l	Suppletive	C		-al
+869	lal	35		lal	l	Irregular	C		-al
 870	lagel	2		kaɣel	lag	Regular	C	E-Class	-el
 871	lajnel	2		kaɣel	lajn	Regular	C	E-Class	-el
 872	lajnnal	20		niharnal	lajn	Regular	C	Inchoative	-nal
@@ -1067,6 +1040,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1039	xoxot͡ʃel	2		kaɣel	xoxot͡ʃ	Regular	C	E-Class	-el
 1040	xogal	6		gartal	xog	Regular	C	A-Class	-al
 1041	xoɣxoɣel	2		kaɣel	xoɣxoɣ	Regular	C	E-Class	-el
+1042	xojanal	20		niharnal	xoja	Regular	C	Inchoative	-nal
 1043	xonarhel	2		kaɣel	xonarh	Regular	C	E-Class	-el
 1044	xonarhil	4	Basic	xosil	xonarh	Regular	C	I-Class	-il
 1045	xonawnal	20		niharnal	xonaw	Regular	C	Inchoative	-nal
@@ -1079,6 +1053,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1052	xobobel	2		kaɣel	xobob	Regular	C	E-Class	-el
 1053	xorel	2		kaɣel	xor	Regular	C	E-Class	-el
 1054	xosdanal	20		niharnal	xosda	Regular	C	Inchoative	-nal
+1055	xosdovanil	4	Basic	xosil	xosdovan	Regular	C	I-Class	-il
 1056	xodel	2		kaɣel	xod	Regular	C	E-Class	-el
 1057	xodoril	4	Basic	xosil	xodor	Regular	C	I-Class	-il
 1058	xoranal	20		niharnal	xora	Regular	C	Inchoative	-nal
@@ -1096,6 +1071,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1070	xorʃil	4	Basic	xosil	xorʃ	Regular	C	I-Class	-il
 1071	xorʃomel	2		kaɣel	xorʃom	Regular	C	E-Class	-el
 1072	xorʃomil	4	Basic	xosil	xorʃom	Regular	C	I-Class	-il
+1073	xorovel	2		kaɣel	xorov	Regular	C	E-Class	-el
+1074	xorovvil	4	Passive	zzvil	xorov	Regular	C	Passive	-vil
 1075	xordagel	2		kaɣel	xordag	Regular	C	E-Class	-el
 1076	xordagvil	4	Passive	zzvil	xordag	Regular	C	Passive	-vil
 1077	xot͡sel	2		kaɣel	xot͡s	Regular	C	E-Class	-el
@@ -1113,6 +1090,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1089	xrmpal	6		gartal	xrmp	Regular	C	A-Class	-al
 1090	xrnel	2		kaɣel	xrn	Regular	C	E-Class	-el
 1091	xrnvil	4	Passive	zzvil	xrn	Regular	C	Passive	-vil
+1092	xrovel	2		kaɣel	xrov	Regular	C	E-Class	-el
+1093	xrovil	4	Basic	xosil	xrov	Regular	C	I-Class	-il
 1094	xrfil	4	Basic	xosil	xrf	Regular	C	I-Class	-il
 1095	xsdanal	20		niharnal	xsda	Regular	C	Inchoative	-nal
 1096	xsdat͡snel	10	Basic	modet͡snel	xsda	Regular	C	Causative	-t͡snel
@@ -1478,6 +1457,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1456	had͡ʒel	2		kaɣel	had͡ʒ	Regular	C	E-Class	-el
 1457	had͡ʒil	4	Basic	xosil	had͡ʒ	Regular	C	I-Class	-il
 1458	had͡ʒil	4	Basic	xosil	had͡ʒ	Regular	C	I-Class	-il
+1459	had͡ʒojanal	20		niharnal	had͡ʒoja	Regular	C	Inchoative	-nal
 1460	hamatasel	2		kaɣel	hamatas	Regular	C	E-Class	-el
 1461	hamatrel	2		kaɣel	hamatr	Regular	C	E-Class	-el
 1462	hamaxmpel	2		kaɣel	hamaxmp	Regular	C	E-Class	-el
@@ -1506,6 +1486,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1485	hamrel	2		kaɣel	hamr	Regular	C	E-Class	-el
 1486	hajtajtel	2		kaɣel	hajtajt	Regular	C	E-Class	-el
 1487	hajil	4	Basic	xosil	haj	Regular	C	I-Class	-il
+1488	hajhojel	2		kaɣel	hajhoj	Regular	C	E-Class	-el
 1489	hajt͡sel	2		kaɣel	hajt͡s	Regular	C	E-Class	-el
 1490	hankanagel	2		kaɣel	hankanag	Regular	C	E-Class	-el
 1491	hankil	4	Basic	xosil	hank	Regular	C	I-Class	-il
@@ -1643,9 +1624,15 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 1623	hnt͡ʃet͡snel	10	Basic	modet͡snel	hnt͡ʃe	Regular	C	Causative	-t͡snel
 1624	hokal	6		gartal	hok	Regular	C	A-Class	-al
 1625	hokevaril	4	Basic	xosil	hokevar	Regular	C	I-Class	-il
+1626	holovel	2		kaɣel	holov	Regular	C	E-Class	-el
 1627	hosel	2		kaɣel	hos	Regular	C	E-Class	-el
 1628	hoset͡snel	10	Basic	modet͡snel	hose	Regular	C	Causative	-t͡snel
 1629	hosil	4	Basic	xosil	hos	Regular	C	I-Class	-il
+1630	hovaharel	2		kaɣel	hovahar	Regular	C	E-Class	-el
+1631	hovanal	20		niharnal	hova	Regular	C	Inchoative	-nal
+1632	hovanaworel	2		kaɣel	hovanawor	Regular	C	E-Class	-el
+1633	hovel	2		kaɣel	hov	Regular	C	E-Class	-el
+1634	hovvel	2		kaɣel	hovu	Regular	C	E-Class	-el
 1635	hodil	4	Basic	xosil	hod	Regular	C	I-Class	-il
 1636	hododel	2		kaɣel	hodod	Regular	C	E-Class	-el
 1637	hodvədal	6		gartal	hodvəd	Regular	C	A-Class	-al
@@ -2032,6 +2019,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2018	jɣpat͡snel	10	Basic	modet͡snel	jɣpa	Regular	C	Causative	-t͡snel
 2019	joknet͡snel	10	Basic	modet͡snel	jokne	Regular	C	Causative	-t͡snel
 2020	joknil	4	Basic	xosil	jokn	Regular	C	I-Class	-il
+2021	jolovel	2		kaɣel	jolov	Regular	C	E-Class	-el
+2022	jolovil	4	Basic	xosil	jolov	Regular	C	I-Class	-il
 2023	joxordal	6		gartal	joxord	Regular	C	A-Class	-al
 2024	joɣtoɣtel	2		kaɣel	joɣtoɣt	Regular	C	E-Class	-el
 2025	joɣtoɣtil	4	Basic	xosil	joɣtoɣt	Regular	C	I-Class	-il
@@ -2119,6 +2108,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2107	nerpagel	2		kaɣel	nerpag	Regular	C	E-Class	-el
 2108	nerkinanal	20		niharnal	nerkina	Regular	C	Inchoative	-nal
 2109	nerkinat͡snel	10	Basic	modet͡snel	nerkina	Regular	C	Causative	-t͡snel
+2110	nzovel	2		kaɣel	nzov	Regular	C	E-Class	-el
 2111	nizagagt͡sil	4	Basic	xosil	nizagagt͡s	Regular	C	I-Class	-il
 2112	niharnal	20		niharnal	nihar	Regular	C	Inchoative	-nal
 2113	nihart͡snel	10	Basic	modet͡snel	nihar	Regular	C	Causative	-t͡snel
@@ -2146,6 +2136,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2135	notakrel	2		kaɣel	notakr	Regular	C	E-Class	-el
 2136	noɣgal	6		gartal	noɣg	Regular	C	A-Class	-al
 2137	noɣgat͡snel	10	Basic	modet͡snel	noɣga	Regular	C	Causative	-t͡snel
+2138	nujnanal	20		niharnal	nujna	Regular	C	Inchoative	-nal
+2139	nujnat͡snel	10	Basic	modet͡snel	nujna	Regular	C	Causative	-t͡snel
 2140	norel	2		kaɣel	nor	Regular	C	E-Class	-el
 2141	norokel	2		kaɣel	norok	Regular	C	E-Class	-el
 2142	norokvil	4	Passive	zzvil	norok	Regular	C	Passive	-vil
@@ -2263,6 +2255,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2254	ʃoɣʃoɣal	6		gartal	ʃoɣʃoɣ	Regular	C	A-Class	-al
 2255	ʃoɣomel	2		kaɣel	ʃoɣom	Regular	C	E-Class	-el
 2256	ʃoɣokortel	2		kaɣel	ʃoɣokort	Regular	C	E-Class	-el
+2257	ʃojel	2		kaɣel	ʃoj	Regular	C	E-Class	-el
+2258	ʃojvil	4	Passive	zzvil	ʃoj	Regular	C	Passive	-vil
 2259	ʃobel	2		kaɣel	ʃob	Regular	C	E-Class	-el
 2260	ʃobʃobel	2		kaɣel	ʃobʃob	Regular	C	E-Class	-el
 2261	ʃortel	2		kaɣel	ʃort	Regular	C	E-Class	-el
@@ -2356,6 +2350,8 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2349	uʒatapil	3	Basic	abril	uʒatap	Regular	V	I-Class	-il
 2350	uʒeɣanal	19		amt͡ʃnal	uʒeɣa	Regular	V	Inchoative	-nal
 2351	uʒeɣat͡snel	9	Basic	ad͡ʒet͡snel	uʒeɣa	Regular	V	Causative	-t͡snel
+2352	uʒovnal	19		amt͡ʃnal	uʒov	Regular	V	Inchoative	-nal
+2353	uʒovt͡snel	9	Basic	ad͡ʒet͡snel	uʒov	Regular	V	Causative	-t͡snel
 2354	uxdel	1		erkel	uxd	Regular	V	E-Class	-el
 2355	ud͡zanal	19		amt͡ʃnal	ud͡za	Regular	V	Inchoative	-nal
 2356	ud͡zat͡snel	9	Basic	ad͡ʒet͡snel	ud͡za	Regular	V	Causative	-t͡snel
@@ -2580,6 +2576,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2575	t͡ʃampel	2		kaɣel	t͡ʃamp	Regular	C	E-Class	-el
 2576	t͡ʃajlel	2		kaɣel	t͡ʃajl	Regular	C	E-Class	-el
 2577	t͡ʃanal	55		mnal	t͡ʃan	Irregular	C		-al
+2578	t͡ʃadakovel	2		kaɣel	t͡ʃadakov	Regular	C	E-Class	-el
 2579	t͡ʃartel	2		kaɣel	t͡ʃart	Regular	C	E-Class	-el
 2580	t͡ʃartvil	4	Passive	zzvil	t͡ʃart	Regular	C	Passive	-vil
 2581	t͡ʃerat͡snel	10	Basic	modet͡snel	t͡ʃera	Regular	C	Causative	-t͡snel
@@ -2889,6 +2886,9 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 2885	vdankvil	4	Passive	zzvil	vdank	Regular	C	Passive	-vil
 2886	vdarel	2		kaɣel	vdar	Regular	C	E-Class	-el
 2887	vdarvil	4	Passive	zzvil	vdar	Regular	C	Passive	-vil
+2888	vrtovel	2		kaɣel	vrtov	Regular	C	E-Class	-el
+2889	vrtovil	4	Basic	xosil	vrtov	Regular	C	I-Class	-il
+2890	vrtovvil	4	Passive	zzvil	vrtov	Regular	C	Passive	-vil
 2891	vribet͡snel	10	Basic	modet͡snel	vribe	Regular	C	Causative	-t͡snel
 2892	vribil	4	Basic	xosil	vrib	Regular	C	I-Class	-il
 2893	vrnt͡ʃel	2		kaɣel	vrnt͡ʃ	Regular	C	E-Class	-el

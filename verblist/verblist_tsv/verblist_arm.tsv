@@ -60,7 +60,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 59	անգոսնել	1		երգել	անգոսն	Regular	V	E-Class	-ել
 60	անդամակցիլ	3	Basic	ապրիլ	անդամակց	Regular	V	I-Class	-իլ
 61	անդամատել	1		երգել	անդամատ	Regular	V	E-Class	-ել
-62	անդրադառնալ	39		անդրադառնալ	անդրադառն	Irregular	V		-ալ
+62	անդրադառնալ	39		անդրադառնալ	անդրադառն	Suppletive	V		-ալ
 63	անէանալ	19		ամչնալ	անէա	Regular	V	Inchoative	-նալ
 64	անթեղել	1		երգել	անթեղ	Regular	V	E-Class	-ել
 65	անիծել	1		երգել	անիծ	Regular	V	E-Class	-ել
@@ -867,7 +867,7 @@ Index	Verb	Class number	Subclass	Example lemma	Stem	Regularity	Initial segment	R
 866	իւղել	1		երգել	իւղ	Regular	V	E-Class	-ել
 867	իւղոտել	1		երգել	իւղոտ	Regular	V	E-Class	-ել
 868	իւրացնել	9	Basic	աճեցնել	իւրա	Regular	V	Causative	-ցնել
-869	լալ	35		լալ	լ	Suppletive	C		-ալ
+869	լալ	35		լալ	լ	Irregular	C		-ալ
 870	լակել	2		քաղել	լակ	Regular	C	E-Class	-ել
 871	լայնել	2		քաղել	լայն	Regular	C	E-Class	-ել
 872	լայննալ	20		նիհարնալ	լայն	Regular	C	Inchoative	-նալ
