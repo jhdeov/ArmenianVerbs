@@ -12,7 +12,7 @@ Armenian is a low-resource Indo-European language. It has two standard dialects:
 The most systematic collection of Western Armenian paradigms is found in Boyacioglu [2010](https://www.asiatheque.com/en/book/hay-pay-les-verbes-de-larmenien-occidental-western-armenian-verbs). He documents 58 paradigms. 
 
 ## Resources
-The [paradigms](paradigms/) folder describes 64 paradigm, based on Boyacioglu's 58 paradigms. A [README](paradigms/README.md) file explains the organization of the paradigm files. The paradigms are provided in:
+The [paradigms](paradigms/) folder describes 64 paradigms, based on Boyacioglu's 58 paradigms. A [README](paradigms/README.md) file explains the organization of the paradigm files. The paradigms are provided in:
 1) the Armenian script,
 2) a transliterated script, similar to IPA, and
 3) a stemmed form.
