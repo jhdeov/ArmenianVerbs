@@ -159,7 +159,8 @@ Boyacioglu provides the most complete coverage of Western Armenian verbs. Althou
 4. **Obsolete verbs**: Boyacioglu listed paradigms for some archaic or obsolete verbs when end in the sequence -ուլ *-ul*. These are classes 7, 8, 21, 22. These verbs are no longer used in modern spoken Armenian.  We provide Boyacioglu's original paradigms in our verb list and paradigm list.
 5. **Archaic verbs**: Boyacioglu set up classes 11, 12 for archaic verbs which end in the sequence -ուցանել *-ut͡sanel*. These verbs are treated as regular Class 1, 2 verbs in modern spoken Armenian. We provide Boyacioglu's original paradigms in our verb list and paradigm list.
 5. **Causatives**: some causatives use an orthographic variant of the causative suffix. We set apart these verbs using a separate subclass based on orthography.
-6. ***-anil* verbs**: Boyacioglu used separated classes (17, 18) for verbs that end in *-anil*. But these are conjugated the same as regular verbs in Class 3, 4 that end in *-il*. We reassign these verbs to Class 3, 4 and don't have a separate class for them.
-7. **Class 26**: Classes 26 includes verbs with the suffix -չիլ *-t͡ʃil* or the suffix -իլ *-il*. We reassign the verbs with *-il* into Class 44.
+6. ***-t͡ʃil* verbs**: Boyacioglu used separated classes (15, 16) and (26) for verbs that end in *-t͡ʃil*. The verbs in (15, 16) were listed as defective verbs which lacked most paradigm cells. However in my native judgment, these class 15-16 verbs are conjugated the same as class 26. The verb list follows Boyacioglu in calling these verbs class 15-16. But the paradigm list does not show the paradigms for classes 15-16; instead, refer to the paradigm for class 26.
+7. ***-anil* verbs**: Boyacioglu used separated classes (17, 18) for verbs that end in *-anil*. But these are conjugated the same as regular verbs in Class 3, 4 that end in *-il*. We reassign these verbs to Class 3, 4 and don't have a separate class for them.
+8. **Class 26**: Classes 26 includes verbs with the suffix -չիլ *-t͡ʃil* or the suffix -իլ *-il*. We reassign the verbs with *-il* into Class 44.
 
 
