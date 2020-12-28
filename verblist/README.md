@@ -1,6 +1,6 @@
 # Verb list
 
-The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list.
+The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list. The modifications are explained in the [modifications](modifications.md) file.
 
 ## Types of verb list files
 
@@ -9,7 +9,7 @@ In this folder, there are two types of files:
 1. [verblist_arm](verblist_tsv/verblist_arm.tsv): Verb list is presented in the Armenian script.
 2. [verblist_trans](verblist_tsv/verblist_trans.tsv): Verb list is presented in its transliterated form.
 
-The files have both `xlsx` and `tsv` versions.  The transliterated forms are generated based on  the [transliteration key](../transliteration.md).
+The files have both `xlsx` and `tsv` versions.  The transliterated forms are generated based on  the [transliteration key](../transliteration.md). 
 ## Structure of a verb list
 
 The structure of a paradigm file looks like the following. This is taken from the transliterated [verblist_trans](verblist_tsv/verblist_trans.tsv) file.
@@ -36,11 +36,6 @@ Verbs are listed starting from the second row. The first row describes the infor
 
 Boyacioglu 2010 provides a partial list of semantic features for the verbs. We are working on getting a complete list of features.
 
-## Errors
-We slightly modified Boyacioglu's verb list to correct for typos and errors. These errors are the following:
-
-1. **Misspelling**: Some verbs were incorrectly written without the final infinitival suffix `-l`. This includes աստիճանազրկե,
-2. **Class**: Some verbs had the wrong conjugation class in Boyacioglu 2010. These errors were few and they are the following: դաւաճանել, ըմբոստանալ, ընծայուիլ, ընկերակցիլ, ընկողմանիլ, ընձիւղիլ, ընտանենալ, ընտելանալ, յուսալ, նստեցնել, սլանալ, ստանձնել, ցօղուել, փառաբանել, փտիլ, քրտնիլ.
 
 
 
