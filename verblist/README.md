@@ -1,6 +1,6 @@
 # Verb list
 
-The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list. The modifications are explained in the [modifications](modifications.md) file.
+The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list. The modifications are explained in the [modifications](../paradigms/modifications.md) file.
 
 ## Types of verb list files
 
