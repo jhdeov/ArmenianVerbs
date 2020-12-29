@@ -25,3 +25,10 @@ For all three folders, the files are  provided in both `.xlxs` or `.tsv`. Transl
 
 The paradigms match the system used in the [Apertium](https://github.com/jhdeov/apertium-hyw) morphological analyzer for Western Armenian.
 
+## Using and citations
+
+All material in this repo is open-source. If you use it, please cite the repo with the following citation. You can export a citation from our [Zenodo](https://zenodo.org/record/4397423) link.
+
+> Nisan Boyacioglu, & Hossep Dolatian. (2020, December 29). Armenian Verbs: Paradigms and verb lists of Western Armenian conjugation classes (Version v.1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4397423
+
+
