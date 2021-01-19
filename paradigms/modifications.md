@@ -17,8 +17,8 @@ Boyacioglu provides the most complete coverage of Western Armenian verbs. Althou
    *  **Class 26**: Classes 26 includes verbs with the suffix *-t͡ʃil* or the suffix *-il*. We reassign the verbs with *-il* into Class 44.
 * **Features**: Boyacioglu 2010 provides a partial list of semantic features for the verbs. We completed this list by the following operations:
   * Of the 3258 verbs, 2749 were found in Kouyoumdjian 1970. We used the part-of-speech found in that dictionary. We conflated `verb neutre` and `verb reflected` into simple intransitives, and we treated `verb active` as transitives.
-  * Of the remaining 509 verbs, we took the part-of-speech fouund in the other digitized Armenian dictionaries from [Nayiri](http://www.nayiri.com/search?l=en&dt=HY_HY&query=). 
-  * If any of the 509 verbs was not found on Nayiri, we used [Bararan Online](https://bararanonline.com/).
+  * Of the remaining 509 verbs, we took the part-of-speech found in the other digitized Armenian dictionaries on [Nayiri](http://www.nayiri.com/search?l=en&dt=HY_HY&query=). We used the Armenian-Armenian and the Armenian-French search queries.
+  * For any of the 509 verbs that were not found on Nayiri, we used [Bararan Online](https://bararanonline.com/).
   * If a verb wasn't found there, then we searched for it on Google. In some cases, the verb was found in an older dictionary. In other cases, the verb was only found in publications so we had to infer its part-of-speech.
 * **Old verbs**: Boyacioglu provides paradigms for obsolete and archaic verbs. We faithfully replicated them in our verb list and paradigm list. Note the following facts:
   * **Obsolete verbs**: Boyacioglu listed paradigms for some archaic or obsolete verbs when end in the sequence -ուլ *-ul*. These are Classes 7, 8, 21, 22. These verbs are no longer used in modern spoken Armenian. 
