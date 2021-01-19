@@ -14,12 +14,12 @@ The files have both `xlsx` and `tsv` versions.  The transliterated forms are gen
 
 The structure of a paradigm file looks like the following. This is taken from the transliterated [verblist_trans](verblist_tsv/verblist_trans.tsv) file.
 
-|Index|	Verb|	Class number|	Subclass|	Example lemma|	Stem|	Regularity	|Initial segment	|Regular category|	Affix|
-|-	|-|	- |	- |	-|	-|	 -|	- |	- |	  -|
-|1|	akut͡sel|	1|	 |  erkel|akut͡s|	Regular|	V|		E-Class|	-el|
-|...	|...|... |... |...|	...| ...|...  |... |	  ...|	 
-|207|	paʒnvil	|4|	Passive|zzvil|	paʒn|	Regular	|C|	Passive|	-vil|
-|...	|...|... |... |...|	...| ...|...  |... |	  ...|	 
+|Index|	Verb|	Class number|	Subclass|	Example lemma|	Stem|	Regularity	|Initial segment	|Regular category|	Affix| Translation | Transitivity |
+|-	|-|	- |	- |	-|	-|	 -|	- |	- |	  -| -| -|  
+|1|	akut͡sel|	1|	 |  erkel|akut͡s|	Regular|	V|		E-Class|	-e| | Transitive|
+|...	|...|... |... |...|	...| ...|...  |... |	  ...|	... |...|
+|207|	paʒnvil	|4|	Passive|zzvil|	paʒn|	Regular	|C|	Passive|	-vil| To divide... | Intransitive|
+|...	|...|... |... |...|	...| ...|...  |... |	  ...|	... |... |
 
 Verbs are listed starting from the second row. The first row describes the information provided in every column:
 
@@ -33,8 +33,10 @@ Verbs are listed starting from the second row. The first row describes the infor
 7. **Initial segment**: The initial segment of all the lemmas of a class can either be a vowel `V` or a consonant `C`.
 8. **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
 9. **Affix**: The sequence of segments which follows the stem.
+10. **Translation**: A translation of the verb taken from Kouyoumdjian 2010 "A Comprehensive Dictionary Armenian-English", available on [Nayiri](http://www.nayiri.com/search?l=en&dt=HY_EN&r=0&query=). If a verb is not listed in Kouyoumdjian, then we omit a translation. Of the 3258 verbs from Boyacioglu 2010, 2749 did not appear in Kouyoumdjian and were not translatd. 
+11. **Transitivity**: The transitivity of the verb. Possible values are `Intranstive`, `Transitive`,  `Both`, or `Neither`. The transitivity values are mostly taken from Kouyoumdjian 2010 with some additions and modifications, discussed in the [modifications](../paradigms/modifications.md) file.
+ 
 
-Boyacioglu 2010 provides a partial list of semantic features for the verbs. We are working on getting a complete list of features.
 
 
 
