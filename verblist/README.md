@@ -33,7 +33,7 @@ Verbs are listed starting from the second row. The first row describes the infor
 7. **Initial segment**: The initial segment of all the lemmas of a class can either be a vowel `V` or a consonant `C`.
 8. **Regular category**: If a verb belongs to a regular class, this field provides its basic category. Possible values are `E-Class`, `I-Class`, `A-Class`, `Causative`,`Passive`,  `Inchoative`, or blank.
 9. **Affix**: The sequence of segments which follows the stem.
-10. **Translation**: A translation of the verb taken from Kouyoumdjian 1970 "A Comprehensive Dictionary Armenian-English", available on [Nayiri](http://www.nayiri.com/search?l=en&dt=HY_EN&r=0&query=). If a verb is not listed in Kouyoumdjian, then we omit a translation. Of the 3258 verbs from Boyacioglu 2010, 2749 did not appear in Kouyoumdjian and were not translatd. 
+10. **Translation**: A translation of the verb taken from Kouyoumdjian 1970 "A Comprehensive Dictionary Armenian-English", available on [Nayiri](http://www.nayiri.com/search?l=en&dt=HY_EN&r=0&query=). If the translation was a redirection to another Armenian word, then we translated that verb too. If a verb is not listed in Kouyoumdjian, then we omit a translation. Of the 3258 verbs from Boyacioglu 2010, 2749 did not appear in Kouyoumdjian and were not translated.  
 11. **Transitivity**: The transitivity of the verb. Possible values are `Intranstive`, `Transitive`,  `Both`, or `Neither`. The transitivity values are mostly taken from Kouyoumdjian 1970 with some additions and modifications, discussed in the [modifications](../paradigms/modifications.md) file.
 
 
