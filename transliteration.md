@@ -49,8 +49,8 @@ The table shows how orthgraphic characters are transliterated and pronounced, so
 ռ|r|r
 ր|r|r
 ւ|w|v or j|
-յ|j|h|word-initially|
-յ|j|h|elsewhere|
+յ|h|h|word-initially|
+յ|j|j|elsewhere|
 ՛|՛|
 
 
