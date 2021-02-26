@@ -49,7 +49,8 @@ The table shows how orthgraphic characters are transliterated and pronounced, so
 ռ|r|r
 ր|r|r
 ւ|w|v or j|
-յ|j|j
+յ|h|h|word-initially|
+յ|j|j|elsewhere|
 ՛|՛|
 
 
@@ -60,6 +61,7 @@ Our transliteration does not exactly match the orthography or the surface pronun
 2) **Fluid ւ**: Outside of the digraph ու, the letter ւ is traditionally transliterated as *w* but it can be pronounced as *v* or *j* depending on many complicated factors. The pronounciation of this letter does not affect the paradigm rules, so we simply transliterate it as *w*. 
 2) **Digraph ոյ**: The letter sequence ոյ is traditionally transliterated as the sequence *oj*. It is pronounced as *oj* before vowels or word-finally, and as *uj* elsewhere. Our transliteration matches the pronouncation.
 1) **Schwa epenthesis**: A schwa is pronounced in consonant clusters but not shown in the orthography. For example, the verb դնել 'to put' is pronounced as *tənel*. The schwa does not affect the paradigm rules, so we faithfully transliterate these consonant clusters without a schwa: *tnel*.
+2) **Initial յ**: The letter յ is usually pronounced as *h* word-initially, and as *j* elsewhere. There are some exceptions to this tendency which are not captured by the transliteration.
 2) **Initial ո**: The letter ո is pronounced as *o* word-medially but *vo* word-initially. The initial consonant *v* affects the paradigm rules. So we transliterate initial ո as *vo*. Note that the initial sequence ով is pronounced as *ov* without initial epenthesis. We do not represent this in our transliteration because there are no verbs with initial ով.
 2) **Initial ե**: In pronunciation, the glide *j* is epenthesized before the word-initial letter ե *e*. For example, the verb երգել 'to sing' is pronounced as *jerkel*. This glide is ignored by the paradigm rules. So we do not transliterate the epenthesized glide *j*: երգել is transliterated as *erkel*. Note that the letter է is also pronounced as *e* but it doesn't trigger word-initial epenthesis: էանալ 'to exist' is pronounced *ejanal*.
 1) **Silent letters**: In the orthography, the letter յ is usually pronounced as a glide *j*, but it is a silent letter word-finally. In the 3sg of verbs with the ա *a* theme vowel, the orthography shows a final glide յ *j* which is not pronounced. For example, the word կարդայ 'he reads' has a final glide յ in the spelling but it's pronounced as *garta*. We remove this silent glide in our transliteration.
