@@ -1,6 +1,6 @@
 # Verb list
 
-The verb list is taken from Boyacioglu 2010. He provides a list of 3258 verbs and notes their conjugation class. This folder contains a modified version of his verb list. The modifications are explained in the [modifications](../paradigms/modifications.md) file.
+The verb list is taken from Boyacioglu 2010. He provides a list of 3257 verbs and notes their conjugation class. This folder contains a modified version of his verb list. The modifications are explained in the [modifications](../paradigms/modifications.md) file.
 
 ## Types of verb list files
 
@@ -23,7 +23,7 @@ The structure of a paradigm file looks like the following. This is taken from th
 
 Verbs are listed starting from the second row. The first row describes the information provided in every column:
 
-1. **Index**: Unique index of a verb, ranging from 1 to 3258
+1. **Index**: Unique index of a verb, ranging from 1 to 3257
 2. **Verb**: Citation form of the verb, usually the infinitival, such as `akut͡sel`.
 3. **Class number**: Class number of the verb.
 4. **Subclass**: Subclass of the verb's class. If a verb's class doesn't have any subclasses, the value in this column is blank.
