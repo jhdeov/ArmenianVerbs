@@ -30,7 +30,7 @@ All material in this repo is open-source. If you use it, please cite the repo wi
 
 > Nisan Boyacioglu, & Hossep Dolatian. (2020, December 29). Armenian Verbs: Paradigms and verb lists of Western Armenian conjugation classes (Version v.1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4397423
 
-The paradigm files were generated using the open-source [Apertium](https://github.com/jhdeov/apertium-hyw) morphological analyzer for Western Armenian.
+The paradigm files were generated using the open-source [Apertium](https://github.com/apertium/apertium-hyw) morphological analyzer for Western Armenian.
 
 
 
